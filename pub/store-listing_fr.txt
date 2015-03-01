@@ -1,4 +1,4 @@
-Title: Bus RTC de Québec - MonTran…
+Title: Bus RTC de Québec - MonTransit
 ----------
 Short description: Informations des bus du RTC à Québec pour MonTransit BETA.
 ----------
