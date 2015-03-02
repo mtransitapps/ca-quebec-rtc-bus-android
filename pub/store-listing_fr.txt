@@ -1,18 +1,23 @@
-Title: Bus RTC de Québec - MonTransit
+Title: Bus RTC Québec - MonTransit
 ----------
-Short description: Informations des bus du RTC à Québec pour MonTransit BETA.
+Short description:
+Bus RTC à Québec pour MonTransit BETA
+Horaires. Tweets de @RTCQuebec
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 28 Février 2015 au 19 Juin 2015.
+Tweets de @RTCQuebec.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus RTC de Québec à MonTransit BETA.
 
-Le RTC dessert Québec.
+Cette application contient les horaires et les dernières nouvelles de @RTCQuebec sur Twitter.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
+
+Le RTC dessert la ville de Québec.
 
 Une fois cette application installée, l'application MonTransit BETA affichera les informations du bus (horaires ...).
 
@@ -27,3 +32,6 @@ Cette application est gratuite et open-source :
 https://github.com/mtransitapps/ca-quebec-rtc-bus-android
 
 Cette application n'est pas associée au Réseau de transport de la Capitale.
+
+Autorisations :
+- Autres: requis pour lire les nouvelles (Twitter)
