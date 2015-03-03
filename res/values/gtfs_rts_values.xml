@@ -3,13 +3,4 @@
     <integer name="gtfs_rts_db_version">20150302</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_quebec_rtc_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
-    <integer name="gtfs_rts_agency_type">3</integer>
-    <bool name="gtfs_rts_schedule_available">true</bool>
-    <bool name="gtfs_rts_frequency_available">false</bool> <!-- no frequencies -->
-    <string name="gtfs_rts_timezone">America/Montreal</string>
-    <string name="gtfs_rts_area_min_lat">46.733234</string>
-    <string name="gtfs_rts_area_max_lat">46.943394</string>
-    <string name="gtfs_rts_area_min_lng">-71.520958</string>
-    <string name="gtfs_rts_area_max_lng">-71.113419</string>
-    <string name="gtfs_rts_color">A3C614</string>
 </resources>
