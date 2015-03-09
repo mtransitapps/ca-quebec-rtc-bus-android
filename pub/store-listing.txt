@@ -1,4 +1,4 @@
-Title: Quebec RTC Bus - MonTransit
+Title: Quebec City RTC Bus - MonTran…
 ----------
 Short description:
 Quebec City RTC bus for MonTransit BETA
