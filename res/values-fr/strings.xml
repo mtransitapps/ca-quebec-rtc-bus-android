@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MonTransit RTC Bus (Québec)</string>
-    <string name="app_desc">Données des bus du RTC à Québec pour MonTransit.</string>
+    <string name="app_desc">Données des autobus du RTC à Québec pour MonTransit.</string>
 </resources>
