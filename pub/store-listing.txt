@@ -14,7 +14,7 @@ BETA: Thanks for your patience while the last features are being added and the l
 Full description:
 This application adds Quebec City RTC buses information to MonTransit BETA.
 
-This app contains the buses schedule and the latest news from www.rtcquebec.ca and @RTCQuebec on Twitter.
+This app contains the buses schedule and the latest news from www.rtcquebec.ca, YouTube and @RTCQuebec on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
@@ -35,7 +35,7 @@ https://github.com/mtransitapps/ca-quebec-rtc-bus-android
 This app is not related with Réseau de transport de la Capitale.
 
 Permissions:
-- Other: required to read news from www.rtcquebec.ca and Twitter.
+- Other: required to read news from www.rtcquebec.ca, YouTube and Twitter.
 ----------
 Application type: Applications
 ----------

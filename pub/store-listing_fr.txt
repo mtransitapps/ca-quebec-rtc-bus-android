@@ -14,7 +14,7 @@ BETA : Merci de votre patience pendant que les dernières fonctionnalités sont 
 Full description:
 Cette application ajoute les informations des autobus du RTC à Québec à MonTransit BETA.
 
-Cette application contient les horaires et les dernières nouvelles de www.rtcquebec.ca et @RTCQuebec sur Twitter.
+Cette application contient les horaires et les dernières nouvelles de www.rtcquebec.ca, YouTube et @RTCQuebec sur Twitter.
 
 BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
@@ -35,4 +35,4 @@ https://github.com/mtransitapps/ca-quebec-rtc-bus-android
 Cette application n'est pas associée au Réseau de transport de la Capitale.
 
 Autorisations :
-- Autres: requis pour lire les nouvelles de www.rtcquebec.ca et Twitter.
+- Autres: requis pour lire les nouvelles de www.rtcquebec.ca, YouTube et Twitter.
