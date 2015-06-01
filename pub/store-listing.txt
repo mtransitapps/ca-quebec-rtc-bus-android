@@ -15,7 +15,7 @@ This application adds Quebec City RTC buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from www.rtcquebec.ca, YouTube and @RTCQuebec on Twitter.
 
-RTC serves Quebec City.
+RTC serves Quebec City in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
