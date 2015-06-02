@@ -15,7 +15,7 @@ Cette application ajoute les informations des autobus du RTC à Québec à MonTr
 
 Cette application contient les horaires et les dernières nouvelles de www.rtcquebec.ca, YouTube et @RTCQuebec sur Twitter.
 
-Le RTC dessert la ville de Québec.
+Le RTC dessert la ville de Québec au Québec, Canada.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
