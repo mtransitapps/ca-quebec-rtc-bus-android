@@ -4,7 +4,7 @@
     <string name="rss_authority">org.mtransit.android.ca_quebec_rtc_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
-    <bool name="rss_copy_to_file_instead_of_streaming">true</bool><!-- FIX invalid RSS! -->
+    <bool name="rss_copy_to_file_instead_of_streaming">true</bool> <!-- FIX invalid RSS! -->
     <string name="rss_encoding">iso-8859-1</string>
     <string-array name="rss_feeds">
         <item>http://www.rtcquebec.ca/rtc/rss.aspx</item>
@@ -32,5 +32,11 @@
     </integer-array>
     <string-array name="rss_feeds_noteworthy">
         <item>@string/news_provider_noteworthy_long_term</item>
+    </string-array>
+    <string-array name="rss_feeds_ignore_guid">
+        <item>false</item>
+    </string-array>
+    <string-array name="rss_feeds_ignore_link">
+        <item>false</item>
     </string-array>
 </resources>
