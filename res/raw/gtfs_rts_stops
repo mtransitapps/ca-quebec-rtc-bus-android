@@ -226,7 +226,6 @@
 1264,'1264','Royal / Lortie',46.850027,-71.21106
 1265,'1265','Abraham / Ste-Geneviève',46.812699,-71.219976
 1266,'1266','Bastien / Bonne-Entente',46.849445,-71.304376
-1267,'1267','St-Jean / Youville',46.812291,-71.214786
 1270,'1270','Honoré-Mercier / René-Lévesque Est',46.810051,-71.213324
 1271,'1271','St-Louis / Auteuil',46.809934,-71.210322
 1272,'1272','St-Louis / Corps-De-Garde',46.811125,-71.208319
@@ -312,7 +311,6 @@
 1375,'1375','Canardière / Vitré',46.835889,-71.22317
 1376,'1376','Canardière / Montmorency',46.832139,-71.22447
 1377,'1377','Canardière / Au 2497',46.844599,-71.218645
-1378,'1378','Canardière / 8e Avenue',46.82864,-71.225839
 1380,'1380','Terminus Pie-XII',46.759323,-71.321571
 1381,'1381','3e Avenue / 9e Rue',46.825918,-71.229406
 1382,'1382','3e Avenue / 7e Rue',46.824585,-71.228169
@@ -429,7 +427,6 @@
 1534,'1534','René-Lévesque Ouest / Gérard-Morisset',46.78781,-71.255572
 1537,'1537','René-Lévesque Ouest / Myrand',46.783734,-71.262521
 1542,'1542','Séminaire / Bibliothèques',46.782024,-71.27194
-1546,'1546','Marché Champlain / Dalhousie',46.812118,-71.201964
 1549,'1549','Grande Allée Est / Louis-St-Laurent',46.803702,-71.221249
 1550,'1550','Quatre-Bourgeois / Ste-Foy',46.785581,-71.281816
 1553,'1553','Séminaire / Terrasse',46.783238,-71.273424
@@ -449,7 +446,6 @@
 1571,'1571','René-Lévesque Ouest / Maires-Gauthier',46.792388,-71.247593
 1572,'1572','René-Lévesque Ouest / Thornhill',46.793416,-71.245773
 1573,'1573','René-Lévesque Ouest / Joffre',46.794836,-71.243265
-1574,'1574','Entente / Marois',46.792669,-71.262975
 1575,'1575','René-Lévesque Ouest / Calixa-Lavallée',46.796895,-71.239337
 1576,'1576','René-Lévesque Ouest / Laurentides',46.798268,-71.237076
 1577,'1577','René-Lévesque Ouest / Bougainville',46.799142,-71.235372
@@ -557,6 +553,7 @@
 1698,'1698','Oblats / Durocher',46.810757,-71.236697
 1699,'1699','Oblats / Mazenod',46.811649,-71.235202
 1700,'1700','Watt / Au 2499',46.789732,-71.298535
+1702,'1702','St-Joachim / Youville',46.81204,-71.21456
 1709,'1709','Rocailles / Replats',46.835398,-71.277607
 1710,'1710','Rocailles / Replats',46.835217,-71.277761
 1712,'1712','3e Avenue / 5e Rue',46.823297,-71.226986
@@ -682,11 +679,6 @@
 1849,'1849','Grande Allée Ouest / Bourlamaque',46.801268,-71.225182
 1850,'1850','Grande Allée Ouest / Cartier',46.802022,-71.223895
 1851,'1851','Grande Allée Est / Galipeault',46.802895,-71.222427
-1852,'1852','Grande Allée Est / Turnbull',46.803878,-71.220684
-1853,'1853','Grande Allée Est / Claire-Fontaine',46.804642,-71.219332
-1854,'1854','Grande Allée Est / Général-De Montcalm',46.805652,-71.217616
-1855,'1855','Grande Allée Est / George-V Ouest',46.807098,-71.215093
-1856,'1856','Grande Allée Est / George-V Est',46.808326,-71.212947
 1857,'1857','Église / Laurier',46.766476,-71.288162
 1858,'1858','Église / Général-Tremblay',46.765376,-71.286312
 1859,'1859','Église / Au 1284',46.764225,-71.284411
@@ -2143,6 +2135,7 @@
 3467,'3467','Royal / Lisieux',46.853948,-71.203912
 3468,'3468','Royal / Martyrs',46.853189,-71.205896
 3469,'3469','Royal / Sanctuaire',46.852074,-71.208727
+3473,'3473','Royale / Rapides',46.890885,-71.149878
 3478,'3478','Chutes / Obiou',46.875716,-71.166886
 3479,'3479','Germaine-Viger / Tardif',46.911148,-71.199305
 3480,'3480','Germaine-Viger / Castillon',46.913089,-71.201142
@@ -2326,7 +2319,6 @@
 3678,'3678','Ste-Anne / Manège',46.855727,-71.186585
 3679,'3679','Ste-Anne / Au 3766',46.856423,-71.182935
 3680,'3680','Ste-Anne / Au 3806',46.857081,-71.17973
-3681,'3681','Léa-Roback / Petitclerc',46.859334,-71.211326
 3686,'3686','Ste-Thérèse / Arcandier',46.899969,-71.206076
 3689,'3689','121e Rue / Ste-Anne',46.870975,-71.162183
 3690,'3690','121e Rue / Ruel',46.871652,-71.163372
@@ -4153,7 +4145,6 @@
 5695,'5695','Terminus Charlesbourg - Quai C7',46.862154,-71.268064
 5696,'5696','Terminus Charlesbourg - Quai C6',46.861946,-71.268297
 5697,'5697','Terminus Charlesbourg - Quai B3',46.861976,-71.267852
-5698,'5698','Terminus Charlesbourg - Quai B2',46.861795,-71.267994
 5699,'5699','Terminus Charlesbourg - Quai C3',46.861706,-71.267769
 5700,'5700','Terminus Charlesbourg - Quai C5',46.861713,-71.268137
 5701,'5701','Terminus Charlesbourg - Quai C1',46.86188,-71.267378
@@ -4223,30 +4214,19 @@
 5809,'5809','Glazier / Victor-Delamarre',46.820965,-71.261947
 5810,'5810','Victor-Delamarre / Glazier',46.820831,-71.261722
 5811,'5811','Ste-Thérèse / St-Honoré',46.902844,-71.199446
-5812,'5812','Ste-Thérèse / Berrouard',46.90411,-71.196798
 5813,'5813','Victor-Delamarre / Maurice-Renaud',46.819952,-71.262719
 5814,'5814','Glazier / Henri-Landry',46.821807,-71.262431
 5815,'5815','Glazier / Samson',46.823149,-71.263642
 5816,'5816','Glazier / Henri-Landry',46.821842,-71.262641
 5817,'5817','Victor-Delamarre / Maurice-Renaud',46.820096,-71.262747
-5818,'5818','Ste-Thérèse / Berrouard',46.904226,-71.196904
-5819,'5819','Ste-Thérèse / St-Honoré',46.90295,-71.199657
 5820,'5820','Isabelle / Ste-Thérèse',46.901642,-71.201714
-5821,'5821','Lauréat-Bélanger / Louis-XIV',46.896859,-71.207033
-5822,'5822','Lauréat-Bélanger / Monge',46.894874,-71.205169
-5823,'5823','Lauréat-Bélanger / Jacqueline',46.893872,-71.204238
-5824,'5824','Nickner / St-Michel',46.892819,-71.202898
-5825,'5825','Nordique / Escaut',46.885574,-71.200324
-5826,'5826','Nordique / Carole',46.884332,-71.203404
 5827,'5827','Louis-XIV / Glinel',46.889786,-71.217569
 5828,'5828','Louis-XIV / Pierre-Collard',46.888661,-71.220652
 5829,'5829','Louis-XIV / Rimbaud',46.887644,-71.224876
 5830,'5830','Louis-XIV / Au 2145',46.886912,-71.228107
 5831,'5831','Louis-XIV / Au 2101',46.885795,-71.232619
 5832,'5832','Louis-XIV / Face Au 1774',46.882888,-71.239835
-5833,'5833','Louis-XIV / Astrid',46.881792,-71.242274
 5834,'5834','Louis-XIV / Bourg-Royal',46.879912,-71.246381
-5835,'5835','3e Avenue Est / Moulin-Des-Jésuites',46.863154,-71.263881
 5836,'5836','Louis-XIV / Bourg-Royal',46.879353,-71.246662
 5837,'5837','Louis-XIV / Astrid',46.881794,-71.241959
 5838,'5838','Louis-XIV / Au 1774',46.882826,-71.239585
@@ -4255,13 +4235,6 @@
 5841,'5841','Louis-XIV / Rimbaud',46.887445,-71.225044
 5842,'5842','Louis-XIV / Montpellier',46.888266,-71.221735
 5843,'5843','Louis-XIV / St-Michel',46.88956,-71.21771
-5844,'5844','Nordique / Carole',46.884133,-71.203625
-5845,'5845','Nordique / Escaut',46.885402,-71.200479
-5846,'5846','Nickner / St-Michel',46.892946,-71.202677
-5847,'5847','Lauréat-Bélanger / Jacqueline',46.893846,-71.203988
-5848,'5848','Lauréat-Bélanger / Monge',46.894776,-71.204906
-5849,'5849','Lauréat-Bélanger / Louis-XIV',46.897021,-71.207022
-5850,'5850','Ste-Thérèse / St-Albert',46.904886,-71.194944
 5851,'5851','Sommeliers / Lapierre',46.864633,-71.331807
 5853,'5853','Martel / Aimé-Lantier',46.847145,-71.348832
 5854,'5854','Martel / Durand',46.845697,-71.347485
@@ -4437,19 +4410,7 @@
 6193,'6193','Fossambault / Copenhague',46.746565,-71.460278
 6194,'6194','Fossambault / Face Au 132',46.744555,-71.457546
 6195,'6195','Fossambault / Au 132',46.744664,-71.457378
-6196,'6196','Hêtrière / Lionel-Groulx',46.744771,-71.389756
-6197,'6197','Hêtrière / Lionel-Groulx',46.744556,-71.390348
 6199,'6199','Hêtrière / Butte',46.741516,-71.393878
-6200,'6200','Hêtrière / Gaboury',46.746119,-71.388497
-6201,'6201','Hêtrière / Verger',46.746326,-71.3885
-6202,'6202','Hêtrière / Sourcin',46.748325,-71.38602
-6203,'6203','Hêtrière / Sourcin',46.748523,-71.385997
-6204,'6204','Hêtrière / Delisle',46.749837,-71.383597
-6205,'6205','Hêtrière / Delisle',46.750108,-71.383432
-6206,'6206','Hêtrière / Maranda',46.75123,-71.381408
-6207,'6207','Hêtrière / Maranda',46.751328,-71.381515
-6208,'6208','Hêtrière / Beaupré',46.752741,-71.379181
-6209,'6209','Hêtrière / Beaupré',46.75273,-71.379469
 6210,'6210','Copenhague / Amsterdam',46.747881,-71.458888
 6211,'6211','Copenhague / Amsterdam',46.748579,-71.458338
 6212,'6212','Copenhague / Au 225',46.75044,-71.455269

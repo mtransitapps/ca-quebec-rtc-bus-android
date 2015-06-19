@@ -62,8 +62,6 @@
 5701,0,'Terminus Beauport (Sud)',57
 5800,0,'Ste-Thérèse-De-Lisieux (Nord)',58
 5801,0,'Terminus Beauport (Sud)',58
-5900,0,'Ste-Thérèse-De-Lisieux (Est)',59
-5901,0,'Terminus Charlesbourg (Ouest)',59
 6100,0,'41e Rue Est (Est)',61
 6101,0,'Lebourgneuf (Ouest)',61
 6400,0,'Lebourgneuf (Nord)',64
@@ -103,10 +101,6 @@
 9200,0,'Ste-Foy Centre (Est)',92
 9300,0,'Champigny (Nord)',93
 9301,0,'Ste-Foy Centre / Univ.Laval / Cégep Garneau (Sud)',93
-9400,0,'Cégep Garneau (Est)',94
-9401,0,'St-Augustin (Ouest)',94
-9500,0,'Cégep Garneau (Est)',95
-9501,0,'St-Augustin (Ouest)',95
 10700,0,'Gare Du Palais (Est)',107
 10701,0,'Pointe-De-Ste-Foy (Ouest)',107
 11100,0,'Place D''Youville (Est)',111
