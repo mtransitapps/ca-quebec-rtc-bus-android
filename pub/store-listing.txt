@@ -5,7 +5,7 @@ Quebec City RTC bus for MonTransit.
 Schedules. News.
 ----------
 What's new in this version?:
-Schedule from August 3, 2015 to December 4, 2015.
+Schedule from August 5, 2015 to December 4, 2015.
 News from www.rtcquebec.ca.
 Tweets from @RTCQuebec.
 ----------
