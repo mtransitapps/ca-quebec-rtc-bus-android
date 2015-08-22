@@ -1,5 +1,5 @@
 101,0,'Gare Fluviale / Cap-Blanc (Sud)',1
-100,0,'Station Belvédère (Nord)',1
+100,0,'Ston Belvédère (Nord)',1
 300,0,'Ste-Odile (Nord)',3
 301,0,'Vieux-Québec / Colline Parlementaire (Sud)',3
 400,0,'Maizerets (Nord)',4
@@ -24,7 +24,7 @@
 1801,0,'Université Laval (Ouest)',18
 2100,0,'Gare Fluviale (Est)',21
 2101,0,'Place D''Youville (Ouest)',21
-2200,0,'Parc Industriel De Carillon (Nord)',22
+2200,0,'Parc Ind. De Carillon (Nord)',22
 2201,0,'Ste-Foy Centre (Sud)',22
 2500,0,'Place D''Youville / Gare Du Palais (Est)',25
 2501,0,'Pointe-De-Ste-Foy (Ouest)',25
@@ -36,12 +36,12 @@
 3101,0,'Terminus Du Zoo (Sud)',31
 3200,0,'Lac Clément (Nord)',32
 3201,0,'Terminus Du Zoo (Sud)',32
-3300,0,'Parc Industriel Charlesbourg (Nord)',33
+3300,0,'Parc Ind. Charlesbourg (Nord)',33
 3301,0,'Terminus Du Zoo (Sud)',33
 3400,0,'Laurentides (Nord)',34
 3401,0,'Terminus Du Zoo (Sud)',34
 3601,0,'Place Jacques-Cartier (Sud)',36
-3600,0,'Station Des Roses (Nord)',36
+3600,0,'Ston Des Roses (Nord)',36
 3701,0,'41e Rue Est / Colline Parlementaire (Sud)',37
 3700,0,'Terminus Charlesbourg / Jean-Talon Ouest (Nord)',37
 3901,0,'41e Rue Est (Sud)',39
@@ -97,7 +97,7 @@
 8600,0,'Terminus Les Saules (Nord)',86
 8700,0,'Loretteville (Nord)',87
 8701,0,'Ste-Foy Centre (Sud)',87
-8801,0,'Parc Industriel De Carillon (Ouest)',88
+8801,0,'Parc Ind. De Carillon (Ouest)',88
 8800,0,'Terminus Les Saules (Est)',88
 9201,0,'St-Augustin (Ouest)',92
 9200,0,'Ste-Foy Centre (Est)',92
@@ -116,9 +116,9 @@
 13300,0,'Terminus Du Zoo (Nord)',133
 13301,0,'Vieux-Québec (Sud)',133
 13601,0,'Colline Parlementaire (Sud)',136
-13600,0,'Montagne-Des-Roches (Nord)',136
+13600,0,'Mgne-Des-Roches (Nord)',136
 18500,0,'Neufchâtel (Nord)',185
-18501,0,'Station Belvédère / Ste-Foy Centre (Sud)',185
+18501,0,'Ston Belvédère / Ste-Foy Centre (Sud)',185
 21401,0,'Cap-Rouge (Ouest)',214
 21400,0,'Gare Du Palais (Est)',214
 21501,0,'Cap-Rouge (Ouest)',215
@@ -126,7 +126,7 @@
 23001,0,'Colline Parlementaire (Sud)',230
 23000,0,'Terminus Du Zoo (Nord)',230
 23601,0,'Colline Parlementaire (Sud)',236
-23600,0,'Station Des Roses (Nord)',236
+23600,0,'Ston Des Roses (Nord)',236
 23801,0,'Colline Parlementaire (Sud)',238
 23800,0,'Guillaume-Mathieu (Nord)',238
 23901,0,'Colline Parlementaire (Sud)',239
@@ -175,11 +175,11 @@
 33100,0,'Terminus Du Zoo (Nord)',331
 33200,0,'St-Rodrigue (Nord)',332
 33201,0,'Ste-Foy Centre (Sud)',332
-33600,0,'Station Des Roses (Nord)',336
+33600,0,'Ston Des Roses (Nord)',336
 33601,0,'Univ.Laval / Cégep Garneau (Sud)',336
 33700,0,'Terminus Du Zoo (Nord)',337
 33701,0,'Univ.Laval / Cégep Garneau (Sud)',337
-33800,0,'Montagne-Des-Roches (Nord)',338
+33800,0,'Mgne-Des-Roches (Nord)',338
 33801,0,'Univ.Laval / Cégep Garneau (Sud)',338
 35000,0,'Courville / Boischatel (Nord)',350
 35001,0,'Univ.Laval / Cégep Garneau (Sud)',350
@@ -205,8 +205,8 @@
 38401,0,'Univ.Laval / Cégep Garneau (Sud)',384
 39101,0,'Pointe-De-Ste-Foy (Sud)',391
 39100,0,'Terminus Les Saules (Nord)',391
-53000,0,'Station Des Roses (Nord)',530
 53001,0,'Ste-Foy Centre (Sud)',530
+53000,0,'Ston Des Roses (Nord)',530
 53601,0,'Ste-Foy Centre (Sud)',536
 53600,0,'Ste-Thérèse-De-Lisieux (Nord)',536
 53701,0,'Ste-Foy Centre (Sud)',537
@@ -237,7 +237,7 @@
 80001,0,'Pointe-De-Ste-Foy (Ouest)',800
 80100,0,'Charlesbourg (Est)',801
 80101,0,'Pointe-De-Ste-Foy (Ouest)',801
-80201,0,'Station Belvédère (Ouest)',802
+80201,0,'Ston Belvédère (Ouest)',802
 80200,0,'Terminus Beauport (Est)',802
 80300,0,'Terminus Beauport (Est)',803
 80301,0,'Terminus Les Saules (Ouest)',803
@@ -247,13 +247,59 @@
 92501,0,'Pointe-De-Ste-Foy (Ouest)',925
 93100,0,'Lac-St-Charles (Nord)',931
 93101,0,'Place D''Youville (Sud)',931
-93600,0,'Station Des Roses (Nord)',936
+93600,0,'Ston Des Roses (Nord)',936
 95000,0,'Boischatel (Est)',950
 95400,0,'Ste-Thérèse-De-Lisieux (Nord)',954
 97201,0,'Loretteville / Val-Bélair (Ouest)',972
 98000,0,'Ancienne-Lorette (Nord)',980
 98200,0,'Lac-St-Charles (Nord)',982
-98400,0,'Neufchâtel / Val-Bélair (Nord)',984
+98400,0,'Neufchâtel (Nord)',984
 98700,0,'Loretteville (Nord)',987
 99201,0,'St-Augustin (Ouest)',992
 1000100,0,'Colline Parlementaire (Nord)',10001
+1000301,0,'Lilas Ouest / Duval (Sud)',10003
+1000300,0,'St-Jean-Eudes (Nord)',10003
+1001301,0,'Terrebonne / Suète (Ouest)',10013
+1001300,0,'École Secondaire De Rochebelle (Est)',10013
+1001400,0,'Collège Des Compagnons (Est)',10014
+1001401,0,'Riv. / Domaine (Ouest)',10014
+1001500,0,'Collège Des Compagnons (Est)',10015
+1001501,0,'Prom.-Des-Soeurs / J.-C.-Cantin (Ouest)',10015
+1005401,0,'Académie Ste-Marie (Sud)',10054
+1005400,0,'St-Honoré / Ste-Thérèse (Nord)',10054
+1005501,0,'Académie Ste-Marie (Sud)',10055
+1005500,0,'G.-Viger / Sablonnières (Nord)',10055
+1007900,0,'Chauveau Ouest / Borduas (Nord)',10079
+1007901,0,'École Sec. Polyvalente L''Ancienne-Lorette (Sud)',10079
+1008001,0,'Terminus Les Saules (Sud)',10080
+1008000,0,'École Sec. Polyvalente L''Ancienne-Lorette (Nord)',10080
+1008201,0,'Samson / Baker (Sud)',10082
+1008200,0,'St-Jean-Eudes (Nord)',10082
+1009201,0,'Campus Notre-Dame-De-Foy (Ouest)',10092
+1009200,0,'Terminus Charlesbourg (Est)',10092
+2001301,0,'Sapins / Versant-Nord (Ouest)',20013
+2001300,0,'École Secondaire De Rochebelle (Est)',20013
+2001500,0,'Collège Des Compagnons (Est)',20015
+2001501,0,'E.-Blondin / Prom-Des-Soeurs (Ouest)',20015
+2007901,0,'Terminus Les Saules (Sud)',20079
+2007900,0,'École Sec. Polyvalente L''Ancienne-Lorette (Nord)',20079
+7000301,0,'18e Rue / 8e Av. (Sud)',70003
+7000300,0,'Lilas Ouest / Colisée (Nord)',70003
+7001101,0,'C.-Laforte / McCartney (Ouest)',70011
+7001401,0,'Carougeois / J.-C.-Cantin (Ouest)',70014
+7001400,0,'Collège Jésus-Marie De Sillery (Est)',70014
+7002501,0,'Terminus De Marly (Ouest)',70025
+7005400,0,'St-Honoré / Ste-Thérèse (Nord)',70054
+7005401,0,'École Secondaire De La Seigneurie (Sud)',70054
+7005500,0,'G.-Viger / Sablonnières (Nord)',70055
+7005501,0,'École Secondaire De La Seigneurie (Sud)',70055
+7007900,0,'St-Jean-Baptiste / Michelet (Nord)',70079
+7007901,0,'École Secondaire La Camaradière (Sud)',70079
+7008001,0,'O''Neil / W.-Hamel (Sud)',70080
+7008000,0,'École Secondaire La Camaradière (Nord)',70080
+7008400,0,'Costebelle / Pertuis (Nord)',70084
+7008401,0,'École Secondaire La Camaradière (Sud)',70084
+7008601,0,'Père-Lelièvre / Godin (Sud)',70086
+7008600,0,'École Secondaire La Camaradière (Nord)',70086
+8005500,0,'St-Michel / Bessette (Nord)',80055
+8005501,0,'École Secondaire De La Seigneurie (Sud)',80055
