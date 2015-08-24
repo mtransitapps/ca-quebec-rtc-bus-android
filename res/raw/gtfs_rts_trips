@@ -18,8 +18,8 @@
 1400,0,'Pointe-De-Ste-Foy (Est)',14
 1501,0,'Cap-Rouge (Ouest)',15
 1500,0,'Pointe-De-Ste-Foy (Est)',15
-1600,0,'Sillery / U. Laval / Ste-Foy Centre (Est)',16
-1601,0,'U. Laval / Sillery / Ste-Foy Centre (Ouest)',16
+1600,0,'Sillery / U Laval / Ste-Foy Centre (Est)',16
+1601,0,'U Laval / Sillery / Ste-Foy Centre (Ouest)',16
 1800,0,'Gare Du Palais (Est)',18
 1801,0,'Université Laval (Ouest)',18
 2100,0,'Gare Fluviale (Est)',21
@@ -69,7 +69,7 @@
 6400,0,'Lebourgneuf (Nord)',64
 6401,0,'Place Jacques-Cartier (Sud)',64
 6500,0,'Lebourgneuf (Nord)',65
-6501,0,'Place J.-Cartier / Colline Parlementaire (Sud)',65
+6501,0,'Place J-Cartier / Colline Parlementaire (Sud)',65
 7000,0,'Loretteville (Est)',70
 7201,0,'Loretteville (Ouest)',72
 7200,0,'Terminus Charlesbourg (Est)',72
@@ -79,7 +79,7 @@
 7500,0,'Loretteville (Nord)',75
 7701,0,'Terminus Les Saules (Sud)',77
 7700,0,'Val-Bélair / Base Militaire (Nord)',77
-7801,0,'Aéroport Int. Jean-Lesage (Ouest)',78
+7801,0,'Aéroport Int Jean-Lesage (Ouest)',78
 7800,0,'Terminus Les Saules (Est)',78
 7900,0,'Ancienne-Lorette (Nord)',79
 7901,0,'Terminus Les Saules / Belvédère (Sud)',79
@@ -93,7 +93,7 @@
 8401,0,'Place Jacques-Cartier (Sud)',84
 8500,0,'Lebourgneuf (Nord)',85
 8501,0,'Place Jacques-Cartier (Sud)',85
-8601,0,'Place J.-Cartier / Colline Parlementaire (Sud)',86
+8601,0,'Place J-Cartier / Colline Parlementaire (Sud)',86
 8600,0,'Terminus Les Saules (Nord)',86
 8700,0,'Loretteville (Nord)',87
 8701,0,'Ste-Foy Centre (Sud)',87
@@ -264,15 +264,15 @@
 1001400,0,'Collège Des Compagnons (Est)',10014
 1001401,0,'Riv. / Domaine (Ouest)',10014
 1001500,0,'Collège Des Compagnons (Est)',10015
-1001501,0,'Prom.-Des-Soeurs / J.-C.-Cantin (Ouest)',10015
+1001501,0,'Prom-Des-Soeurs / J-C-Cantin (Ouest)',10015
 1005401,0,'Académie Ste-Marie (Sud)',10054
 1005400,0,'St-Honoré / Ste-Thérèse (Nord)',10054
 1005501,0,'Académie Ste-Marie (Sud)',10055
-1005500,0,'G.-Viger / Sablonnières (Nord)',10055
+1005500,0,'G-Viger / Sablonnières (Nord)',10055
 1007900,0,'Chauveau Ouest / Borduas (Nord)',10079
-1007901,0,'École Sec. Polyvalente L''Ancienne-Lorette (Sud)',10079
+1007901,0,'École Sec Polyvalente L''Ancienne-Lorette (Sud)',10079
 1008001,0,'Terminus Les Saules (Sud)',10080
-1008000,0,'École Sec. Polyvalente L''Ancienne-Lorette (Nord)',10080
+1008000,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',10080
 1008201,0,'Samson / Baker (Sud)',10082
 1008200,0,'St-Jean-Eudes (Nord)',10082
 1009201,0,'Campus Notre-Dame-De-Foy (Ouest)',10092
@@ -280,22 +280,22 @@
 2001301,0,'Sapins / Versant-Nord (Ouest)',20013
 2001300,0,'École Secondaire De Rochebelle (Est)',20013
 2001500,0,'Collège Des Compagnons (Est)',20015
-2001501,0,'E.-Blondin / Prom-Des-Soeurs (Ouest)',20015
+2001501,0,'E-Blondin / Prom-Des-Soeurs (Ouest)',20015
 2007901,0,'Terminus Les Saules (Sud)',20079
-2007900,0,'École Sec. Polyvalente L''Ancienne-Lorette (Nord)',20079
+2007900,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',20079
 7000301,0,'18e Rue / 8e Av. (Sud)',70003
 7000300,0,'Lilas Ouest / Colisée (Nord)',70003
-7001101,0,'C.-Laforte / McCartney (Ouest)',70011
-7001401,0,'Carougeois / J.-C.-Cantin (Ouest)',70014
+7001101,0,'C-Laforte / McCartney (Ouest)',70011
+7001401,0,'Carougeois / J-C-Cantin (Ouest)',70014
 7001400,0,'Collège Jésus-Marie De Sillery (Est)',70014
 7002501,0,'Terminus De Marly (Ouest)',70025
 7005400,0,'St-Honoré / Ste-Thérèse (Nord)',70054
 7005401,0,'École Secondaire De La Seigneurie (Sud)',70054
-7005500,0,'G.-Viger / Sablonnières (Nord)',70055
+7005500,0,'G-Viger / Sablonnières (Nord)',70055
 7005501,0,'École Secondaire De La Seigneurie (Sud)',70055
 7007900,0,'St-Jean-Baptiste / Michelet (Nord)',70079
 7007901,0,'École Secondaire La Camaradière (Sud)',70079
-7008001,0,'O''Neil / W.-Hamel (Sud)',70080
+7008001,0,'O''Neil / W-Hamel (Sud)',70080
 7008000,0,'École Secondaire La Camaradière (Nord)',70080
 7008400,0,'Costebelle / Pertuis (Nord)',70084
 7008401,0,'École Secondaire La Camaradière (Sud)',70084
