@@ -78,7 +78,7 @@
 7501,0,'Lebourgneuf (Sud)',75
 7500,0,'Loretteville (Nord)',75
 7701,0,'Terminus Les Saules (Sud)',77
-7700,0,'Val-Bélair / Base Militaire (Nord)',77
+7700,0,'Val-Bélair (Nord)',77
 7801,0,'Aéroport Int Jean-Lesage (Ouest)',78
 7800,0,'Terminus Les Saules (Est)',78
 7900,0,'Ancienne-Lorette (Nord)',79
@@ -160,7 +160,7 @@
 28401,0,'Colline Parlementaire (Sud)',284
 28400,0,'Loretteville (Nord)',284
 28901,0,'Colline Parlementaire (Sud)',289
-28900,0,'St-Emile (Nord)',289
+28900,0,'St-Émile (Nord)',289
 29000,0,'Loretteville (Nord)',290
 29001,0,'Vieux-Québec (Sud)',290
 29400,0,'Place Jacques-Cartier (Est)',294
@@ -199,7 +199,7 @@
 38001,0,'Univ.Laval / Cégep Garneau (Sud)',380
 38100,0,'Neufchâtel (Nord)',381
 38101,0,'Univ.Laval / Cégep Garneau (Sud)',381
-38200,0,'St-Emile (Nord)',382
+38200,0,'St-Émile (Nord)',382
 38201,0,'Univ.Laval / Cégep Garneau (Sud)',382
 38400,0,'Loretteville (Nord)',384
 38401,0,'Univ.Laval / Cégep Garneau (Sud)',384
@@ -229,7 +229,7 @@
 58001,0,'Ste-Foy Centre (Sud)',580
 58100,0,'Lebourgneuf / Neufchâtel (Nord)',581
 58101,0,'Lebourgneuf / Ste-Foy Centre (Sud)',581
-58200,0,'Lebourgneuf / St-Emile (Nord)',582
+58200,0,'Lebourgneuf / St-Émile (Nord)',582
 58201,0,'Lebourgneuf / Ste-Foy Centre (Sud)',582
 58400,0,'Loretteville (Nord)',584
 58401,0,'Ste-Foy Centre (Sud)',584
