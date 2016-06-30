@@ -62,8 +62,6 @@
 5701,0,'Terminus Beauport (Sud)',57
 5800,0,'Ste-Thérèse-De-Lisieux (Nord)',58
 5801,0,'Terminus Beauport (Sud)',58
-5900,0,'Ste-Thérèse-De-Lisieux (Est)',59
-5901,0,'Terminus Charlesbourg (Ouest)',59
 6100,0,'41e Rue Est (Est)',61
 6101,0,'Lebourgneuf (Ouest)',61
 6400,0,'Lebourgneuf (Nord)',64
@@ -103,10 +101,6 @@
 9200,0,'Ste-Foy Centre (Est)',92
 9300,0,'Champigny (Nord)',93
 9301,0,'Ste-Foy Centre / Univ.Laval / Cégep Garneau (Sud)',93
-9400,0,'Cégep Garneau (Est)',94
-9401,0,'St-Augustin (Ouest)',94
-9500,0,'Cégep Garneau (Est)',95
-9501,0,'St-Augustin (Ouest)',95
 10700,0,'Gare Du Palais (Est)',107
 10701,0,'Pointe-De-Ste-Foy (Ouest)',107
 11100,0,'Place D''Youville (Est)',111
@@ -257,49 +251,3 @@
 98700,0,'Loretteville (Nord)',987
 99201,0,'St-Augustin (Ouest)',992
 1000100,0,'Colline Parlementaire (Nord)',10001
-1000301,0,'Lilas Ouest / Duval (Sud)',10003
-1000300,0,'St-Jean-Eudes (Nord)',10003
-1001301,0,'Terrebonne / Suète (Ouest)',10013
-1001300,0,'École Secondaire De Rochebelle (Est)',10013
-1001400,0,'Collège Des Compagnons (Est)',10014
-1001401,0,'Riv. / Domaine (Ouest)',10014
-1001500,0,'Collège Des Compagnons (Est)',10015
-1001501,0,'Prom-Des-Soeurs / J-C-Cantin (Ouest)',10015
-1005401,0,'Académie Ste-Marie (Sud)',10054
-1005400,0,'St-Honoré / Ste-Thérèse (Nord)',10054
-1005501,0,'Académie Ste-Marie (Sud)',10055
-1005500,0,'G-Viger / Sablonnières (Nord)',10055
-1007900,0,'Chauveau Ouest / Borduas (Nord)',10079
-1007901,0,'École Sec Polyvalente L''Ancienne-Lorette (Sud)',10079
-1008001,0,'Terminus Les Saules (Sud)',10080
-1008000,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',10080
-1008201,0,'Samson / Baker (Sud)',10082
-1008200,0,'St-Jean-Eudes (Nord)',10082
-1009201,0,'Campus Notre-Dame-De-Foy (Ouest)',10092
-1009200,0,'Terminus Charlesbourg (Est)',10092
-2001301,0,'Sapins / Versant-Nord (Ouest)',20013
-2001300,0,'École Secondaire De Rochebelle (Est)',20013
-2001500,0,'Collège Des Compagnons (Est)',20015
-2001501,0,'E-Blondin / Prom-Des-Soeurs (Ouest)',20015
-2007901,0,'Terminus Les Saules (Sud)',20079
-2007900,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',20079
-7000301,0,'18e Rue / 8e Av. (Sud)',70003
-7000300,0,'Lilas Ouest / Colisée (Nord)',70003
-7001101,0,'C-Laforte / McCartney (Ouest)',70011
-7001401,0,'Carougeois / J-C-Cantin (Ouest)',70014
-7001400,0,'Collège Jésus-Marie De Sillery (Est)',70014
-7002501,0,'Terminus De Marly (Ouest)',70025
-7005400,0,'St-Honoré / Ste-Thérèse (Nord)',70054
-7005401,0,'École Secondaire De La Seigneurie (Sud)',70054
-7005500,0,'G-Viger / Sablonnières (Nord)',70055
-7005501,0,'École Secondaire De La Seigneurie (Sud)',70055
-7007900,0,'St-Jean-Baptiste / Michelet (Nord)',70079
-7007901,0,'École Secondaire La Camaradière (Sud)',70079
-7008001,0,'O''Neil / W-Hamel (Sud)',70080
-7008000,0,'École Secondaire La Camaradière (Nord)',70080
-7008400,0,'Costebelle / Pertuis (Nord)',70084
-7008401,0,'École Secondaire La Camaradière (Sud)',70084
-7008601,0,'Père-Lelièvre / Godin (Sud)',70086
-7008600,0,'École Secondaire La Camaradière (Nord)',70086
-8005500,0,'St-Michel / Bessette (Nord)',80055
-8005501,0,'École Secondaire De La Seigneurie (Sud)',80055
