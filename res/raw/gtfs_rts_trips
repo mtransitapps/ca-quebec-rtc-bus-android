@@ -4,12 +4,8 @@
 301,0,'Vieux-Québec / Colline Parlementaire (Sud)',3
 400,0,'Maizerets (Nord)',4
 401,0,'Place Jacques-Cartier (Sud)',4
-700,0,'Place D''Youville / Vieux-Québec (Est)',7
-701,0,'Pointe-De-Ste-Foy (Ouest)',7
 901,0,'Parc Colbert Est (Ouest)',9
 900,0,'Place Jacques-Cartier (Est)',9
-1001,0,'Cégep Garneau (Sud)',10
-1000,0,'Marie-De-L''Incarnation (Nord)',10
 1100,0,'Place D''Youville / Vieux-Québec (Est)',11
 1101,0,'Pointe-De-Ste-Foy (Ouest)',11
 1300,0,'St-Louis / Ste-Foy Centre / Versant-Nord (Est)',13
@@ -77,8 +73,8 @@
 7200,0,'Terminus Charlesbourg (Est)',72
 7401,0,'Place Jacques-Cartier (Sud)',74
 7400,0,'Val-Bélair (Nord)',74
-7501,0,'Lebourgneuf (Sud) / Ste-Foy Centre (Sud)',75
 7500,0,'Loretteville (Nord)',75
+7501,0,'Ste-Foy Centre (Sud)',75
 7701,0,'Terminus Les Saules (Sud)',77
 7700,0,'Val-Bélair (Nord)',77
 7801,0,'Aéroport Int Jean-Lesage (Ouest)',78
