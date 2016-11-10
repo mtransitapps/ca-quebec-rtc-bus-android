@@ -21,7 +21,7 @@
 1901,0,'Grand Théâtre (Sud)',19
 1900,0,'Limoilou (Nord)',19
 2100,0,'Gare Fluviale (Est)',21
-2101,0,'Place D''Youville (Ouest)',21
+2101,0,'Ouest',21
 2200,0,'Parc Ind. De Carillon (Nord)',22
 2201,0,'Ste-Foy Centre (Sud)',22
 2500,0,'Place D''Youville / Gare Du Palais (Est)',25
@@ -87,7 +87,7 @@
 8101,0,'Terminus Les Saules (Sud)',81
 8200,0,'Lac-St-Charles (Nord)',82
 8201,0,'Place Jacques-Cartier (Sud)',82
-8400,0,'Neufchâtel (Nord)',84
+8400,0,'Nord',84
 8401,0,'Place Jacques-Cartier (Sud)',84
 8500,0,'Lebourgneuf (Nord)',85
 8501,0,'Place Jacques-Cartier (Sud)',85
@@ -239,8 +239,11 @@
 80200,0,'Terminus Beauport (Est)',802
 80300,0,'Terminus Beauport (Est)',803
 80301,0,'Terminus Les Saules (Ouest)',803
+80400,0,'Loretteville (Nord)',804
+80401,0,'Ste-Foy Centre (Sud)',804
 80700,0,'Place D''Youville (Est)',807
 80701,0,'Pointe-De-Ste-Foy (Ouest)',807
+90400,0,'Loretteville (Nord)',904
 90700,0,'Place D''Youville (Est)',907
 90701,0,'Pointe-De-Ste-Foy (Ouest)',907
 91501,0,'Cap-Rouge (Ouest)',915
