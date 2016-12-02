@@ -21,7 +21,7 @@
 1901,0,'Grand Théâtre (Sud)',19
 1900,0,'Limoilou (Nord)',19
 2100,0,'Gare Fluviale (Est)',21
-2101,0,'Ouest',21
+2101,0,'Musée National Des Beaux-Arts (Ouest)',21
 2200,0,'Parc Ind. De Carillon (Nord)',22
 2201,0,'Ste-Foy Centre (Sud)',22
 2500,0,'Place D''Youville / Gare Du Palais (Est)',25
@@ -87,14 +87,12 @@
 8101,0,'Terminus Les Saules (Sud)',81
 8200,0,'Lac-St-Charles (Nord)',82
 8201,0,'Place Jacques-Cartier (Sud)',82
-8400,0,'Nord',84
+8400,0,'Loretteville (Nord)',84
 8401,0,'Place Jacques-Cartier (Sud)',84
 8500,0,'Lebourgneuf (Nord)',85
 8501,0,'Place Jacques-Cartier (Sud)',85
 8601,0,'Place J-Cartier / Colline Parlementaire (Sud)',86
 8600,0,'Terminus Les Saules (Nord)',86
-8700,0,'Loretteville (Nord)',87
-8701,0,'Ste-Foy Centre (Sud)',87
 8801,0,'Parc Ind. De Carillon (Ouest)',88
 8800,0,'Terminus Les Saules (Est)',88
 9201,0,'St-Augustin (Ouest)',92
@@ -257,7 +255,6 @@
 98000,0,'Ancienne-Lorette (Nord)',980
 98200,0,'Lac-St-Charles (Nord)',982
 98400,0,'Neufchâtel (Nord)',984
-98700,0,'Loretteville (Nord)',987
 99201,0,'St-Augustin (Ouest)',992
 1000100,0,'Colline Parlementaire (Nord)',10001
 1000301,0,'Lilas Ouest / Duval (Sud)',10003
