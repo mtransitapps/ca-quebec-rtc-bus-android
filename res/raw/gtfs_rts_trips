@@ -1,305 +1,248 @@
-101,0,'Gare Fluviale / Cap-Blanc (Sud)',1
-100,0,'Ston Belvédère (Nord)',1
-300,0,'Ste-Odile (Nord)',3
-301,0,'Vieux-Québec / Colline Parlementaire (Sud)',3
-400,0,'Maizerets (Nord)',4
-401,0,'Place Jacques-Cartier (Sud)',4
-901,0,'Parc Colbert Est (Ouest)',9
-900,0,'Place Jacques-Cartier (Est)',9
-1100,0,'Gare Fluviale (Est)',11
-1101,0,'Pointe-De-Ste-Foy (Ouest)',11
-1300,0,'St-Louis / Ste-Foy Centre / Versant-Nord (Est)',13
-1301,0,'Versant-Nord / Ste-Foy Centre / St-Louis (Ouest)',13
-1401,0,'Cap-Rouge (Ouest)',14
-1400,0,'Pointe-De-Ste-Foy (Est)',14
-1501,0,'Cap-Rouge (Ouest)',15
-1500,0,'Pointe-De-Ste-Foy (Est)',15
-1600,0,'Sillery / U Laval / Ste-Foy Centre (Est)',16
-1601,0,'U Laval / Sillery / Ste-Foy Centre (Ouest)',16
-1800,0,'Gare Du Palais (Est)',18
-1801,0,'Université Laval (Ouest)',18
-1901,0,'Grand Théâtre (Sud)',19
-1900,0,'Limoilou (Nord)',19
-2100,0,'Gare Fluviale (Est)',21
-2101,0,'Place D''Youville (Ouest)',21
-2200,0,'Parc Ind. De Carillon (Nord)',22
-2201,0,'Ste-Foy Centre (Sud)',22
-2500,0,'Place D''Youville / Gare Du Palais (Est)',25
-2501,0,'Pointe-De-Ste-Foy (Ouest)',25
-2800,0,'51e Rue Est (Nord)',28
-2801,0,'Colline Parlementaire (Sud)',28
-2901,0,'Parc Colbert Ouest (Ouest)',29
-2900,0,'Place Jacques-Cartier (Est)',29
-3100,0,'Lac-St-Charles (Nord)',31
-3101,0,'Terminus Du Zoo (Sud)',31
-3200,0,'Lac Clément (Nord)',32
-3201,0,'Terminus Du Zoo (Sud)',32
-3300,0,'Parc Ind. Charlesbourg (Nord)',33
-3301,0,'Terminus Du Zoo (Sud)',33
-3400,0,'Laurentides (Nord)',34
-3401,0,'Terminus Du Zoo (Sud)',34
-3601,0,'Place Jacques-Cartier (Sud)',36
-3600,0,'Ston Des Roses (Nord)',36
-3701,0,'41e Rue Est / Colline Parlementaire (Sud)',37
-3700,0,'Terminus Charlesbourg / Jean-Talon Ouest (Nord)',37
-3901,0,'41e Rue Est (Sud)',39
-3900,0,'Terminus Du Zoo (Nord)',39
-4400,0,'Ste-Thérèse-De-Lisieux (Nord)',44
-4401,0,'Terminus Beauport (Sud)',44
-5000,0,'Boischatel (Est)',50
-5001,0,'Terminus La Cimenterie (Ouest)',50
-5200,0,'Bourg-Royal (Est)',52
-5201,0,'Terminus Charlesbourg (Ouest)',52
-5300,0,'Montmorency / Courville (Est)',53
-5301,0,'Terminus Beauport (Ouest)',53
-5400,0,'Ste-Thérèse-De-Lisieux (Nord)',54
-5401,0,'Terminus Beauport / Vieux-Québec (Sud)',54
-5500,0,'Ste-Thérèse-De-Lisieux (Nord)',55
-5501,0,'Terminus Beauport (Sud)',55
-5700,0,'Ste-Thérèse-De-Lisieux (Nord)',57
-5701,0,'Terminus Beauport (Sud)',57
-5800,0,'Ste-Thérèse-De-Lisieux (Nord)',58
-5801,0,'Terminus Beauport (Sud)',58
-5900,0,'Ste-Thérèse-De-Lisieux (Est)',59
-5901,0,'Terminus Charlesbourg (Ouest)',59
-6100,0,'41e Rue Est (Est)',61
-6101,0,'Lebourgneuf (Ouest)',61
-6400,0,'Lebourgneuf (Nord)',64
-6401,0,'Place Jacques-Cartier (Sud)',64
-6500,0,'Lebourgneuf (Nord)',65
-6501,0,'Place J-Cartier / Colline Parlementaire (Sud)',65
-7000,0,'Loretteville (Est)',70
-7201,0,'Loretteville (Ouest)',72
-7200,0,'Terminus Charlesbourg (Est)',72
-7401,0,'Place Jacques-Cartier (Sud)',74
-7400,0,'Val-Bélair (Nord)',74
-7500,0,'Loretteville (Nord)',75
-7501,0,'Ste-Foy Centre (Sud)',75
-7701,0,'Terminus Les Saules (Sud)',77
-7700,0,'Val-Bélair (Nord)',77
-7801,0,'Aéroport Int Jean-Lesage (Ouest)',78
-7800,0,'Terminus Les Saules (Est)',78
-7900,0,'Ancienne-Lorette (Nord)',79
-7901,0,'Terminus Les Saules / Belvédère (Sud)',79
-8000,0,'Ancienne-Lorette (Nord)',80
-8001,0,'Place Jacques-Cartier (Sud)',80
-8100,0,'Terminus Du Zoo (Nord)',81
-8101,0,'Terminus Les Saules (Sud)',81
-8200,0,'Lac-St-Charles (Nord)',82
-8201,0,'Place Jacques-Cartier (Sud)',82
-8400,0,'Loretteville (Nord)',84
-8401,0,'Place Jacques-Cartier (Sud)',84
-8500,0,'Lebourgneuf (Nord)',85
-8501,0,'Place Jacques-Cartier (Sud)',85
-8601,0,'Place J-Cartier / Colline Parlementaire (Sud)',86
-8600,0,'Terminus Les Saules (Nord)',86
-8801,0,'Parc Ind. De Carillon (Ouest)',88
-8800,0,'Terminus Les Saules (Est)',88
-9201,0,'St-Augustin (Ouest)',92
-9200,0,'Ste-Foy Centre (Est)',92
-9300,0,'Champigny (Nord)',93
-9301,0,'Ste-Foy Centre / Univ.Laval / Cégep Garneau (Sud)',93
-9400,0,'Cégep Garneau (Est)',94
-9401,0,'St-Augustin (Ouest)',94
-9500,0,'Cégep Garneau (Est)',95
-9501,0,'St-Augustin (Ouest)',95
-10700,0,'Gare Du Palais (Est)',107
-10701,0,'Pointe-De-Ste-Foy (Ouest)',107
-11100,0,'Place D''Youville (Est)',111
-11101,0,'Pointe-De-Ste-Foy (Ouest)',111
-12500,0,'Gare Du Palais (Est)',125
-12501,0,'Pointe-De-Ste-Foy (Ouest)',125
-13300,0,'Terminus Du Zoo (Nord)',133
-13301,0,'Vieux-Québec (Sud)',133
-13601,0,'Colline Parlementaire (Sud)',136
-13600,0,'Mgne-Des-Roches (Nord)',136
-18500,0,'Neufchâtel (Nord)',185
-18501,0,'Ston Belvédère / Ste-Foy Centre (Sud)',185
-21401,0,'Cap-Rouge (Ouest)',214
-21400,0,'Gare Du Palais (Est)',214
-21501,0,'Cap-Rouge (Ouest)',215
-21500,0,'Gare Du Palais (Est)',215
-23001,0,'Colline Parlementaire (Sud)',230
-23000,0,'Terminus Du Zoo (Nord)',230
-23601,0,'Colline Parlementaire (Sud)',236
-23600,0,'Ston Des Roses (Nord)',236
-23801,0,'Colline Parlementaire (Sud)',238
-23800,0,'Guillaume-Mathieu (Nord)',238
-23901,0,'Colline Parlementaire (Sud)',239
-23900,0,'Terminus Du Zoo (Nord)',239
-25001,0,'Colline Parlementaire (Sud)',250
-25000,0,'Courville / Boischatel (Nord)',250
-25101,0,'Colline Parlementaire (Sud)',251
-25100,0,'Courville (Nord)',251
-25401,0,'Colline Parlementaire (Sud)',254
-25400,0,'Ste-Thérèse-De-Lisieux (Nord)',254
-25501,0,'Colline Parlementaire (Sud)',255
-25500,0,'Ste-Thérèse-De-Lisieux (Nord)',255
-27201,0,'Colline Parlementaire (Sud)',272
-27200,0,'Loretteville (Nord)',272
-27301,0,'Colline Parlementaire (Sud)',273
-27300,0,'Loretteville Sud (Nord)',273
-27401,0,'Colline Parlementaire (Sud)',274
-27400,0,'Neufchâtel (Nord)',274
-27701,0,'Colline Parlementaire (Sud)',277
-27700,0,'Val-Bélair (Nord)',277
-27900,0,'Ancienne-Lorette (Nord)',279
-27901,0,'Colline Parlementaire (Sud)',279
-28001,0,'Place Jacques-Cartier / Colline Parlementaire (Sud)',280
-28000,0,'Terminus Les Saules / Ancienne-Lorette (Nord)',280
-28101,0,'Colline Parlementaire (Sud)',281
-28100,0,'Neufchâtel (Nord)',281
-28201,0,'Colline Parlementaire (Sud)',282
-28200,0,'Lac-St-Charles (Nord)',282
-28301,0,'Champigny (Ouest)',283
-28300,0,'Gare Du Palais (Est)',283
-28401,0,'Colline Parlementaire (Sud)',284
-28400,0,'Loretteville (Nord)',284
-28901,0,'Colline Parlementaire (Sud)',289
-28900,0,'St-Émile (Nord)',289
-29000,0,'Loretteville (Nord)',290
-29001,0,'Vieux-Québec (Sud)',290
-29400,0,'Place Jacques-Cartier (Est)',294
-29401,0,'St-Augustin (Ouest)',294
-29500,0,'Place Jacques-Cartier (Est)',295
-29501,0,'St-Augustin (Ouest)',295
-31501,0,'Cap-Rouge (Ouest)',315
-31500,0,'Univ.Laval / Cégep Garneau (Est)',315
-33000,0,'Terminus Charlesbourg (Nord)',330
-33001,0,'Univ.Laval / Cégep Garneau (Sud)',330
-33101,0,'Pointe-De-Ste-Foy (Sud)',331
-33100,0,'Terminus Du Zoo (Nord)',331
-33200,0,'St-Rodrigue (Nord)',332
-33201,0,'Ste-Foy Centre (Sud)',332
-33600,0,'Ston Des Roses (Nord)',336
-33601,0,'Univ.Laval / Cégep Garneau (Sud)',336
-33700,0,'Terminus Du Zoo (Nord)',337
-33701,0,'Univ.Laval / Cégep Garneau (Sud)',337
-33800,0,'Mgne-Des-Roches (Nord)',338
-33801,0,'Univ.Laval / Cégep Garneau (Sud)',338
-35000,0,'Courville / Boischatel (Nord)',350
-35001,0,'Univ.Laval / Cégep Garneau (Sud)',350
-35401,0,'Pointe-De-Ste-Foy (Sud)',354
-35400,0,'Ste-Thérèse-De-Lisieux (Nord)',354
-35500,0,'Ste-Thérèse-De-Lisieux (Nord)',355
-35501,0,'Univ.Laval / Cégep Garneau (Sud)',355
-35800,0,'Ste-Thérèse-De-Lisieux (Nord)',358
-35801,0,'Univ.Laval / Cégep Garneau (Sud)',358
-37200,0,'Lac-St-Charles (Nord)',372
-37201,0,'Univ.Laval / Cégep Garneau (Sud)',372
-37400,0,'Neufchâtel (Nord)',374
-37401,0,'Univ.Laval / Cégep Garneau (Sud)',374
-37701,0,'Univ.Laval / Cégep Garneau (Sud)',377
-37700,0,'Val-Bélair (Nord)',377
-38000,0,'Ancienne-Lorette (Nord)',380
-38001,0,'Univ.Laval / Cégep Garneau (Sud)',380
-38100,0,'Neufchâtel (Nord)',381
-38101,0,'Univ.Laval / Cégep Garneau (Sud)',381
-38200,0,'St-Émile (Nord)',382
-38201,0,'Univ.Laval / Cégep Garneau (Sud)',382
-38400,0,'Loretteville (Nord)',384
-38401,0,'Univ.Laval / Cégep Garneau (Sud)',384
-39101,0,'Pointe-De-Ste-Foy (Sud)',391
-39100,0,'Terminus Les Saules (Nord)',391
-53001,0,'Ste-Foy Centre (Sud)',530
-53000,0,'Ston Des Roses (Nord)',530
-53601,0,'Ste-Foy Centre (Sud)',536
-53600,0,'Ste-Thérèse-De-Lisieux (Nord)',536
-53701,0,'Ste-Foy Centre (Sud)',537
-53700,0,'Terminus Du Zoo (Nord)',537
-53800,0,'Bourg-Royal (Nord)',538
-53801,0,'Ste-Foy Centre (Sud)',538
-55000,0,'Courville (Nord)',550
-55001,0,'Ste-Foy Centre (Sud)',550
-55501,0,'Ste-Foy Centre (Sud)',555
-55500,0,'Ste-Thérèse-De-Lisieux (Nord)',555
-55801,0,'Ste-Foy Centre (Sud)',558
-55800,0,'Ste-Thérèse-De-Lisieux (Nord)',558
-57200,0,'Lac-St-Charles (Nord)',572
-57201,0,'Ste-Foy Centre (Sud)',572
-57400,0,'Neufchâtel (Nord)',574
-57401,0,'Ste-Foy Centre (Sud)',574
-57701,0,'Ste-Foy Centre (Sud)',577
-57700,0,'Val-Bélair (Nord)',577
-58000,0,'Ancienne-Lorette (Nord)',580
-58001,0,'Ste-Foy Centre (Sud)',580
-58100,0,'Lebourgneuf / Neufchâtel (Nord)',581
-58101,0,'Lebourgneuf / Ste-Foy Centre (Sud)',581
-58200,0,'Lebourgneuf / St-Émile (Nord)',582
-58201,0,'Lebourgneuf / Ste-Foy Centre (Sud)',582
-58400,0,'Loretteville (Nord)',584
-58401,0,'Ste-Foy Centre (Sud)',584
-80000,0,'Beauport (Est)',800
-80001,0,'Pointe-De-Ste-Foy (Ouest)',800
-80100,0,'Charlesbourg (Est)',801
-80101,0,'Pointe-De-Ste-Foy (Ouest)',801
-80201,0,'Ston Belvédère (Ouest)',802
-80200,0,'Terminus Beauport (Est)',802
-80300,0,'Terminus Beauport (Est)',803
-80301,0,'Terminus Les Saules (Ouest)',803
-80400,0,'Loretteville (Nord)',804
-80401,0,'Ste-Foy Centre (Sud)',804
-80700,0,'Place D''Youville (Est)',807
-80701,0,'Pointe-De-Ste-Foy (Ouest)',807
-90400,0,'Loretteville (Nord)',904
-90700,0,'Place D''Youville (Est)',907
-90701,0,'Pointe-De-Ste-Foy (Ouest)',907
-91501,0,'Cap-Rouge (Ouest)',915
-92501,0,'Pointe-De-Ste-Foy (Ouest)',925
-93100,0,'Lac-St-Charles (Nord)',931
-93101,0,'Place D''Youville (Sud)',931
-93600,0,'Ston Des Roses (Nord)',936
-95000,0,'Boischatel (Est)',950
-95400,0,'Ste-Thérèse-De-Lisieux (Nord)',954
-97201,0,'Loretteville / Val-Bélair (Ouest)',972
-98000,0,'Ancienne-Lorette (Nord)',980
-98200,0,'Lac-St-Charles (Nord)',982
-98400,0,'Neufchâtel (Nord)',984
-99201,0,'St-Augustin (Ouest)',992
-1000100,0,'Colline Parlementaire (Nord)',10001
-1000301,0,'Lilas Ouest / Duval (Sud)',10003
-1000300,0,'St-Jean-Eudes (Nord)',10003
-1001301,0,'Terrebonne / Suète (Ouest)',10013
-1001300,0,'École Secondaire De Rochebelle (Est)',10013
-1001400,0,'Collège Des Compagnons (Est)',10014
-1001401,0,'Riv. / Domaine (Ouest)',10014
-1001500,0,'Collège Des Compagnons (Est)',10015
-1001501,0,'Prom-Des-Soeurs / J-C-Cantin (Ouest)',10015
-1005401,0,'Académie Ste-Marie (Sud)',10054
-1005400,0,'St-Honoré / Ste-Thérèse (Nord)',10054
-1005501,0,'Académie Ste-Marie (Sud)',10055
-1005500,0,'G-Viger / Sablonnières (Nord)',10055
-1007900,0,'Chauveau Ouest / Borduas (Nord)',10079
-1007901,0,'École Sec Polyvalente L''Ancienne-Lorette (Sud)',10079
-1008001,0,'Terminus Les Saules (Sud)',10080
-1008000,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',10080
-1008201,0,'Samson / Baker (Sud)',10082
-1008200,0,'St-Jean-Eudes (Nord)',10082
-1009201,0,'Campus Notre-Dame-De-Foy (Ouest)',10092
-1009200,0,'Terminus Charlesbourg (Est)',10092
-2001301,0,'Sapins / Versant-Nord (Ouest)',20013
-2001300,0,'École Secondaire De Rochebelle (Est)',20013
-2001500,0,'Collège Des Compagnons (Est)',20015
-2001501,0,'E-Blondin / Prom-Des-Soeurs (Ouest)',20015
-2007901,0,'Terminus Les Saules (Sud)',20079
-2007900,0,'École Sec Polyvalente L''Ancienne-Lorette (Nord)',20079
-7000301,0,'18e Rue / 8e Av. (Sud)',70003
-7000300,0,'Lilas Ouest / Colisée (Nord)',70003
-7001101,0,'C-Laforte / McCartney (Ouest)',70011
-7001401,0,'Carougeois / J-C-Cantin (Ouest)',70014
-7001400,0,'Collège Jésus-Marie De Sillery (Est)',70014
-7002501,0,'Terminus De Marly (Ouest)',70025
-7005400,0,'St-Honoré / Ste-Thérèse (Nord)',70054
-7005401,0,'École Secondaire De La Seigneurie (Sud)',70054
-7005500,0,'G-Viger / Sablonnières (Nord)',70055
-7005501,0,'École Secondaire De La Seigneurie (Sud)',70055
-7007900,0,'St-Jean-Baptiste / Michelet (Nord)',70079
-7007901,0,'École Secondaire La Camaradière (Sud)',70079
-7008001,0,'O''Neil / W-Hamel (Sud)',70080
-7008000,0,'École Secondaire La Camaradière (Nord)',70080
-7008400,0,'Costebelle / Pertuis (Nord)',70084
-7008401,0,'École Secondaire La Camaradière (Sud)',70084
-7008601,0,'Père-Lelièvre / Godin (Sud)',70086
-7008600,0,'École Secondaire La Camaradière (Nord)',70086
-8005500,0,'St-Michel / Bessette (Nord)',80055
-8005501,0,'École Secondaire De La Seigneurie (Sud)',80055
+100,0,'Nord (Ston Belvédère)',1
+101,0,'Sud (Gare Fluviale / Cap-Blanc)',1
+300,0,'Nord (Ste-Odile)',3
+301,0,'Sud (Vieux-Québec / Colline Parlementaire)',3
+400,0,'Nord (Maizerets)',4
+401,0,'Sud (Place Jacques-Cartier)',4
+900,0,'Est (Place Jacques-Cartier)',9
+901,0,'Ouest (Parc Colbert Est)',9
+1100,0,'Est (Gare Fluviale)',11
+1101,0,'Ouest (Pointe-De-Ste-Foy)',11
+1300,0,'Est (St-Louis / Ste-Foy Centre / Versant-Nord)',13
+1301,0,'Ouest (Du Versant-Nord / Ste-Foy Centre / St-Louis)',13
+1400,0,'Est (Pointe-De-Ste-Foy)',14
+1401,0,'Ouest (Cap-Rouge)',14
+1500,0,'Est (Pointe-De-Ste-Foy)',15
+1501,0,'Ouest (Cap-Rouge)',15
+1600,0,'Est (Sillery / U Laval / Ste-Foy Centre)',16
+1601,0,'Ouest (U Laval / Sillery / Ste-Foy Centre)',16
+1800,0,'Est (Gare Du Palais)',18
+1801,0,'Ouest (Université Laval)',18
+1900,0,'Nord (Limoilou)',19
+1901,0,'Sud (Grand Théâtre)',19
+2200,0,'Nord (Parc Ind. De Carillon)',22
+2201,0,'Sud (Ste-Foy Centre)',22
+2500,0,'Est (Place D''Youville / Gare Du Palais)',25
+2501,0,'Ouest (Pointe-De-Ste-Foy)',25
+2800,0,'Nord (51e Rue Est)',28
+2801,0,'Sud (Colline Parlementaire)',28
+2900,0,'Est (Place Jacques-Cartier)',29
+2901,0,'Ouest (Parc Colbert Ouest)',29
+3100,0,'Nord (Lac-St-Charles)',31
+3101,0,'Sud (Terminus Du Zoo)',31
+3200,0,'Nord (Lac Clément)',32
+3201,0,'Sud (Terminus Du Zoo)',32
+3300,0,'Nord (Parc Ind. Charlesbourg)',33
+3301,0,'Sud (Terminus Du Zoo)',33
+3400,0,'Nord (Des Laurentides)',34
+3401,0,'Sud (Terminus Du Zoo)',34
+3600,0,'Nord (Ston Des Roses)',36
+3601,0,'Sud (Place Jacques-Cartier)',36
+3700,0,'Nord (Terminus Charlesbourg / Jean-Talon Ouest)',37
+3701,0,'Sud (41e Rue Est / Colline Parlementaire)',37
+3900,0,'Nord (Terminus Du Zoo)',39
+3901,0,'Sud (41e Rue Est)',39
+4400,0,'Nord (Ste-Thérèse-De-Lisieux)',44
+4401,0,'Sud (Terminus Beauport)',44
+5000,0,'Est (Boischatel)',50
+5001,0,'Ouest (Terminus La Cimenterie)',50
+5200,0,'Est (Du Bourg-Royal)',52
+5201,0,'Ouest (Terminus Charlesbourg)',52
+5300,0,'Est (Montmorency / Courville)',53
+5301,0,'Ouest (Terminus Beauport)',53
+5400,0,'Nord (Ste-Thérèse-De-Lisieux)',54
+5401,0,'Sud (Terminus Beauport / Vieux-Québec)',54
+5500,0,'Nord (Ste-Thérèse-De-Lisieux)',55
+5501,0,'Sud (Terminus Beauport)',55
+5700,0,'Nord (Ste-Thérèse-De-Lisieux)',57
+5701,0,'Sud (Terminus Beauport)',57
+5800,0,'Nord (Ste-Thérèse-De-Lisieux)',58
+5801,0,'Sud (Terminus Beauport)',58
+6100,0,'Est (41e Rue Est)',61
+6101,0,'Ouest (Lebourgneuf)',61
+6400,0,'Nord (Lebourgneuf)',64
+6401,0,'Sud (Place Jacques-Cartier)',64
+6500,0,'Nord (Lebourgneuf)',65
+6501,0,'Sud (Place J-Cartier / Colline Parlementaire)',65
+7000,0,'Est (Loretteville)',70
+7200,0,'Est (Terminus Charlesbourg)',72
+7201,0,'Ouest (Loretteville)',72
+7400,0,'Nord (Val-Bélair)',74
+7401,0,'Sud (Place Jacques-Cartier)',74
+7500,0,'Nord (Loretteville)',75
+7501,0,'Sud (Ste-Foy Centre)',75
+7700,0,'Nord (Val-Bélair)',77
+7701,0,'Sud (Terminus Les Saules)',77
+7800,0,'Est (Terminus Les Saules)',78
+7801,0,'Ouest (Aéroport Int Jean-Lesage)',78
+7900,0,'Nord (L''Ancienne-Lorette)',79
+7901,0,'Sud (Terminus Les Saules / Belvédère)',79
+8000,0,'Nord (L''Ancienne-Lorette)',80
+8001,0,'Sud (Place Jacques-Cartier)',80
+8100,0,'Nord (Terminus Du Zoo)',81
+8101,0,'Sud (Terminus Les Saules)',81
+8200,0,'Nord (Lac-St-Charles)',82
+8201,0,'Sud (Place Jacques-Cartier)',82
+8400,0,'Nord (Loretteville)',84
+8401,0,'Sud (Place Jacques-Cartier)',84
+8500,0,'Nord (Lebourgneuf)',85
+8501,0,'Sud (Place Jacques-Cartier)',85
+8600,0,'Nord (Terminus Les Saules)',86
+8601,0,'Sud (Place J-Cartier / Colline Parlementaire)',86
+8800,0,'Est (Terminus Les Saules)',88
+8801,0,'Ouest (Parc Ind. De Carillon)',88
+9200,0,'Est (Ste-Foy Centre)',92
+9201,0,'Ouest (St-Augustin)',92
+9300,0,'Nord (Champigny)',93
+9301,0,'Sud (Ste-Foy Centre / Univ.Laval / Cégep Garneau)',93
+10700,0,'Est (Gare Du Palais)',107
+10701,0,'Ouest (Pointe-De-Ste-Foy)',107
+12500,0,'Est (Gare Du Palais)',125
+12501,0,'Ouest (Pointe-De-Ste-Foy)',125
+13300,0,'Nord (Terminus Du Zoo)',133
+13301,0,'Sud (Vieux-Québec)',133
+13600,0,'Nord (Mgne-Des-Roches)',136
+13601,0,'Sud (Colline Parlementaire)',136
+18500,0,'Nord (Neufchâtel)',185
+18501,0,'Sud (Ston Belvédère / Ste-Foy Centre)',185
+21400,0,'Est (Gare Du Palais)',214
+21401,0,'Ouest (Cap-Rouge)',214
+21500,0,'Est (Gare Du Palais)',215
+21501,0,'Ouest (Cap-Rouge)',215
+23000,0,'Nord (Terminus Du Zoo)',230
+23001,0,'Sud (Colline Parlementaire)',230
+23600,0,'Nord (Ston Des Roses)',236
+23601,0,'Sud (Colline Parlementaire)',236
+23800,0,'Nord (Guillaume-Mathieu)',238
+23801,0,'Sud (Colline Parlementaire)',238
+23900,0,'Nord (Terminus Du Zoo)',239
+23901,0,'Sud (Colline Parlementaire)',239
+25000,0,'Nord (Courville / Boischatel)',250
+25001,0,'Sud (Colline Parlementaire)',250
+25100,0,'Nord (Courville)',251
+25101,0,'Sud (Colline Parlementaire)',251
+25400,0,'Nord (Ste-Thérèse-De-Lisieux)',254
+25401,0,'Sud (Colline Parlementaire)',254
+25500,0,'Nord (Ste-Thérèse-De-Lisieux)',255
+25501,0,'Sud (Colline Parlementaire)',255
+27200,0,'Nord (Loretteville)',272
+27201,0,'Sud (Colline Parlementaire)',272
+27300,0,'Nord (Loretteville Sud)',273
+27301,0,'Sud (Colline Parlementaire)',273
+27400,0,'Nord (Neufchâtel)',274
+27401,0,'Sud (Colline Parlementaire)',274
+27700,0,'Nord (Val-Bélair)',277
+27701,0,'Sud (Colline Parlementaire)',277
+27900,0,'Nord (L''Ancienne-Lorette)',279
+27901,0,'Sud (Colline Parlementaire)',279
+28000,0,'Nord (Terminus Les Saules / Ancienne-Lorette)',280
+28001,0,'Sud (Place Jacques-Cartier / Colline Parlementaire)',280
+28100,0,'Nord (Neufchâtel)',281
+28101,0,'Sud (Colline Parlementaire)',281
+28200,0,'Nord (Lac-St-Charles)',282
+28201,0,'Sud (Colline Parlementaire)',282
+28300,0,'Est (Gare Du Palais)',283
+28301,0,'Ouest (Champigny)',283
+28400,0,'Nord (Loretteville)',284
+28401,0,'Sud (Colline Parlementaire)',284
+28900,0,'Nord (St-Émile)',289
+28901,0,'Sud (Colline Parlementaire)',289
+29000,0,'Nord (Loretteville)',290
+29001,0,'Sud (Vieux-Québec)',290
+29400,0,'Est (Place Jacques-Cartier)',294
+29401,0,'Ouest (St-Augustin)',294
+29500,0,'Est (Place Jacques-Cartier)',295
+29501,0,'Ouest (St-Augustin)',295
+31500,0,'Est (Univ.Laval / Cégep Garneau)',315
+31501,0,'Ouest (Cap-Rouge)',315
+33000,0,'Nord (Terminus Charlesbourg)',330
+33001,0,'Sud (Univ.Laval / Cégep Garneau)',330
+33100,0,'Nord (Terminus Du Zoo)',331
+33101,0,'Sud (Pointe-De-Ste-Foy)',331
+33200,0,'Nord (St-Rodrigue)',332
+33201,0,'Sud (Ste-Foy Centre)',332
+33600,0,'Nord (Ston Des Roses)',336
+33601,0,'Sud (Univ.Laval / Cégep Garneau)',336
+33700,0,'Nord (Terminus Du Zoo)',337
+33701,0,'Sud (Univ.Laval / Cégep Garneau)',337
+33800,0,'Nord (Mgne-Des-Roches)',338
+33801,0,'Sud (Univ.Laval / Cégep Garneau)',338
+35000,0,'Nord (Courville / Boischatel)',350
+35001,0,'Sud (Univ.Laval / Cégep Garneau)',350
+35400,0,'Nord (Ste-Thérèse-De-Lisieux)',354
+35401,0,'Sud (Pointe-De-Ste-Foy)',354
+35500,0,'Nord (Ste-Thérèse-De-Lisieux)',355
+35501,0,'Sud (Univ.Laval / Cégep Garneau)',355
+35800,0,'Nord (Ste-Thérèse-De-Lisieux)',358
+35801,0,'Sud (Univ.Laval / Cégep Garneau)',358
+37200,0,'Nord (Lac-St-Charles)',372
+37201,0,'Sud (Univ.Laval / Cégep Garneau)',372
+37400,0,'Nord (Neufchâtel)',374
+37401,0,'Sud (Univ.Laval / Cégep Garneau)',374
+37700,0,'Nord (Val-Bélair)',377
+37701,0,'Sud (Univ.Laval / Cégep Garneau)',377
+38000,0,'Nord (L''Ancienne-Lorette)',380
+38001,0,'Sud (Univ.Laval / Cégep Garneau)',380
+38100,0,'Nord (Neufchâtel)',381
+38101,0,'Sud (Univ.Laval / Cégep Garneau)',381
+38200,0,'Nord (St-Émile)',382
+38201,0,'Sud (Univ.Laval / Cégep Garneau)',382
+38400,0,'Nord (Loretteville)',384
+38401,0,'Sud (Univ.Laval / Cégep Garneau)',384
+39100,0,'Nord (Terminus Les Saules)',391
+39101,0,'Sud (Pointe-De-Ste-Foy)',391
+53000,0,'Nord (Ston Des Roses)',530
+53001,0,'Sud (Ste-Foy Centre)',530
+53600,0,'Nord (Ste-Thérèse-De-Lisieux)',536
+53601,0,'Sud (Ste-Foy Centre)',536
+53700,0,'Nord (Terminus Du Zoo)',537
+53701,0,'Sud (Ste-Foy Centre)',537
+53800,0,'Nord (Du Bourg-Royal)',538
+53801,0,'Sud (Ste-Foy Centre)',538
+55000,0,'Nord (Courville)',550
+55001,0,'Sud (Ste-Foy Centre)',550
+55500,0,'Nord (Ste-Thérèse-De-Lisieux)',555
+55501,0,'Sud (Ste-Foy Centre)',555
+55800,0,'Nord (Ste-Thérèse-De-Lisieux)',558
+55801,0,'Sud (Ste-Foy Centre)',558
+57200,0,'Nord (Lac-St-Charles)',572
+57201,0,'Sud (Ste-Foy Centre)',572
+57400,0,'Nord (Neufchâtel)',574
+57401,0,'Sud (Ste-Foy Centre)',574
+57700,0,'Nord (Val-Bélair)',577
+57701,0,'Sud (Ste-Foy Centre)',577
+58000,0,'Nord (L''Ancienne-Lorette)',580
+58001,0,'Sud (Ste-Foy Centre)',580
+58100,0,'Nord (Lebourgneuf / Neufchâtel)',581
+58101,0,'Sud (Lebourgneuf / Ste-Foy Centre)',581
+58200,0,'Nord (Lebourgneuf / St-Émile)',582
+58201,0,'Sud (Lebourgneuf / Ste-Foy Centre)',582
+58400,0,'Nord (Loretteville)',584
+58401,0,'Sud (Ste-Foy Centre)',584
+80000,0,'Est (Beauport)',800
+80001,0,'Ouest (Pointe-De-Ste-Foy)',800
+80100,0,'Est (Charlesbourg)',801
+80101,0,'Ouest (Pointe-De-Ste-Foy)',801
+80200,0,'Est (Terminus Beauport)',802
+80201,0,'Ouest (Ston Belvédère)',802
+80300,0,'Est (Terminus Beauport)',803
+80301,0,'Ouest (Terminus Les Saules)',803
+80400,0,'Nord (Loretteville)',804
+80401,0,'Sud (Ste-Foy Centre)',804
+80700,0,'Est (Place D''Youville)',807
+80701,0,'Ouest (Pointe-De-Ste-Foy)',807
+90400,0,'Nord (Loretteville)',904
+90700,0,'Est (Place D''Youville)',907
+90701,0,'Ouest (Pointe-De-Ste-Foy)',907
+91501,0,'Ouest (Cap-Rouge)',915
+92501,0,'Ouest (Pointe-De-Ste-Foy)',925
+93100,0,'Nord (Lac-St-Charles)',931
+93101,0,'Sud (Place D''Youville)',931
+93600,0,'Nord (Ston Des Roses)',936
+95000,0,'Est (Boischatel)',950
+95400,0,'Nord (Ste-Thérèse-De-Lisieux)',954
+97201,0,'Ouest (Loretteville / Val-Bélair)',972
+98000,0,'Nord (L''Ancienne-Lorette)',980
+98200,0,'Nord (Lac-St-Charles)',982
+98400,0,'Nord (Neufchâtel)',984
+99201,0,'Ouest (St-Augustin)',992
