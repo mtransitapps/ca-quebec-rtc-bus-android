@@ -1,7 +1,7 @@
 100,0,'Nord (Ston Belvédère)',1
 101,0,'Sud (Gare Fluviale / Cap-Blanc)',1
-300,0,'Nord (Ste-Odile)',3
-301,0,'Sud (Vieux-Québec / Colline Parlementaire)',3
+300,0,'Nord (41e Rue Est / Jean-Talon Ouest)',3
+301,0,'Sud (Grand Théâtre)',3
 400,0,'Nord (Maizerets)',4
 401,0,'Sud (Place Jacques-Cartier)',4
 900,0,'Est (Place Jacques-Cartier)',9
@@ -38,18 +38,18 @@
 3401,0,'Sud (Terminus Du Zoo)',34
 3600,0,'Nord (Ston Des Roses)',36
 3601,0,'Sud (Place Jacques-Cartier)',36
-3700,0,'Nord (Terminus Charlesbourg / Jean-Talon Ouest)',37
-3701,0,'Sud (41e Rue Est / Colline Parlementaire)',37
 3900,0,'Nord (Terminus Du Zoo)',39
 3901,0,'Sud (41e Rue Est)',39
 4400,0,'Nord (Ste-Thérèse-De-Lisieux)',44
 4401,0,'Sud (Terminus Beauport)',44
 5000,0,'Est (Boischatel)',50
 5001,0,'Ouest (Terminus La Cimenterie)',50
+5100,0,'Est (Ste-Anne)',51
+5101,0,'Ouest (T Beauport)',51
 5200,0,'Est (Du Bourg-Royal)',52
 5201,0,'Ouest (Terminus Charlesbourg)',52
-5300,0,'Est (Montmorency / Courville)',53
-5301,0,'Ouest (Terminus Beauport)',53
+5300,0,'Est (T C-Montmorency)',53
+5301,0,'Ouest (T Beauport)',53
 5400,0,'Nord (Ste-Thérèse-De-Lisieux)',54
 5401,0,'Sud (Terminus Beauport / Vieux-Québec)',54
 5500,0,'Nord (Ste-Thérèse-De-Lisieux)',55
@@ -58,6 +58,8 @@
 5701,0,'Sud (Terminus Beauport)',57
 5800,0,'Nord (Ste-Thérèse-De-Lisieux)',58
 5801,0,'Sud (Terminus Beauport)',58
+5900,0,'Est (Ste-Thérèse-De-Lisieux)',59
+5901,0,'Ouest (Terminus Charlesbourg)',59
 6100,0,'Est (41e Rue Est)',61
 6101,0,'Ouest (Lebourgneuf)',61
 6400,0,'Nord (Lebourgneuf)',64
@@ -95,6 +97,10 @@
 9201,0,'Ouest (St-Augustin)',92
 9300,0,'Nord (Champigny)',93
 9301,0,'Sud (Ste-Foy Centre / Univ.Laval / Cégep Garneau)',93
+9400,0,'Est (Cégep Garneau)',94
+9401,0,'Ouest (St-Augustin)',94
+9500,0,'Est (Cégep Garneau)',95
+9501,0,'Ouest (St-Augustin)',95
 10700,0,'Est (Gare Du Palais)',107
 10701,0,'Ouest (Pointe-De-Ste-Foy)',107
 12500,0,'Est (Gare Du Palais)',125
@@ -120,7 +126,9 @@
 25000,0,'Nord (Courville / Boischatel)',250
 25001,0,'Sud (Colline Parlementaire)',250
 25100,0,'Nord (Courville)',251
-25101,0,'Sud (Colline Parlementaire)',251
+25101,0,'Sud (Grand Théâtre)',251
+25300,0,'Nord (T La Cimenterie)',253
+25301,0,'Sud (Grand Théâtre)',253
 25400,0,'Nord (Ste-Thérèse-De-Lisieux)',254
 25401,0,'Sud (Colline Parlementaire)',254
 25500,0,'Nord (Ste-Thérèse-De-Lisieux)',255
@@ -246,3 +254,48 @@
 98200,0,'Nord (Lac-St-Charles)',982
 98400,0,'Nord (Neufchâtel)',984
 99201,0,'Ouest (St-Augustin)',992
+1000300,0,'Nord (St-Jean-Eudes)',10003
+1000301,0,'Sud (Des Lilas Ouest / Colisée)',10003
+1001300,0,'Est (École Secondaire De Rochebelle)',10013
+1001301,0,'Ouest (De Terrebonne / Suète)',10013
+1001400,0,'Est (Collège Des Compagnons)',10014
+1001401,0,'Ouest (De La Riv. / Domaine)',10014
+1001500,0,'Est (Collège Des Compagnons)',10015
+1001501,0,'Ouest (De La Prom-Des-Soeurs / J-C-Cantin)',10015
+1005400,0,'Nord (St-Honoré / Ste-Thérèse)',10054
+1005401,0,'Sud (Académie Ste-Marie)',10054
+1005500,0,'Nord (G-Viger / Sablonnières)',10055
+1005501,0,'Sud (Académie Ste-Marie)',10055
+1007900,0,'Nord (Chauveau Ouest / Borduas)',10079
+1007901,0,'Sud (École Sec Polyvalente L''Ancienne-Lorette)',10079
+1008000,0,'Nord (École Sec Polyvalente L''Ancienne-Lorette)',10080
+1008001,0,'Sud (Terminus Les Saules)',10080
+1008200,0,'Nord (St-Jean-Eudes)',10082
+1008201,0,'Sud (Samson / Baker)',10082
+1009201,0,'Ouest (Campus Notre-Dame-De-Foy)',10092
+2001300,0,'Est (École Secondaire De Rochebelle)',20013
+2001301,0,'Ouest (Des Sapins / Versant-Nord)',20013
+2001500,0,'Est (Collège Des Compagnons)',20015
+2001501,0,'Ouest (E-Blondin / Prom-Des-Soeurs)',20015
+2007900,0,'Nord (École Sec Polyvalente L''Ancienne-Lorette)',20079
+2007901,0,'Sud (Terminus Les Saules)',20079
+7000300,0,'Nord (Des Lilas Ouest / Colisée)',70003
+7000301,0,'Sud (18e Rue / 8e Av.)',70003
+7001101,0,'Ouest (C-Laforte / McCartney)',70011
+7001400,0,'Est (Collège Jésus-Marie De Sillery)',70014
+7001401,0,'Ouest (Des Carougeois / J-C-Cantin)',70014
+7002501,0,'Ouest (Terminus De Marly)',70025
+7005400,0,'Nord (St-Honoré / Ste-Thérèse)',70054
+7005401,0,'Sud (École Secondaire De La Seigneurie)',70054
+7005500,0,'Nord (G-Viger / Sablonnières)',70055
+7005501,0,'Sud (École Secondaire De La Seigneurie)',70055
+7007900,0,'Nord (St-Jean-Baptiste / Michelet)',70079
+7007901,0,'Sud (École Secondaire La Camaradière)',70079
+7008000,0,'Nord (École Secondaire La Camaradière)',70080
+7008001,0,'Sud (O''Neil / W-Hamel)',70080
+7008400,0,'Nord (Du Costebelle / Pertuis)',70084
+7008401,0,'Sud (École Secondaire La Camaradière)',70084
+7008600,0,'Nord (École Secondaire La Camaradière)',70086
+7008601,0,'Sud (Père-Lelièvre / Godin)',70086
+8005500,0,'Nord (St-Michel / Bessette)',80055
+8005501,0,'Sud (École Secondaire De La Seigneurie)',80055
