@@ -97,10 +97,6 @@
 9201,0,'Ouest (St-Augustin)',92
 9300,0,'Nord (Champigny)',93
 9301,0,'Sud (Ste-Foy Centre / Univ.Laval / Cégep Garneau)',93
-9400,0,'Est (Cégep Garneau)',94
-9401,0,'Ouest (St-Augustin)',94
-9500,0,'Est (Cégep Garneau)',95
-9501,0,'Ouest (St-Augustin)',95
 10700,0,'Est (Gare Du Palais)',107
 10701,0,'Ouest (Pointe-De-Ste-Foy)',107
 12500,0,'Est (Gare Du Palais)',125
@@ -199,6 +195,14 @@
 38401,0,'Sud (Univ.Laval / Cégep Garneau)',384
 39100,0,'Nord (Terminus Les Saules)',391
 39101,0,'Sud (Pointe-De-Ste-Foy)',391
+41000,0,'Nord (Hydro-Québec)',410
+41001,0,'Sud (Festival D''été)',410
+42000,0,'Est (Festival D''été)',420
+42001,0,'Ouest (Ste-Foy Centre)',420
+43000,0,'Nord (Atrium)',430
+43001,0,'Sud (Festival D''été)',430
+45000,0,'Nord (T.Beauport / Gal Canardière)',450
+45001,0,'Sud (Festival D''été)',450
 53000,0,'Nord (Ston Des Roses)',530
 53001,0,'Sud (Ste-Foy Centre)',530
 53600,0,'Nord (Ste-Thérèse-De-Lisieux)',536
@@ -254,49 +258,3 @@
 98200,0,'Nord (Lac-St-Charles)',982
 98400,0,'Nord (Neufchâtel)',984
 99201,0,'Ouest (St-Augustin)',992
-1000300,0,'Nord (St-Jean-Eudes)',10003
-1000301,0,'Sud (Des Lilas Ouest / Duval)',10003
-1001300,0,'Est (École Secondaire De Rochebelle)',10013
-1001301,0,'Ouest (De Terrebonne / Suète)',10013
-1001400,0,'Est (Collège Des Compagnons)',10014
-1001401,0,'Ouest (De La Riv. / Domaine)',10014
-1001500,0,'Est (Collège Des Compagnons)',10015
-1001501,0,'Ouest (De La Prom-Des-Soeurs / J-C-Cantin)',10015
-1005400,0,'Nord (St-Honoré / Ste-Thérèse)',10054
-1005401,0,'Sud (Académie Ste-Marie)',10054
-1005500,0,'Nord (G-Viger / Sablonnières)',10055
-1005501,0,'Sud (Académie Ste-Marie)',10055
-1007900,0,'Nord (Chauveau Ouest / Borduas)',10079
-1007901,0,'Sud (École Sec Polyvalente L''Ancienne-Lorette)',10079
-1008000,0,'Nord (École Sec Polyvalente L''Ancienne-Lorette)',10080
-1008001,0,'Sud (Terminus Les Saules)',10080
-1008200,0,'Nord (St-Jean-Eudes)',10082
-1008201,0,'Sud (Samson / Baker)',10082
-1009200,0,'Est (Terminus Charlesbourg)',10092
-1009201,0,'Ouest (Campus Notre-Dame-De-Foy)',10092
-2001300,0,'Est (École Secondaire De Rochebelle)',20013
-2001301,0,'Ouest (Des Sapins / Versant-Nord)',20013
-2001500,0,'Est (Collège Des Compagnons)',20015
-2001501,0,'Ouest (E-Blondin / Prom-Des-Soeurs)',20015
-2007900,0,'Nord (École Sec Polyvalente L''Ancienne-Lorette)',20079
-2007901,0,'Sud (Terminus Les Saules)',20079
-7000300,0,'Nord (Des Lilas Ouest / Colisée)',70003
-7000301,0,'Sud (18e Rue / 8e Av.)',70003
-7001101,0,'Ouest (C-Laforte / McCartney)',70011
-7001400,0,'Est (Collège Jésus-Marie De Sillery)',70014
-7001401,0,'Ouest (Des Carougeois / J-C-Cantin)',70014
-7002501,0,'Ouest (Terminus De Marly)',70025
-7005400,0,'Nord (St-Honoré / Ste-Thérèse)',70054
-7005401,0,'Sud (École Secondaire De La Seigneurie)',70054
-7005500,0,'Nord (G-Viger / Sablonnières)',70055
-7005501,0,'Sud (École Secondaire De La Seigneurie)',70055
-7007900,0,'Nord (St-Jean-Baptiste / Michelet)',70079
-7007901,0,'Sud (École Secondaire La Camaradière)',70079
-7008000,0,'Nord (École Secondaire La Camaradière)',70080
-7008001,0,'Sud (O''Neil / W-Hamel)',70080
-7008400,0,'Nord (Du Costebelle / Pertuis)',70084
-7008401,0,'Sud (École Secondaire La Camaradière)',70084
-7008600,0,'Nord (École Secondaire La Camaradière)',70086
-7008601,0,'Sud (Père-Lelièvre / Godin)',70086
-8005500,0,'Nord (St-Michel / Bessette)',80055
-8005501,0,'Sud (École Secondaire De La Seigneurie)',80055
