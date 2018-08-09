@@ -58,8 +58,6 @@
 5701,0,'Sud (Terminus Beauport)',57
 5800,0,'Nord (Ste-Thérèse-De-Lisieux)',58
 5801,0,'Sud (Terminus Beauport)',58
-5900,0,'Est (Ste-Thérèse-De-Lisieux)',59
-5901,0,'Ouest (Terminus Charlesbourg)',59
 6100,0,'Est (41e Rue Est)',61
 6101,0,'Ouest (Lebourgneuf)',61
 6400,0,'Nord (Lebourgneuf)',64
@@ -195,14 +193,6 @@
 38401,0,'Sud (Univ.Laval / Cégep Garneau)',384
 39100,0,'Nord (Terminus Les Saules)',391
 39101,0,'Sud (Pointe-De-Ste-Foy)',391
-41000,0,'Nord (Hydro-Québec)',410
-41001,0,'Sud (Festival D''été)',410
-42000,0,'Est (Festival D''été)',420
-42001,0,'Ouest (Ste-Foy Centre)',420
-43000,0,'Nord (Atrium)',430
-43001,0,'Sud (Festival D''été)',430
-45000,0,'Nord (T.Beauport / Gal Canardière)',450
-45001,0,'Sud (Festival D''été)',450
 53000,0,'Nord (Ston Des Roses)',530
 53001,0,'Sud (Ste-Foy Centre)',530
 53600,0,'Nord (Ste-Thérèse-De-Lisieux)',536
