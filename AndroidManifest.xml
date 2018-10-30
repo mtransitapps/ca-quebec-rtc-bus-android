@@ -75,6 +75,7 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- RTC QUEBEC PROVIDER -->
+        <!-- TODO: fix then re-enable
         <provider
             android:name="org.mtransit.android.commons.provider.RTCQuebecProvider"
             android:authorities="@string/rtc_quebec_authority"
@@ -88,6 +89,7 @@
                 android:name="@string/service_update_provider_target"
                 android:value="@string/rtc_quebec_service_update_for_poi_authority" />
         </provider>
+		-->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
