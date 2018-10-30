@@ -5,7 +5,7 @@ Bus RTC à Québec pour MonTransit.
 Horaires. Nouvelles.
 ----------
 What's new in this version?:
-Horaires du 19 septembre 2018 au 30 novembre 2018.
+Horaires du 26 octobre 2018 au 22 février 2019.
 Nouvelles de www.rtcquebec.ca.
 Tweets de @RTCQuebec.
 ----------
