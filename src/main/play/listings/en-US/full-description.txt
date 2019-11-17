@@ -1,15 +1,3 @@
-Title: Quebec City RTC Bus - MonTran…
-----------
-Short description:
-Quebec City RTC bus for MonTransit.
-Schedules. News.
-----------
-What's new in this version?:
-Schedule from October 18, 2019 to November 29, 2019.
-News from www.rtcquebec.ca.
-Tweets from @RTCQuebec.
-----------
-Full description:
 This application adds Quebec City RTC buses information to MonTransit.
 
 This app contains the buses schedule and the latest news from www.rtcquebec.ca, YouTube and @RTCQuebec on Twitter.
@@ -18,7 +6,7 @@ RTC serves Quebec City in Quebec, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -32,17 +20,3 @@ This app is not related with Réseau de transport de la Capitale.
 
 Permissions:
 - Other: required to read news from www.rtcquebec.ca, YouTube and Twitter.
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-quebec-rtc-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy:
