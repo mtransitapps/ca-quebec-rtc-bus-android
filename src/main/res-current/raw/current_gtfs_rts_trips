@@ -44,7 +44,7 @@
 4401,0,'Sud (Terminus Beauport)',44
 5000,0,'Est (T C-Montmorency)',50
 5001,0,'Ouest (Terminus La Cimenterie)',50
-5100,0,'Est (Ste-Anne)',51
+5100,0,'Est (Parc-O-Bus Ste-Anne)',51
 5101,0,'Ouest (T Beauport)',51
 5200,0,'Est (Du Bourg-Royal)',52
 5201,0,'Ouest (Terminus Charlesbourg)',52
@@ -140,7 +140,7 @@
 27701,0,'Sud (Colline Parlementaire)',277
 27900,0,'Nord (L''Ancienne-Lorette)',279
 27901,0,'Sud (Colline Parlementaire)',279
-28000,0,'Nord (Terminus Les Saules / Ancienne-Lorette)',280
+28000,0,'Nord (L''Ancienne-Lorette)',280
 28001,0,'Sud (Place Jacques-Cartier / Colline Parlementaire)',280
 28100,0,'Nord (Neufchâtel)',281
 28101,0,'Sud (Colline Parlementaire)',281
@@ -194,10 +194,7 @@
 38401,0,'Sud (Univ.Laval / Cégep Garneau)',384
 39100,0,'Nord (Terminus Les Saules)',391
 39101,0,'Sud (Pointe-De-Ste-Foy)',391
-40500,0,'Nord (Centre Vidéotron)',405
-41001,0,'Sud (Festival D''été)',410
 43001,0,'Sud (Festival D''été)',430
-45001,0,'Sud (Festival D''été)',450
 53000,0,'Nord (Ston Des Roses)',530
 53001,0,'Sud (Ste-Foy Centre)',530
 53600,0,'Nord (Ste-Thérèse-De-Lisieux)',536
