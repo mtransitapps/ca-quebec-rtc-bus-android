@@ -98,7 +98,7 @@
 9201,0,'Ouest (St-Augustin)',92
 9300,0,'Nord (Champigny)',93
 9301,0,'Sud (Ste-Foy Centre / Univ.Laval / Cégep Garneau)',93
-9400,0,'Est (Cégep Garneau / Place Jacques-Cartier)',94
+9400,0,'Est (Cégep Garneau)',94
 9401,0,'Ouest (St-Augustin)',94
 10700,0,'Est (Gare Du Palais)',107
 10701,0,'Ouest (Pointe-De-Ste-Foy)',107
@@ -156,6 +156,8 @@
 29001,0,'Sud (Vieux-Québec)',290
 29200,0,'Est (Place Jacques-Cartier)',292
 29201,0,'Ouest (St-Augustin)',292
+29400,0,'Est (Place Jacques-Cartier)',294
+29401,0,'Ouest (St-Augustin)',294
 31500,0,'Est (Univ.Laval / Cégep Garneau)',315
 31501,0,'Ouest (Cap-Rouge)',315
 33000,0,'Nord (Terminus Charlesbourg)',330
@@ -194,7 +196,6 @@
 38401,0,'Sud (Univ.Laval / Cégep Garneau)',384
 39100,0,'Nord (Terminus Les Saules)',391
 39101,0,'Sud (Pointe-De-Ste-Foy)',391
-43001,0,'Sud (Festival D''été)',430
 53000,0,'Nord (Ston Des Roses)',530
 53001,0,'Sud (Ste-Foy Centre)',530
 53600,0,'Nord (Ste-Thérèse-De-Lisieux)',536
