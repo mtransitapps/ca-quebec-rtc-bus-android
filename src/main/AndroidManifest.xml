@@ -55,21 +55,27 @@
                 android:value="@string/gtfs_rts_authority" />
         </provider>
         <!-- RTC QUEBEC PROVIDER -->
-        <!-- TODO: fix then re-enable
         <provider
             android:name="org.mtransit.android.commons.provider.RTCQuebecProvider"
             android:authorities="@string/rtc_quebec_authority"
             android:exported="true"
             android:readPermission="${permission_provider_read}"
             tools:ignore="MissingRegistered" >
+            <!-- TODO: fix then re-enable
             <meta-data
                 android:name="@string/service_update_provider"
                 android:value="@string/service_update_provider" />
             <meta-data
                 android:name="@string/service_update_provider_target"
                 android:value="@string/rtc_quebec_service_update_for_poi_authority" />
+            -->
+            <meta-data
+                android:name="@string/status_provider"
+                android:value="@string/status_provider" />
+            <meta-data
+                android:name="@string/status_provider_target"
+                android:value="@string/rtc_quebec_status_for_poi_authority" />
         </provider>
-	-->
         <!-- TWITTER NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
@@ -85,6 +91,7 @@
                 android:value="@string/twitter_target_for_poi_authority" />
         </provider>
         <!-- RSS NEWS PROVIDER -->
+        <!-- TODO: fix then re-enable
         <provider
             android:name="org.mtransit.android.commons.provider.RSSNewsProvider"
             android:authorities="@string/rss_authority"
@@ -98,6 +105,7 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/rss_target_for_poi_authority" />
         </provider>
+        -->
         <!-- YOUTUBE NEWS PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.YouTubeNewsProvider"

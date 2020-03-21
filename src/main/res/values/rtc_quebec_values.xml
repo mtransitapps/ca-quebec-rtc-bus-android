@@ -3,4 +3,5 @@
     <integer name="rtc_quebec_db_version">1</integer>
     <string name="rtc_quebec_authority">org.mtransit.android.ca_quebec_rtc_bus.rtcquebec</string>
     <string name="rtc_quebec_service_update_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="rtc_quebec_status_for_poi_authority">@string/gtfs_rts_authority</string>
 </resources>
