@@ -96,6 +96,14 @@
 9301,0,'S-Ste-Foy Ctr / U Laval / Cgp Garneau',93
 9402,0,'E-Cgp Garneau',94
 9403,0,'O-St-Augustin',94
+10702,0,'E-Gare Du Palais',107
+10703,0,'O-Pte-De-Ste-Foy',107
+13300,0,'N-Term Du Zoo',133
+13301,0,'S-Vieux-Québec',133
+13600,0,'N-Mgne-Des-Roches',136
+13601,0,'S-Colline Parlementaire',136
+18500,0,'N-Neufchâtel',185
+18501,0,'S-Ston Belvédère / Ste-Foy Ctr',185
 21402,0,'E-Gare Du Palais',214
 21403,0,'O-Cap-Rouge',214
 21502,0,'E-Gare Du Palais',215
@@ -148,40 +156,10 @@
 29403,0,'O-St-Augustin',294
 31502,0,'E-U Laval / Cgp Garneau',315
 31503,0,'O-Cap-Rouge',315
-33000,0,'N-Term Charlesbourg',330
-33001,0,'S-U Laval / Cgp Garneau',330
 33100,0,'N-Term Du Zoo',331
 33101,0,'S-Pte-De-Ste-Foy',331
-33200,0,'N-St-Rodrigue',332
-33201,0,'S-Ste-Foy Ctr',332
-33600,0,'N-Ston Des Roses',336
-33601,0,'S-U Laval / Cgp Garneau',336
-33700,0,'N-Term Du Zoo',337
-33701,0,'S-U Laval / Cgp Garneau',337
-33800,0,'N-Mgne-Des-Roches',338
-33801,0,'S-U Laval / Cgp Garneau',338
-35000,0,'N-T C-Montmorency',350
-35001,0,'S-U Laval / Cgp Garneau',350
 35400,0,'N-Ste-Thérèse-De-Lisieux',354
 35401,0,'S-Pte-De-Ste-Foy',354
-35500,0,'N-Ste-Thérèse-De-Lisieux',355
-35501,0,'S-U Laval / Cgp Garneau',355
-35800,0,'N-Ste-Thérèse-De-Lisieux',358
-35801,0,'S-U Laval / Cgp Garneau',358
-37200,0,'N-Lac-St-Charles',372
-37201,0,'S-U Laval / Cgp Garneau',372
-37400,0,'N-Neufchâtel',374
-37401,0,'S-U Laval / Cgp Garneau',374
-37700,0,'N-Val-Bélair',377
-37701,0,'S-U Laval / Cgp Garneau',377
-38000,0,'N-Anc-Lorette',380
-38001,0,'S-U Laval / Cgp Garneau',380
-38100,0,'N-Neufchâtel',381
-38101,0,'S-U Laval / Cgp Garneau',381
-38200,0,'N-St-Émile',382
-38201,0,'S-U Laval / Cgp Garneau',382
-38400,0,'N-Loretteville',384
-38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
 53000,0,'N-Ston Des Roses',530
