@@ -29,16 +29,16 @@
 2902,0,'E-Pl Jacques-Cartier',29
 2903,0,'O-Parc Colbert Ouest',29
 3100,0,'N-Lac-St-Charles',31
-3101,0,'S-Term Du Zoo',31
+3101,0,'S-Term De La Faune',31
 3200,0,'N-Lac Clément',32
-3201,0,'S-Term Du Zoo',32
+3201,0,'S-Term De La Faune',32
 3300,0,'N-Parc Ind. Charlesbourg',33
-3301,0,'S-Term Du Zoo',33
+3301,0,'S-Term De La Faune',33
 3400,0,'N-Des Laurentides',34
-3401,0,'S-Term Du Zoo',34
+3401,0,'S-Term De La Faune',34
 3600,0,'N-Ston Des Roses',36
 3601,0,'S-Pl Jacques-Cartier',36
-3900,0,'N-Term Du Zoo',39
+3900,0,'N-Term De La Faune',39
 3901,0,'S-41e Rue Est',39
 4400,0,'N-Ste-Thérèse-De-Lisieux',44
 4401,0,'S-Term Beauport',44
@@ -62,6 +62,8 @@
 6103,0,'O-Lebourgneuf',61
 6400,0,'N-Lebourgneuf',64
 6401,0,'S-Pl Jacques-Cartier',64
+6500,0,'N-Lebourgneuf',65
+6501,0,'S-Pl J-Cartier / Colline Parlementaire',65
 7000,0,'N-Val-Bélair',70
 7001,0,'S-Ste-Foy Ctr',70
 7202,0,'E-Term Charlesbourg',72
@@ -78,7 +80,7 @@
 7901,0,'S-Term Les Saules / Belvédère',79
 8000,0,'N-Aéroport International Jean-Lesage',80
 8001,0,'S-Pl Jacques-Cartier',80
-8100,0,'N-Term Du Zoo',81
+8100,0,'N-Term De La Faune',81
 8101,0,'S-Term Les Saules',81
 8200,0,'N-Lac-St-Charles',82
 8201,0,'S-Pl Jacques-Cartier',82
@@ -98,7 +100,7 @@
 9403,0,'O-St-Augustin',94
 10702,0,'E-Gare Du Palais',107
 10703,0,'O-Pte-De-Ste-Foy',107
-13300,0,'N-Term Du Zoo',133
+13300,0,'N-Term De La Faune',133
 13301,0,'S-Vieux-Québec',133
 13600,0,'N-Mgne-Des-Roches',136
 13601,0,'S-Colline Parlementaire',136
@@ -108,13 +110,13 @@
 21403,0,'O-Cap-Rouge',214
 21502,0,'E-Gare Du Palais',215
 21503,0,'O-Cap-Rouge',215
-23000,0,'N-Term Du Zoo',230
+23000,0,'N-Term De La Faune',230
 23001,0,'S-Colline Parlementaire',230
 23600,0,'N-Ston Des Roses',236
 23601,0,'S-Colline Parlementaire',236
 23800,0,'N-Guillaume-Mathieu',238
 23801,0,'S-Colline Parlementaire',238
-23900,0,'N-Term Du Zoo',239
+23900,0,'N-Term De La Faune',239
 23901,0,'S-Colline Parlementaire',239
 25000,0,'N-T C-Montmorency',250
 25001,0,'S-Colline Parlementaire',250
@@ -156,17 +158,47 @@
 29403,0,'O-St-Augustin',294
 31502,0,'E-U Laval / Cgp Garneau',315
 31503,0,'O-Cap-Rouge',315
-33100,0,'N-Term Du Zoo',331
+33000,0,'N-Term Charlesbourg',330
+33001,0,'S-U Laval / Cgp Garneau',330
+33100,0,'N-Term De La Faune',331
 33101,0,'S-Pte-De-Ste-Foy',331
+33200,0,'N-St-Rodrigue',332
+33201,0,'S-Ste-Foy Ctr',332
+33600,0,'N-Ston Des Roses',336
+33601,0,'S-U Laval / Cgp Garneau',336
+33700,0,'N-Term De La Faune',337
+33701,0,'S-U Laval / Cgp Garneau',337
+33800,0,'N-Mgne-Des-Roches',338
+33801,0,'S-U Laval / Cgp Garneau',338
+35000,0,'N-T C-Montmorency',350
+35001,0,'S-U Laval / Cgp Garneau',350
 35400,0,'N-Ste-Thérèse-De-Lisieux',354
 35401,0,'S-Pte-De-Ste-Foy',354
+35500,0,'N-Ste-Thérèse-De-Lisieux',355
+35501,0,'S-U Laval / Cgp Garneau',355
+35800,0,'N-Ste-Thérèse-De-Lisieux',358
+35801,0,'S-U Laval / Cgp Garneau',358
+37200,0,'N-Lac-St-Charles',372
+37201,0,'S-U Laval / Cgp Garneau',372
+37400,0,'N-Neufchâtel',374
+37401,0,'S-U Laval / Cgp Garneau',374
+37700,0,'N-Val-Bélair',377
+37701,0,'S-U Laval / Cgp Garneau',377
+38000,0,'N-Anc-Lorette',380
+38001,0,'S-U Laval / Cgp Garneau',380
+38100,0,'N-Neufchâtel',381
+38101,0,'S-U Laval / Cgp Garneau',381
+38200,0,'N-St-Émile',382
+38201,0,'S-U Laval / Cgp Garneau',382
+38400,0,'N-Loretteville',384
+38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Ste-Thérèse-De-Lisieux',536
 53601,0,'S-Ste-Foy Ctr',536
-53700,0,'N-Term Du Zoo',537
+53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr',537
 53800,0,'N-Du Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr',538
@@ -192,7 +224,7 @@
 58401,0,'S-Ste-Foy Ctr',584
 80002,0,'E-Beauport',800
 80003,0,'O-Pte-De-Ste-Foy',800
-80102,0,'E-Charlesbourg',801
+80102,0,'E-Term De La Faune',801
 80103,0,'O-Pte-De-Ste-Foy',801
 80202,0,'E-Term Beauport',802
 80203,0,'O-Ston Belvédère',802
@@ -202,3 +234,18 @@
 80401,0,'S-Ste-Foy Ctr',804
 80702,0,'E-Pl D''Youville',807
 80703,0,'O-Pte-De-Ste-Foy',807
+90400,0,'N-Loretteville',904
+90702,0,'E-Pl D''Youville',907
+90703,0,'O-Pte-De-Ste-Foy',907
+91503,0,'O-Cap-Rouge',915
+92503,0,'O-Pte-De-Ste-Foy',925
+93100,0,'N-Lac-St-Charles',931
+93101,0,'S-Pl D''Youville',931
+93600,0,'N-Ston Des Roses',936
+95002,0,'E-T C-Montmorency',950
+95400,0,'N-Ste-Thérèse-De-Lisieux',954
+97203,0,'O-Loretteville',972
+98000,0,'N-Anc-Lorette',980
+98200,0,'N-Lac-St-Charles',982
+98400,0,'N-Neufchâtel',984
+99203,0,'O-St-Augustin',992
