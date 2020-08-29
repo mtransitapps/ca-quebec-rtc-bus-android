@@ -44,7 +44,7 @@
 4401,0,'S-Term Beauport',44
 5002,0,'E-T C-Montmorency',50
 5003,0,'O-Term La Cimenterie',50
-5102,0,'E-Ste-Anne',51
+5102,0,'E-Parc-O-Bus Ste-Anne',51
 5103,0,'O-T Beauport',51
 5202,0,'E-Du Bourg-Royal',52
 5203,0,'O-Term Charlesbourg',52
@@ -58,6 +58,8 @@
 5701,0,'S-Term Beauport',57
 5800,0,'N-Ste-Thérèse-De-Lisieux',58
 5801,0,'S-Term Beauport',58
+5902,0,'E-Ste-Thérèse-De-Lisieux',59
+5903,0,'O-Term Charlesbourg',59
 6102,0,'E-41e Rue Est',61
 6103,0,'O-Lebourgneuf',61
 6400,0,'N-Lebourgneuf',64
@@ -249,3 +251,47 @@
 98200,0,'N-Lac-St-Charles',982
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
+1000300,0,'N-St-Jean-Eudes',10003
+1000301,0,'S-Des Lilas Ouest / Duval',10003
+1001302,0,'E-ES De Rochebelle',10013
+1001303,0,'O-De Terrebonne / Suète',10013
+1001402,0,'E-Collège Des Compagnons',10014
+1001403,0,'O-De La Riv. / Domaine',10014
+1001502,0,'E-Collège Des Compagnons',10015
+1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
+1005400,0,'N-St-Honoré / Ste-Thérèse',10054
+1005401,0,'S-Académie Ste-Marie',10054
+1005500,0,'N-G-Viger / Sablonnières',10055
+1005501,0,'S-Académie Ste-Marie',10055
+1007900,0,'N-Chauveau Ouest / Borduas',10079
+1007901,0,'S-ES Polyvalente Anc-Lorette',10079
+1008000,0,'N-ES Polyvalente Anc-Lorette',10080
+1008001,0,'S-Term Les Saules',10080
+1008200,0,'N-St-Jean-Eudes',10082
+1008201,0,'S-Samson / Baker',10082
+1009202,0,'E-Term Charlesbourg',10092
+1009203,0,'O-Campus Notre-Dame-De-Foy',10092
+2001302,0,'E-ES De Rochebelle',20013
+2001303,0,'O-Des Sapins / Versant-Nord',20013
+2001502,0,'E-Collège Des Compagnons',20015
+2001503,0,'O-E-Blondin / Prom-Des-Soeurs',20015
+2007900,0,'N-ES Polyvalente Anc-Lorette',20079
+2007901,0,'S-Term Les Saules',20079
+7001103,0,'O-C-Laforte / McCartney',70011
+7001402,0,'E-Collège Jésus-Marie De Sillery',70014
+7001403,0,'O-Des Carougeois / J-C-Cantin',70014
+7002503,0,'O-Term De Marly',70025
+7005400,0,'N-St-Honoré / Ste-Thérèse',70054
+7005401,0,'S-ES De La Seigneurie',70054
+7005500,0,'N-G-Viger / Sablonnières',70055
+7005501,0,'S-ES De La Seigneurie',70055
+7007900,0,'N-St-Jean-Baptiste / Michelet',70079
+7007901,0,'S-ES La Camaradière',70079
+7008000,0,'N-ES La Camaradière',70080
+7008001,0,'S-O''Neil / W-Hamel',70080
+7008400,0,'N-Du Costebelle / Pertuis',70084
+7008401,0,'S-ES La Camaradière',70084
+7008600,0,'N-ES La Camaradière',70086
+7008601,0,'S-Père-Lelièvre / Godin',70086
+8005500,0,'N-St-Michel / Bessette',80055
+8005501,0,'S-ES De La Seigneurie',80055
