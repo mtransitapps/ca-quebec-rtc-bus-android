@@ -32,7 +32,7 @@
 3101,0,'S-Term De La Faune',31
 3200,0,'N-Lac Clément',32
 3201,0,'S-Term De La Faune',32
-3300,0,'N-Parc Ind. Charlesbourg',33
+3300,0,'N-Parc Ind Charlesbourg',33
 3301,0,'S-Term De La Faune',33
 3400,0,'N-Des Laurentides',34
 3401,0,'S-Term De La Faune',34
@@ -256,7 +256,7 @@
 1001302,0,'E-ES De Rochebelle',10013
 1001303,0,'O-De Terrebonne / Suète',10013
 1001402,0,'E-Collège Des Compagnons',10014
-1001403,0,'O-De La Riv. / Domaine',10014
+1001403,0,'O-De La Riv / Domaine',10014
 1001502,0,'E-Collège Des Compagnons',10015
 1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
 1005400,0,'N-St-Honoré / Ste-Thérèse',10054
