@@ -42,14 +42,14 @@
 3901,0,'S-41e Rue Est',39
 4400,0,'N-Ste-Thérèse-De-Lisieux',44
 4401,0,'S-Term Beauport',44
-5002,0,'E-T C-Montmorency',50
+5002,0,'E-T. C.-Montmorency',50
 5003,0,'O-Term La Cimenterie',50
 5102,0,'E-Parc-O-Bus Ste-Anne',51
-5103,0,'O-T Beauport',51
+5103,0,'O-T. Beauport',51
 5202,0,'E-Du Bourg-Royal',52
 5203,0,'O-Term Charlesbourg',52
-5302,0,'E-T C-Montmorency',53
-5303,0,'O-T Beauport',53
+5302,0,'E-T. C.-Montmorency',53
+5303,0,'O-T. Beauport',53
 5400,0,'N-Ste-Thérèse-De-Lisieux',54
 5401,0,'S-Term Beauport / Vieux-Québec',54
 5500,0,'N-Ste-Thérèse-De-Lisieux',55
@@ -65,7 +65,7 @@
 6400,0,'N-Lebourgneuf',64
 6401,0,'S-Pl Jacques-Cartier',64
 6500,0,'N-Lebourgneuf',65
-6501,0,'S-Pl J-Cartier / Colline Parlementaire',65
+6501,0,'S-Pl J.-Cartier / Colline Parlementaire',65
 7000,0,'N-Val-Bélair',70
 7001,0,'S-Ste-Foy Ctr',70
 7202,0,'E-Term Charlesbourg',72
@@ -91,7 +91,7 @@
 8500,0,'N-Lebourgneuf',85
 8501,0,'S-Pl Jacques-Cartier',85
 8600,0,'N-Term Les Saules',86
-8601,0,'S-Pl J-Cartier / Colline Parlementaire',86
+8601,0,'S-Pl J.-Cartier / Colline Parlementaire',86
 8800,0,'N-Term Les Saules',88
 8801,0,'S-Ste-Foy Ctr',88
 9202,0,'E-Cgp Garneau',92
@@ -120,11 +120,11 @@
 23801,0,'S-Colline Parlementaire',238
 23900,0,'N-Term De La Faune',239
 23901,0,'S-Colline Parlementaire',239
-25000,0,'N-T C-Montmorency',250
+25000,0,'N-T. C.-Montmorency',250
 25001,0,'S-Colline Parlementaire',250
 25100,0,'N-Courville',251
 25101,0,'S-Grand Théâtre',251
-25300,0,'N-T La Cimenterie',253
+25300,0,'N-T. La Cimenterie',253
 25301,0,'S-Grand Théâtre',253
 25400,0,'N-Ste-Thérèse-De-Lisieux',254
 25401,0,'S-Colline Parlementaire',254
@@ -172,7 +172,7 @@
 33701,0,'S-U Laval / Cgp Garneau',337
 33800,0,'N-Mgne-Des-Roches',338
 33801,0,'S-U Laval / Cgp Garneau',338
-35000,0,'N-T C-Montmorency',350
+35000,0,'N-T. C.-Montmorency',350
 35001,0,'S-U Laval / Cgp Garneau',350
 35400,0,'N-Ste-Thérèse-De-Lisieux',354
 35401,0,'S-Pte-De-Ste-Foy',354
@@ -204,7 +204,7 @@
 53701,0,'S-Ste-Foy Ctr',537
 53800,0,'N-Du Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr',538
-55000,0,'N-T C-Montmorency',550
+55000,0,'N-T. C.-Montmorency',550
 55001,0,'S-Ste-Foy Ctr',550
 55500,0,'N-Ste-Thérèse-De-Lisieux',555
 55501,0,'S-Ste-Foy Ctr',555
@@ -244,7 +244,7 @@
 93100,0,'N-Lac-St-Charles',931
 93101,0,'S-Pl D''Youville',931
 93600,0,'N-Ston Des Roses',936
-95002,0,'E-T C-Montmorency',950
+95002,0,'E-T. C.-Montmorency',950
 95400,0,'N-Ste-Thérèse-De-Lisieux',954
 97203,0,'O-Loretteville',972
 98000,0,'N-Anc-Lorette',980
@@ -258,14 +258,14 @@
 1001402,0,'E-Collège Des Compagnons',10014
 1001403,0,'O-De La Riv / Domaine',10014
 1001502,0,'E-Collège Des Compagnons',10015
-1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
+1001503,0,'O-De La Prom.-Des-Soeurs / J.-C.-Cantin',10015
 1005400,0,'N-St-Honoré / Ste-Thérèse',10054
 1005401,0,'S-Académie Ste-Marie',10054
-1005500,0,'N-G-Viger / Sablonnières',10055
+1005500,0,'N-G.-Viger / Sablonnières',10055
 1005501,0,'S-Académie Ste-Marie',10055
 1007900,0,'N-Chauveau Ouest / Borduas',10079
-1007901,0,'S-ES Polyvalente Anc-Lorette',10079
-1008000,0,'N-ES Polyvalente Anc-Lorette',10080
+1007901,0,'S-ES. Polyvalente Anc-Lorette',10079
+1008000,0,'N-ES. Polyvalente Anc-Lorette',10080
 1008001,0,'S-Term Les Saules',10080
 1008200,0,'N-St-Jean-Eudes',10082
 1008201,0,'S-Samson / Baker',10082
@@ -274,21 +274,21 @@
 2001302,0,'E-ES De Rochebelle',20013
 2001303,0,'O-Des Sapins / Versant-Nord',20013
 2001502,0,'E-Collège Des Compagnons',20015
-2001503,0,'O-E-Blondin / Prom-Des-Soeurs',20015
-2007900,0,'N-ES Polyvalente Anc-Lorette',20079
+2001503,0,'O-E.-Blondin / Prom-Des-Soeurs',20015
+2007900,0,'N-ES. Polyvalente Anc-Lorette',20079
 2007901,0,'S-Term Les Saules',20079
-7001103,0,'O-C-Laforte / McCartney',70011
+7001103,0,'O-C.-Laforte / McCartney',70011
 7001402,0,'E-Collège Jésus-Marie De Sillery',70014
-7001403,0,'O-Des Carougeois / J-C-Cantin',70014
+7001403,0,'O-Des Carougeois / J.-C.-Cantin',70014
 7002503,0,'O-Term De Marly',70025
 7005400,0,'N-St-Honoré / Ste-Thérèse',70054
 7005401,0,'S-ES De La Seigneurie',70054
-7005500,0,'N-G-Viger / Sablonnières',70055
+7005500,0,'N-G.-Viger / Sablonnières',70055
 7005501,0,'S-ES De La Seigneurie',70055
 7007900,0,'N-St-Jean-Baptiste / Michelet',70079
 7007901,0,'S-ES La Camaradière',70079
 7008000,0,'N-ES La Camaradière',70080
-7008001,0,'S-O''Neil / W-Hamel',70080
+7008001,0,'S-O''Neil / W.-Hamel',70080
 7008400,0,'N-Du Costebelle / Pertuis',70084
 7008401,0,'S-ES La Camaradière',70084
 7008600,0,'N-ES La Camaradière',70086
