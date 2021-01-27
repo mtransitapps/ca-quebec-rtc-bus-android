@@ -1,15 +1,15 @@
 100,0,'N-Ston Belvédère',1
 101,0,'S-Gare Fluviale / Cap-Blanc',1
-300,0,'N-41e Rue Est / Jean-Talon Ouest',3
+300,0,'N-41e Rue E / Jean-Talon O',3
 301,0,'S-Grand Théâtre',3
 400,0,'N-Maizerets',4
 401,0,'S-Pl Jacques-Cartier',4
 902,0,'E-Pl Jacques-Cartier',9
-903,0,'O-Parc Colbert Est',9
+903,0,'O-Parc Colbert E',9
 1102,0,'E-Gare Fluviale',11
 1103,0,'O-Pte-De-Ste-Foy',11
-1302,0,'E-St-Louis / Ste-Foy Ctr / Versant-Nord',13
-1303,0,'O-Du Versant-Nord / Ste-Foy Ctr / St-Louis',13
+1302,0,'E-St-Louis / Ste-Foy Ctr / Versant-N',13
+1303,0,'O-Du Versant-N / Ste-Foy Ctr / St-Louis',13
 1402,0,'E-Pte-De-Ste-Foy',14
 1403,0,'O-Cap-Rouge',14
 1502,0,'E-Pte-De-Ste-Foy',15
@@ -24,10 +24,10 @@
 2201,0,'S-Ste-Foy Ctr',22
 2502,0,'E-Pl D''Youville / Gare Du Palais',25
 2503,0,'O-Pte-De-Ste-Foy',25
-2800,0,'N-51e Rue Est',28
+2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
 2902,0,'E-Pl Jacques-Cartier',29
-2903,0,'O-Parc Colbert Ouest',29
+2903,0,'O-Parc Colbert O',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
 3200,0,'N-Lac Clément',32
@@ -39,7 +39,7 @@
 3600,0,'N-Ston Des Roses',36
 3601,0,'S-Pl Jacques-Cartier',36
 3900,0,'N-Term De La Faune',39
-3901,0,'S-41e Rue Est',39
+3901,0,'S-41e Rue E',39
 4400,0,'N-Ste-Thérèse-De-Lisieux',44
 4401,0,'S-Term Beauport',44
 5002,0,'E-T C-Montmorency',50
@@ -132,7 +132,7 @@
 25501,0,'S-Colline Parlementaire',255
 27200,0,'N-Loretteville',272
 27201,0,'S-Colline Parlementaire',272
-27300,0,'N-Loretteville Sud',273
+27300,0,'N-Loretteville S',273
 27301,0,'S-Colline Parlementaire',273
 27400,0,'N-Neufchâtel',274
 27401,0,'S-Colline Parlementaire',274
@@ -252,7 +252,7 @@
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
 1000300,0,'N-St-Jean-Eudes',10003
-1000301,0,'S-Des Lilas Ouest / Duval',10003
+1000301,0,'S-Des Lilas O / Duval',10003
 1001302,0,'E-ES De Rochebelle',10013
 1001303,0,'O-De Terrebonne / Suète',10013
 1001402,0,'E-Collège Des Compagnons',10014
@@ -263,7 +263,7 @@
 1005401,0,'S-Académie Ste-Marie',10054
 1005500,0,'N-G-Viger / Sablonnières',10055
 1005501,0,'S-Académie Ste-Marie',10055
-1007900,0,'N-Chauveau Ouest / Borduas',10079
+1007900,0,'N-Chauveau O / Borduas',10079
 1007901,0,'S-ES Polyvalente Anc-Lorette',10079
 1008000,0,'N-ES Polyvalente Anc-Lorette',10080
 1008001,0,'S-Term Les Saules',10080
@@ -272,7 +272,7 @@
 1009202,0,'E-Term Charlesbourg',10092
 1009203,0,'O-Campus Notre-Dame-De-Foy',10092
 2001302,0,'E-ES De Rochebelle',20013
-2001303,0,'O-Des Sapins / Versant-Nord',20013
+2001303,0,'O-Des Sapins / Versant-N',20013
 2001502,0,'E-Collège Des Compagnons',20015
 2001503,0,'O-E-Blondin / Prom-Des-Soeurs',20015
 2007900,0,'N-ES Polyvalente Anc-Lorette',20079
