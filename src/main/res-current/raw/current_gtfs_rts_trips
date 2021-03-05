@@ -78,7 +78,7 @@
 7601,0,'S-Gare De Train De Ste-Foy',76
 7700,0,'N-Val-Bélair',77
 7701,0,'S-Term Les Saules',77
-7900,0,'N-Anc-Lorette',79
+7900,0,'N-Chauveau',79
 7901,0,'S-Term Les Saules / Belvédère',79
 8000,0,'N-Aéroport International Jean-Lesage',80
 8001,0,'S-Pl J-Cartier',80
@@ -252,7 +252,6 @@
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
 1000300,0,'N-St-Jean-Eudes',10003
-1000301,0,'S-Des Lilas O / Duval',10003
 1001302,0,'E-ÉS De Rochebelle',10013
 1001303,0,'O-De Terrebonne / Suète',10013
 1001402,0,'E-Collège Des Compagnons',10014
@@ -268,7 +267,6 @@
 1008000,0,'N-ÉS Polyvalente Anc-Lorette',10080
 1008001,0,'S-Term Les Saules',10080
 1008200,0,'N-St-Jean-Eudes',10082
-1008201,0,'S-Samson / Baker',10082
 1009202,0,'E-Term Charlesbourg',10092
 1009203,0,'O-Campus Notre-Dame-De-Foy',10092
 2001302,0,'E-ÉS De Rochebelle',20013
