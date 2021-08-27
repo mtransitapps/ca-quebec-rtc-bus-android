@@ -40,24 +40,24 @@
 3601,0,'S-Pl J-Cartier',36
 3900,0,'N-Term De La Faune',39
 3901,0,'S-41e Rue E',39
-4400,0,'N-Ste-Thérèse-De-Lisieux',44
-4401,0,'S-Term Beauport',44
-5002,0,'E-T C-Montmorency',50
-5003,0,'O-Term La Cimenterie',50
 5102,0,'E-Parc-O-Bus Ste-Anne',51
-5103,0,'O-T Beauport',51
-5202,0,'E-Du Bourg-Royal',52
-5203,0,'O-Term Charlesbourg',52
-5302,0,'E-T C-Montmorency',53
-5303,0,'O-T Beauport',53
+5103,0,'O-Term Beauport',51
+5200,0,'N-Term Charlesbourg',52
+5201,0,'S-Maizerets',52
+5302,0,'E-Courville',53
+5303,0,'O-Term Beauport',53
 5400,0,'N-Ste-Thérèse-De-Lisieux',54
-5401,0,'S-Term Beauport / Vieux-Québec',54
+5401,0,'S-Cgp Limoilou / Vieux-Québec',54
 5500,0,'N-Ste-Thérèse-De-Lisieux',55
 5501,0,'S-Term Beauport',55
+5600,0,'N-Parc Ind De Beauport',56
+5601,0,'S-Term Beauport',56
 5700,0,'N-Ste-Thérèse-De-Lisieux',57
 5701,0,'S-Term Beauport',57
 5800,0,'N-Ste-Thérèse-De-Lisieux',58
 5801,0,'S-Term Beauport',58
+5902,0,'E-Term Chute-Montmorency',59
+5903,0,'O-Term Charlesbourg',59
 6102,0,'E-Maizerets',61
 6103,0,'O-Lebourgneuf',61
 6400,0,'N-Lebourgneuf',64
@@ -118,16 +118,20 @@
 23801,0,'S-Colline Parlementaire',238
 23900,0,'N-Term De La Faune',239
 23901,0,'S-Colline Parlementaire',239
-25000,0,'N-T C-Montmorency',250
+25000,0,'N-Term Chute-Montmorency',250
 25001,0,'S-Colline Parlementaire',250
-25100,0,'N-Courville',251
-25101,0,'S-Grand Théâtre',251
-25300,0,'N-T La Cimenterie',253
-25301,0,'S-Grand Théâtre',253
+25100,0,'N-Parc-O-Bus Ste-Anne',251
+25101,0,'S-Colline Parlementaire',251
+25300,0,'N-Courville',253
+25301,0,'S-Colline Parlementaire',253
 25400,0,'N-Ste-Thérèse-De-Lisieux',254
 25401,0,'S-Colline Parlementaire',254
 25500,0,'N-Ste-Thérèse-De-Lisieux',255
 25501,0,'S-Colline Parlementaire',255
+25700,0,'N-Ste-Thérèse-De-Lisieux',257
+25701,0,'S-Colline Parlementaire',257
+25800,0,'N-Ste-Thérèse-De-Lisieux',258
+25801,0,'S-Colline Parlementaire',258
 27200,0,'N-Loretteville',272
 27201,0,'S-Colline Parlementaire',272
 27300,0,'N-Loretteville S',273
@@ -164,24 +168,50 @@
 33101,0,'S-Pte-De-Ste-Foy',331
 33200,0,'N-St-Rodrigue',332
 33201,0,'S-Ste-Foy Ctr',332
+33600,0,'N-Ston Des Roses',336
+33601,0,'S-U Laval / Cgp Garneau',336
 33700,0,'N-Term De La Faune',337
 33701,0,'S-U Laval / Cgp Garneau',337
-35000,0,'N-T C-Montmorency',350
+33800,0,'N-Mgne-Des-Roches',338
+33801,0,'S-U Laval / Cgp Garneau',338
+34400,0,'N-Ste-Thérèse-De-Lisieux',344
+34401,0,'S-U Laval / Cgp Garneau',344
+35000,0,'N-Term Chute-Montmorency',350
 35001,0,'S-U Laval / Cgp Garneau',350
 35400,0,'N-Ste-Thérèse-De-Lisieux',354
 35401,0,'S-Pte-De-Ste-Foy',354
+35500,0,'N-Ste-Thérèse-De-Lisieux',355
+35501,0,'S-U Laval / Cgp Garneau',355
+35800,0,'N-Ste-Thérèse-De-Lisieux',358
+35801,0,'S-U Laval / Cgp Garneau',358
+37200,0,'N-Lac-St-Charles',372
+37201,0,'S-U Laval / Cgp Garneau',372
+37400,0,'N-Neufchâtel',374
+37401,0,'S-U Laval / Cgp Garneau',374
+37700,0,'N-Val-Bélair',377
+37701,0,'S-U Laval / Cgp Garneau',377
+38000,0,'N-Anc-Lorette',380
+38001,0,'S-U Laval / Cgp Garneau',380
+38100,0,'N-Neufchâtel',381
+38101,0,'S-U Laval / Cgp Garneau',381
+38200,0,'N-St-Émile',382
+38201,0,'S-U Laval / Cgp Garneau',382
+38400,0,'N-Loretteville',384
+38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
-53600,0,'N-Ste-Thérèse-De-Lisieux',536
+53600,0,'N-Du Bourg-Royal',536
 53601,0,'S-Ste-Foy Ctr',536
 53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr',537
 53800,0,'N-Du Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr',538
-55000,0,'N-T C-Montmorency',550
+55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr',550
+55400,0,'N-Ste-Thérèse-De-Lisieux',554
+55401,0,'S-Ste-Foy Ctr',554
 55500,0,'N-Ste-Thérèse-De-Lisieux',555
 55501,0,'S-Ste-Foy Ctr',555
 55800,0,'N-Ste-Thérèse-De-Lisieux',558
@@ -200,7 +230,7 @@
 58201,0,'S-Lebourgneuf / Ste-Foy Ctr',582
 58400,0,'N-Loretteville',584
 58401,0,'S-Ste-Foy Ctr',584
-80002,0,'E-Beauport',800
+80002,0,'E-Term Chute-Montmorency',800
 80003,0,'O-Pte-De-Ste-Foy',800
 80102,0,'E-Term De La Faune',801
 80103,0,'O-Pte-De-Ste-Foy',801
@@ -220,10 +250,50 @@
 93100,0,'N-Lac-St-Charles',931
 93101,0,'S-Pl D''Youville',931
 93600,0,'N-Ston Des Roses',936
-95002,0,'E-T C-Montmorency',950
+95002,0,'E-Term Chute-Montmorency',950
 95400,0,'N-Ste-Thérèse-De-Lisieux',954
 97203,0,'O-Loretteville',972
 98000,0,'N-Anc-Lorette',980
 98200,0,'N-Lac-St-Charles',982
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
+1000300,0,'N-St-Jean-Eudes',10003
+1000301,0,'S-Des Lilas O / Duval',10003
+1001302,0,'E-ÉS De Rochebelle',10013
+1001303,0,'O-De Terrebonne / Suète',10013
+1001402,0,'E-Collège Des Compagnons',10014
+1001403,0,'O-De La Riv / Domaine',10014
+1001502,0,'E-Collège Des Compagnons',10015
+1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
+1005400,0,'N-G-Viger / St-Ignace',10054
+1005401,0,'S-Académie Ste-Marie',10054
+1005500,0,'N-Raymond / L-Chardon',10055
+1005501,0,'S-Académie Ste-Marie',10055
+1008000,0,'N-ÉS Polyvalente Anc-Lorette',10080
+1008001,0,'S-Term Les Saules',10080
+1008200,0,'N-St-Jean-Eudes',10082
+1008201,0,'S-Samson / Baker',10082
+1009202,0,'E-Term Charlesbourg',10092
+1009203,0,'O-Campus Notre-Dame-De-Foy',10092
+2001302,0,'E-ÉS De Rochebelle',20013
+2001303,0,'O-Des Sapins / Versant-N',20013
+2001502,0,'E-Collège Des Compagnons',20015
+2001503,0,'O-E-Blondin / Prom-Des-Soeurs',20015
+2007900,0,'N-ÉS Polyvalente Anc-Lorette',20079
+2007901,0,'S-Term Les Saules',20079
+7001103,0,'O-C-Laforte / McCartney',70011
+7001402,0,'E-Collège Jésus-Marie De Sillery',70014
+7001403,0,'O-Des Carougeois / J-C-Cantin',70014
+7002503,0,'O-Term De Marly',70025
+7005400,0,'N-St-Honoré / Ste-Thérèse',70054
+7005401,0,'S-ÉS De La Seigneurie',70054
+7005500,0,'N-G-Viger / St-Ignace',70055
+7005501,0,'S-ÉS De La Seigneurie',70055
+7007900,0,'N-St-Paul / St-Olivier',70079
+7007901,0,'S-ÉS La Camaradière',70079
+7008000,0,'N-ÉS La Camaradière',70080
+7008001,0,'S-O''Neil / W-Hamel',70080
+7008400,0,'N-Du Costebelle / Pertuis',70084
+7008401,0,'S-ÉS La Camaradière',70084
+7008600,0,'N-ÉS La Camaradière',70086
+7008601,0,'S-Père-Lelièvre / Godin',70086
