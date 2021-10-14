@@ -1,2 +1,1 @@
-Bus RTC à Québec pour MonTransit.
-Horaires. Nouvelles.
+Bus RTC à Québec pour MonTransit. Horaires. Nouvelles.
