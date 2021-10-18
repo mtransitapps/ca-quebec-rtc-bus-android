@@ -7,13 +7,18 @@
     <bool name="rss_copy_to_file_instead_of_streaming">true</bool> <!-- FIX invalid RSS! -->
     <string name="rss_encoding">iso-8859-1</string>
     <string-array name="rss_feeds">
+        <!-- TODO: fix then re-enable -->
         <item>https://www.rtcquebec.ca/rtc/rss.aspx</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item></item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>https://www.rtcquebec.ca/</item>
+        <item>https://www.rtcquebec.ca/medias/nouvelles</item>
+        <!-- https://www.rtcquebec.ca/medias/communiques -->
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.rtcquebec.ca</item>
