@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <integer name="rss_db_version">1</integer>
+    <integer name="rss_db_version">2</integer>
     <string name="rss_authority">org.mtransit.android.ca_quebec_rtc_bus.news.rss</string>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
@@ -11,7 +11,7 @@
         <item>https://www.rtcquebec.ca/rtc/rss.aspx</item>
     </string-array>
     <string-array name="rss_feeds_author_icon">
-        <item></item>
+        <item>https://www.rtcquebec.ca/favicon/favicon-32x32.png</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>@string/gtfs_rts_short_name</item>
