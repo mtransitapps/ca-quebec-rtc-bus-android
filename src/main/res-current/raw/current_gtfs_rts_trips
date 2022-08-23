@@ -196,11 +196,15 @@
 38101,0,'S-U Laval / Cgp Garneau',381
 38200,0,'N-St-Émile',382
 38201,0,'S-U Laval / Cgp Garneau',382
+38400,0,'N-Loretteville',384
 38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
+40500,0,'N-Ctr Vidéotron',405
 41001,0,'S-Festival D''Été',410
 42002,0,'E-Festival D''Été',420
+43001,0,'S-Festival D''Été',430
+45001,0,'S-Festival D''Été',450
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536
@@ -258,12 +262,27 @@
 98200,0,'N-Lac-St-Charles',982
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
+1001302,0,'E-ÉS De Rochebelle',10013
+1001303,0,'O-De Terrebonne / Suète',10013
+1001402,0,'E-Collège Des Compagnons',10014
+1001403,0,'O-De La Riv / Domaine',10014
+1001502,0,'E-Collège Des Compagnons',10015
+1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
 1005400,0,'N-Rang-St-Ignace / Forain',10054
 1005401,0,'S-Académie Ste-Marie',10054
 1005500,0,'N-Raymond / L-Chardon',10055
+1008000,0,'N-ÉS Polyvalente De Anc-Lorette',10080
+1008001,0,'S-Term Les Saules',10080
 1008200,0,'N-St-Jean-Eudes',10082
 1008201,0,'S-Samson / Baker',10082
 1009202,0,'E-Term Charlesbourg',10092
+1009203,0,'O-Campus Notre-Dame-De-Foy',10092
+2001302,0,'E-ÉS De Rochebelle',20013
+2001303,0,'O-Des Sapins / Versant-N',20013
+2001502,0,'E-Collège Des Compagnons',20015
+2001503,0,'O-E-Blondin / Prom-Des-Soeurs',20015
+2007900,0,'N-ÉS Polyvalente De Anc-Lorette',20079
+2007901,0,'S-Term Les Saules',20079
 7001103,0,'O-C-Laforte / McCartney',70011
 7001402,0,'E-Collège Jésus-Marie De Sillery',70014
 7001403,0,'O-Des Carougeois / J-C-Cantin',70014
