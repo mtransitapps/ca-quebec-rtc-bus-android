@@ -3,4 +3,6 @@
     <integer name="gtfs_rts_db_version">20230214</integer>
     <string name="gtfs_rts_authority">org.mtransit.android.ca_quebec_rtc_bus.gtfs</string>
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
+    <string name="gtfs_rts_contact_us">https://www.rtcquebec.ca/en/customer-service</string>
+    <string name="gtfs_rts_contact_us_fr">https://www.rtcquebec.ca/service-la-clientele</string>
 </resources>
