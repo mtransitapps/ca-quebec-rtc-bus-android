@@ -168,12 +168,36 @@
 33101,0,'S-Pte-De-Ste-Foy',331
 33200,0,'N-St-Rodrigue',332
 33201,0,'S-Ste-Foy Ctr',332
+33600,0,'N-Ston Des Roses',336
+33601,0,'S-U Laval / Cgp Garneau',336
 33700,0,'N-Term De La Faune',337
 33701,0,'S-U Laval / Cgp Garneau',337
+33800,0,'N-Mgne-Des-Roches',338
+33801,0,'S-U Laval / Cgp Garneau',338
+34400,0,'N-Ste-Thérèse-De-Lisieux',344
+34401,0,'S-U Laval / Cgp Garneau',344
 35000,0,'N-Term Chute-Montmorency',350
 35001,0,'S-U Laval / Cgp Garneau',350
 35400,0,'N-Ste-Thérèse-De-Lisieux',354
 35401,0,'S-Pte-De-Ste-Foy',354
+35500,0,'N-Ste-Thérèse-De-Lisieux',355
+35501,0,'S-U Laval / Cgp Garneau',355
+35800,0,'N-Ste-Thérèse-De-Lisieux',358
+35801,0,'S-U Laval / Cgp Garneau',358
+37200,0,'N-Lac-St-Charles',372
+37201,0,'S-U Laval / Cgp Garneau',372
+37400,0,'N-Neufchâtel',374
+37401,0,'S-U Laval / Cgp Garneau',374
+37700,0,'N-Val-Bélair',377
+37701,0,'S-U Laval / Cgp Garneau',377
+38000,0,'N-Anc-Lorette',380
+38001,0,'S-U Laval / Cgp Garneau',380
+38100,0,'N-Neufchâtel',381
+38101,0,'S-U Laval / Cgp Garneau',381
+38200,0,'N-St-Émile',382
+38201,0,'S-U Laval / Cgp Garneau',382
+38400,0,'N-Loretteville',384
+38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
 40002,0,'E-Term Gare-Du-Palais',400
@@ -251,6 +275,8 @@
 1008001,0,'S-Term Les Saules',10080
 1008200,0,'N-St-Jean-Eudes',10082
 1008201,0,'S-Samson / Baker',10082
+1009202,0,'E-Term Charlesbourg',10092
+1009203,0,'O-Campus Notre-Dame-De-Foy',10092
 2001302,0,'E-ÉS De Rochebelle',20013
 2001303,0,'O-Des Sapins / Versant-N',20013
 2001502,0,'E-Collège Des Compagnons',20015
