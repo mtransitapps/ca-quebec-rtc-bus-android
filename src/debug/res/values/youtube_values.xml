@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <string name="youtube_authority">org.mtransit.android.debug.ca_quebec_rtc_bus.news.youtube</string>
+    <string name="youtube_authority">org.mtransit.android.debug.ca_quebec_rtc_bus2.news.youtube</string>
 </resources>
