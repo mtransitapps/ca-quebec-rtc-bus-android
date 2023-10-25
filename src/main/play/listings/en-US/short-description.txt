@@ -1,1 +1,1 @@
-Quebec City RTC bus for MonTransit. Schedules. News.
+Quebec City RTC buses for MonTransit. Schedules. News.
