@@ -4,10 +4,10 @@
     tools:ignore="MissingVersion">
 
     <application
-        android:allowBackup="true"
         android:description="@string/app_desc"
         android:icon="@mipmap/module_app_icon"
-        android:label="@string/app_name">
+        android:label="@string/app_name"
+        tools:targetApi="${target_sdk_version}">
         <!-- GTFS ROUTE TRIP STOP & SCHEDULE PROVIDER -->
         <provider
             android:name="org.mtransit.android.commons.provider.GTFSProvider"
@@ -83,7 +83,7 @@
             android:authorities="@string/rss_authority"
             android:exported="true"
             android:readPermission="${permission_provider_read}"
-            tools:ignore="MissingRegistered" >
+            tools:ignore="MissingRegistered">
             <meta-data
                 android:name="@string/news_provider"
                 android:value="@string/news_provider" />
