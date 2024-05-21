@@ -47,7 +47,7 @@
 5302,0,'E-Courville',53
 5303,0,'O-Term Beauport',53
 5400,0,'N-Ste-Thérèse-De-Lisieux',54
-5401,0,'S-Cgp Limoilou / Vieux-Québec',54
+5401,0,'S-Term Beauport / Vieux-Québec',54
 5500,0,'N-Ste-Thérèse-De-Lisieux',55
 5501,0,'S-Term Beauport',55
 5600,0,'N-Parc Ind De Beauport',56
@@ -200,6 +200,8 @@
 38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
+40002,0,'E-Term Gare-Du-Palais',400
+40003,0,'O-Ste-Foy Ctr',400
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536

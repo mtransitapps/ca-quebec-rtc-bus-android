@@ -35,9 +35,11 @@
 3300,0,'N-Parc Ind Charlesbourg',33
 3301,0,'S-Term De La Faune',33
 3400,0,'N-Des Laurentides',34
+3401,0,'S-Term De La Faune',34
 3600,0,'N-Ston Des Roses',36
 3601,0,'S-Pl J-Cartier',36
 3900,0,'N-Term De La Faune',39
+3901,0,'S-41e Rue E',39
 5102,0,'E-Parc-O-Bus Ste-Anne',51
 5103,0,'O-Term Beauport',51
 5200,0,'N-Term Charlesbourg',52
@@ -45,7 +47,7 @@
 5302,0,'E-Courville',53
 5303,0,'O-Term Beauport',53
 5400,0,'N-Ste-Thérèse-De-Lisieux',54
-5401,0,'S-Cgp Limoilou / Vieux-Québec',54
+5401,0,'S-Term Beauport / Vieux-Québec',54
 5500,0,'N-Ste-Thérèse-De-Lisieux',55
 5501,0,'S-Term Beauport',55
 5600,0,'N-Parc Ind De Beauport',56
