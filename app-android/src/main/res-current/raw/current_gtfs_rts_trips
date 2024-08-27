@@ -27,7 +27,7 @@
 2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
 2902,0,'E-Pl J-Cartier',29
-2903,0,'O-Parc Colbert O',29
+2903,0,'O-Parc Colbert',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
 3200,0,'N-Lac Clément',32
@@ -156,9 +156,9 @@
 28901,0,'S-Colline Parlementaire',289
 29000,0,'N-Loretteville',290
 29001,0,'S-Vieux-Québec',290
-29202,0,'E-Pl J-Cartier',292
+29202,0,'E-Pl J-Cartier / E-Term Gare-Du-Palais',292
 29203,0,'O-St-Augustin',292
-29402,0,'E-Pl J-Cartier',294
+29402,0,'E-Pl J-Cartier / E-Term Gare-Du-Palais',294
 29403,0,'O-St-Augustin',294
 31502,0,'E-U Laval / Cgp Garneau',315
 31503,0,'O-Cap-Rouge',315
@@ -185,13 +185,16 @@
 35800,0,'N-Ste-Thérèse-De-Lisieux',358
 35801,0,'S-U Laval / Cgp Garneau',358
 37200,0,'N-Lac-St-Charles',372
+37201,0,'S-U Laval / Cgp Garneau',372
 37400,0,'N-Neufchâtel',374
 37401,0,'S-U Laval / Cgp Garneau',374
+37700,0,'N-Val-Bélair',377
 37701,0,'S-U Laval / Cgp Garneau',377
 38000,0,'N-Anc-Lorette',380
 38001,0,'S-U Laval / Cgp Garneau',380
 38100,0,'N-Neufchâtel',381
 38101,0,'S-U Laval / Cgp Garneau',381
+38200,0,'N-St-Émile',382
 38201,0,'S-U Laval / Cgp Garneau',382
 38400,0,'N-Loretteville',384
 38401,0,'S-U Laval / Cgp Garneau',384
@@ -199,10 +202,6 @@
 39101,0,'S-Pte-De-Ste-Foy',391
 40002,0,'E-Term Gare-Du-Palais',400
 40003,0,'O-Ste-Foy Ctr',400
-40500,0,'N-Ctr Vidéotron',405
-41001,0,'S-Festival D''Été',410
-43001,0,'S-Festival D''Été',430
-45001,0,'S-Festival D''Été',450
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536
@@ -260,5 +259,43 @@
 98200,0,'N-Lac-St-Charles',982
 98400,0,'N-Neufchâtel',984
 99203,0,'O-St-Augustin',992
+1000300,0,'N-St-Jean-Eudes',10003
+1000301,0,'S-Des Lilas O / Colisée',10003
+1001302,0,'E-ÉS De Rochebelle',10013
+1001303,0,'O-De Terrebonne / Suète',10013
+1001402,0,'E-Collège Des Compagnons',10014
+1001403,0,'O-De La Riv / Domaine',10014
+1001502,0,'E-Collège Des Compagnons',10015
+1001503,0,'O-De La Prom-Des-Soeurs / J-C-Cantin',10015
+1008000,0,'N-ÉS Polyvalente De Anc-Lorette',10080
+1008001,0,'S-Michelet / St-Jean-Baptiste',10080
+1008200,0,'N-St-Jean-Eudes',10082
+1008201,0,'S-Samson / Baker',10082
 1009202,0,'E-Term Charlesbourg',10092
 1009203,0,'O-Campus Notre-Dame-De-Foy',10092
+2001302,0,'E-ÉS De Rochebelle',20013
+2001303,0,'O-Des Sapins / Versant-N',20013
+2001502,0,'E-Collège Des Compagnons',20015
+2001503,0,'O-De La Prom-Des-Soeurs / Escoffier',20015
+2007900,0,'N-ÉS Polyvalente De Anc-Lorette',20079
+2007901,0,'S-St-Jean-Baptiste / Barrès',20079
+4008200,0,'N-Du Lac-St-Charles / Delage',40082
+4008201,0,'S-ÉS Du Phare',40082
+7001103,0,'O-C-Laforte / McCartney',70011
+7001402,0,'E-Collège Jésus-Marie De Sillery',70014
+7001403,0,'O-Des Carougeois / J-C-Cantin',70014
+7002503,0,'O-Pte-De-Ste-Foy',70025
+7005400,0,'N-St-Honoré / Ste-Thérèse',70054
+7005401,0,'S-ÉS De La Seigneurie',70054
+7005500,0,'N-Du Rang-St-Ignace / Forain',70055
+7005501,0,'S-ÉS De La Seigneurie',70055
+7007900,0,'N-St-Paul / St-Olivier',70079
+7007901,0,'S-ÉS La Camaradière',70079
+7008000,0,'N-ÉS La Camaradière',70080
+7008001,0,'S-O''Neil / W-Hamel',70080
+7008400,0,'N-Du Costebelle / Pertuis',70084
+7008401,0,'S-ÉS La Camaradière',70084
+7008600,0,'N-ÉS La Camaradière',70086
+7008601,0,'S-Père-Lelièvre / Godin',70086
+13008200,0,'N-Lac-St-Charles',130082
+13008201,0,'S-ÉS Du Phare',130082
