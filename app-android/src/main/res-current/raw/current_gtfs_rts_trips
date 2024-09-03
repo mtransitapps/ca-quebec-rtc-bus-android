@@ -5,7 +5,7 @@
 400,0,'N-Maizerets',4
 401,0,'S-Pl J-Cartier',4
 902,0,'E-Pl J-Cartier',9
-903,0,'O-Parc Colbert E',9
+903,0,'O-Parcs Jean-Talon N Et Duberger',9
 1102,0,'E-Gare Fluviale',11
 1103,0,'O-Pte-De-Ste-Foy',11
 1302,0,'E-St-Louis / Ste-Foy Ctr / Versant-N',13
@@ -27,7 +27,7 @@
 2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
 2902,0,'E-Pl J-Cartier',29
-2903,0,'O-Parc Colbert',29
+2903,0,'O-Parc Colbert E',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
 3200,0,'N-Lac Clément',32
@@ -156,9 +156,9 @@
 28901,0,'S-Colline Parlementaire',289
 29000,0,'N-Loretteville',290
 29001,0,'S-Vieux-Québec',290
-29202,0,'E-Pl J-Cartier / E-Term Gare-Du-Palais',292
+29202,0,'E-Term Gare-Du-Palais',292
 29203,0,'O-St-Augustin',292
-29402,0,'E-Pl J-Cartier / E-Term Gare-Du-Palais',294
+29402,0,'E-Term Gare-Du-Palais',294
 29403,0,'O-St-Augustin',294
 31502,0,'E-U Laval / Cgp Garneau',315
 31503,0,'O-Cap-Rouge',315
