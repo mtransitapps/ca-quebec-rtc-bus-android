@@ -200,6 +200,10 @@
 38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
+40500,0,'N-Ctr Vidéotron',405
+41001,0,'S-Festival D''Été',410
+43001,0,'S-Festival D''Été',430
+45001,0,'S-Festival D''Été',450
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536
@@ -287,13 +291,5 @@
 7005401,0,'S-ÉS De La Seigneurie',70054
 7005500,0,'N-Du Rang-St-Ignace / Forain',70055
 7005501,0,'S-ÉS De La Seigneurie',70055
-7007900,0,'N-St-Paul / St-Olivier',70079
-7007901,0,'S-ÉS La Camaradière',70079
-7008000,0,'N-ÉS La Camaradière',70080
-7008001,0,'S-O''Neil / W-Hamel',70080
-7008400,0,'N-Du Costebelle / Pertuis',70084
-7008401,0,'S-ÉS La Camaradière',70084
-7008600,0,'N-ÉS La Camaradière',70086
-7008601,0,'S-Père-Lelièvre / Godin',70086
 13008200,0,'N-Lac-St-Charles',130082
 13008201,0,'S-ÉS Du Phare',130082
