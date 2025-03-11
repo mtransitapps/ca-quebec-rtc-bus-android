@@ -200,6 +200,8 @@
 38401,0,'S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
+40002,0,'E-Term Gare-Du-Palais',400
+40003,0,'O-Ste-Foy Ctr',400
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536
@@ -260,7 +262,6 @@
 1000300,0,'N-St-Jean-Eudes',10003
 1000301,0,'S-Des Lilas O / Colisée',10003
 1001302,0,'E-ÉS De Rochebelle',10013
-1001303,0,'O-De Terrebonne / Suète',10013
 1001402,0,'E-Collège Des Compagnons',10014
 1001403,0,'O-De La Riv / Domaine',10014
 1001502,0,'E-Collège Des Compagnons',10015
