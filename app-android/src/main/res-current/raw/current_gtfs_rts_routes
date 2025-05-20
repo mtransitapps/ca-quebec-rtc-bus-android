@@ -10,7 +10,7 @@
 18,'18','Gare Du Palais - Université Laval','013888',1504579,3
 19,'19','Grand Théâtre - Limoilou','013888',1504580,3
 22,'22','Ste-Foy Centre - Terminus Les Saules','013888',1504604,3
-25,'25','Place D''Youville / Gare Du Palais - Pointe-De-Ste-Foy','013888',1504607,3
+25,'25','Terminus Place-D''Youville - Pointe-De-Ste-Foy','013888',1504607,3
 28,'28','Colline Parlementaire - 51e Rue Est','013888',1504610,3
 29,'29','Parc Colbert Est - Place Jacques-Cartier','013888',1504611,3
 31,'31','Terminus De La Faune - Lac-St-Charles','013888',1504634,3
@@ -80,40 +80,41 @@
 292,'292','Terminus Gare-Du-Palais - St-Augustin','E04503',46642991,3
 294,'294','Terminus Gare-Du-Palais - St-Augustin','E04503',46642993,3
 315,'315','Univ.Laval/Cégep Garneau - Cap-Rouge','E04503',46643707,3
-330,'330','Univ.Laval/Cégep Garneau - Terminus Charlesbourg','E04503',46643764,3
+330,'330','Cégep Garneau Via Univ Laval - Station Des Roses','E04503',46643764,3
 331,'331','Pointe-De-Ste-Foy - Terminus De La Faune','E04503',46643765,3
 332,'332','St-Rodrigue - Ste-Foy Centre','E04503',46643766,3
-336,'336','Univ.Laval/Cégep Garneau - Station Des Roses','E04503',46643770,3
-337,'337','Univ.Laval/Cégep Garneau - Terminus De La Faune','E04503',46643771,3
-338,'338','Univ.Laval/Cégep Garneau - Montagne-Des-Roches','E04503',46643772,3
-344,'344','Univ.Laval/Cégep Garneau - Ste-Thérèse-De-Lisieux','E04503',46643799,3
-350,'350','Univ.Laval/Cégep Garneau - Terminus Chute-Montmorency','E04503',46643826,3
+336,'336','Cégep Garneau Via Univ Laval - Station Des Roses','E04503',46643770,3
+337,'337','Cégep Garneau Via Univ Laval - Terminus De La Faune','E04503',46643771,3
+338,'338','Cégep Garneau Via Univ Laval - Bourg-Royal','E04503',46643772,3
+344,'344','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643799,3
+350,'350','Cégep Garneau Via Univ Laval - Terminus Chute-Montmorency','E04503',46643826,3
 354,'354','Pointe-De-Ste-Foy - Ste-Thérèse-De-Lisieux','E04503',46643830,3
-355,'355','Univ.Laval/Cégep Garneau - Ste-Thérèse-De-Lisieux','E04503',46643831,3
-358,'358','Univ.Laval/Cégep Garneau - Ste-Thérèse-De-Lisieux','E04503',46643834,3
-372,'372','Univ.Laval/Cégep Garneau - Lac-St-Charles','E04503',46643890,3
-374,'374','Univ.Laval/Cégep Garneau - Neufchâtel','E04503',46643892,3
-377,'377','Univ.Laval/Cégep Garneau - Val-Bélair','E04503',46643895,3
-380,'380','Univ.Laval/Cégep Garneau - L''Ancienne-Lorette','E04503',46643919,3
-381,'381','Univ.Laval/Cégep Garneau - Neufchâtel','E04503',46643920,3
-382,'382','Univ.Laval/Cégep Garneau - St-Émile','E04503',46643921,3
-384,'384','Univ.Laval/Cégep Garneau - Loretteville','E04503',46643923,3
+355,'355','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643831,3
+358,'358','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643834,3
+372,'372','Cégep Garneau Via Univ Laval - Lac-St-Charles','E04503',46643890,3
+374,'374','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',46643892,3
+377,'377','Cégep Garneau Via Univ Laval - Val-Bélair','E04503',46643895,3
+380,'380','Cégep Garneau Via Univ Laval - L''Ancienne-Lorette','E04503',46643919,3
+381,'381','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',46643920,3
+382,'382','Cégep Garneau Via Univ Laval - St-Émile','E04503',46643921,3
+384,'384','Cégep Garneau Via Univ Laval - Loretteville','E04503',46643923,3
 391,'391','Pointe-De-Ste-Foy - Terminus Les Saules','E04503',46643951,3
-530,'530','Ste-Foy Centre - Station Des Roses','E04503',46645686,3
-536,'536','Ste-Foy Centre - Du Bourg-Royal','E04503',46645692,3
-537,'537','Ste-Foy Centre - Terminus De La Faune','E04503',46645693,3
-538,'538','Ste-Foy Centre - Du Bourg-Royal','E04503',46645694,3
-550,'550','Ste-Foy Centre - Terminus Chute-Montmorency','E04503',46645748,3
-554,'554','Ste-Foy Centre - Ste-Thérèse-De-Lisieux','E04503',46645752,3
-555,'555','Ste-Foy Centre - Ste-Thérèse-De-Lisieux','E04503',46645753,3
-558,'558','Ste-Foy Centre - Ste-Thérèse-De-Lisieux','E04503',46645756,3
-572,'572','Ste-Foy Centre - Lac-St-Charles','E04503',46645812,3
-574,'574','Ste-Foy Centre - Neufchâtel','E04503',46645814,3
-577,'577','Ste-Foy Centre - Val-Bélair','E04503',46645817,3
-580,'580','Ste-Foy Centre - L''Ancienne-Lorette','E04503',46645841,3
-581,'581','Lebourgneuf / Ste-Foy Centre - Lebourgneuf / Neufchâtel','E04503',46645842,3
-582,'582','Lebourgneuf / Ste-Foy Centre - Lebourgneuf / St-Émile','E04503',46645843,3
-584,'584','Ste-Foy Centre - Loretteville','E04503',46645845,3
+400,'400','Terminus Gare-Du-Palais - Ste-Foy Centre','013888',46644632,3
+530,'530','Ste-Foy Centre Via Univ Laval - Station Des Roses','E04503',46645686,3
+536,'536','Ste-Foy Centre Via Univ Laval - Station Des Roses','E04503',46645692,3
+537,'537','Ste-Foy Centre Via Univ Laval - Terminus De La Faune','E04503',46645693,3
+538,'538','Ste-Foy Centre Via Univ Laval - Bourg-Royal','E04503',46645694,3
+550,'550','Ste-Foy Centre Via Univ Laval - Terminus Chute-Montmorency','E04503',46645748,3
+554,'554','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645752,3
+555,'555','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645753,3
+558,'558','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645756,3
+572,'572','Ste-Foy Centre Via Univ Laval - Lac-St-Charles','E04503',46645812,3
+574,'574','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',46645814,3
+577,'577','Ste-Foy Centre Via Univ Laval - Val-Bélair','E04503',46645817,3
+580,'580','Ste-Foy Centre Via Univ Laval - L''Ancienne-Lorette','E04503',46645841,3
+581,'581','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',46645842,3
+582,'582','Ste-Foy Centre Via Univ Laval - St-Émile','E04503',46645843,3
+584,'584','Ste-Foy Centre Via Univ Laval - Loretteville','E04503',46645845,3
 800,'800','Terminus Chute-Montmorency - Pointe-De-Ste-Foy','97BF0D',46648476,3
 801,'801','Terminus De La Faune - Pointe-De-Ste-Foy','97BF0D',46648477,3
 802,'802','Terminus Beauport - Station Belvédère','97BF0D',46648478,3

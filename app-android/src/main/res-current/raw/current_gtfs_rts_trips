@@ -189,17 +189,19 @@
 37400,0,'N-Neufchâtel',374
 37401,0,'S-U Laval / Cgp Garneau',374
 37700,0,'N-Val-Bélair',377
-37701,0,'S-U Laval / Cgp Garneau',377
+37701,0,'S-Cgp Garneau Via U Laval',377
 38000,0,'N-Anc-Lorette',380
-38001,0,'S-U Laval / Cgp Garneau',380
+38001,0,'S-Cgp Garneau Via U Laval / S-U Laval / Cgp Garneau',380
 38100,0,'N-Neufchâtel',381
-38101,0,'S-U Laval / Cgp Garneau',381
+38101,0,'S-Cgp Garneau Via U Laval / S-U Laval / Cgp Garneau',381
 38200,0,'N-St-Émile',382
 38201,0,'S-U Laval / Cgp Garneau',382
 38400,0,'N-Loretteville',384
-38401,0,'S-U Laval / Cgp Garneau',384
+38401,0,'S-Cgp Garneau Via U Laval / S-U Laval / Cgp Garneau',384
 39100,0,'N-Term Les Saules',391
 39101,0,'S-Pte-De-Ste-Foy',391
+40002,0,'E-Term Gare-Du-Palais',400
+40003,0,'O-Ste-Foy Ctr',400
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr',530
 53600,0,'N-Du Bourg-Royal',536
@@ -209,13 +211,13 @@
 53800,0,'N-Du Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr',538
 55000,0,'N-Term Chute-Montmorency',550
-55001,0,'S-Ste-Foy Ctr',550
+55001,0,'S-Ste-Foy Ctr Via U Laval',550
 55400,0,'N-Ste-Thérèse-De-Lisieux',554
-55401,0,'S-Ste-Foy Ctr',554
+55401,0,'S-Ste-Foy Ctr Via U Laval',554
 55500,0,'N-Ste-Thérèse-De-Lisieux',555
-55501,0,'S-Ste-Foy Ctr',555
+55501,0,'S-Ste-Foy Ctr Via U Laval',555
 55800,0,'N-Ste-Thérèse-De-Lisieux',558
-55801,0,'S-Ste-Foy Ctr',558
+55801,0,'S-Ste-Foy Ctr Via U Laval',558
 57200,0,'N-Lac-St-Charles',572
 57201,0,'S-Ste-Foy Ctr',572
 57400,0,'N-Neufchâtel',574
