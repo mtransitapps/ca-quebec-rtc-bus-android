@@ -1,30 +1,25 @@
-'20250609daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
-'20250610daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
-'20250611daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
-'20250612daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
-'20250613daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
 '20250616daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
 '20250617daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
 '20250618daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
 '20250619daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
 '20250620daily',28101,63700,,'',0,1600,,'',0,7500,,'',0,1000,,'',0,2100,,'',0
-'20250609daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
-'20250610daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
-'20250611daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
-'20250612daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
-'20250613daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
+'20250623daily',28101,63500,,'',0,6500,,'',0,3300,,'',0,1000,,'',0
+'20250625daily',28101,63500,,'',0,6500,,'',0,3300,,'',0,1000,,'',0
+'20250626daily',28101,63500,,'',0,6500,,'',0,3300,,'',0,1000,,'',0
+'20250627daily',28101,63500,,'',0,6500,,'',0,3300,,'',0,1000,,'',0
+'20250630daily',28101,63500,,'',0,6500,,'',0,3300,,'',0,1000,,'',0
 '20250616daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
 '20250617daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
 '20250618daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
 '20250619daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
 '20250620daily',38101,63650,0,'S-Cgp Garneau Via U Laval',0,7400,0,'S-Cgp Garneau Via U Laval',0,1100,0,'S-U Laval / Cgp Garneau',0,1700,0,'S-U Laval / Cgp Garneau',0,17400,0,'S-Cgp Garneau Via U Laval',0
-'20250609daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250610daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250611daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250612daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250613daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250616daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250617daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250618daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250619daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
-'20250620daily',58101,64350,,'',0,6300,,'',0,3600,,'',0
+'20250616daily',58101,64350,0,'S-Lebourgneuf / Ste-Foy Ctr',0,6300,0,'S-Lebourgneuf / Ste-Foy Ctr',0,3600,0,'S-Lebourgneuf / Ste-Foy Ctr',0
+'20250617daily',58101,64350,0,'S-Lebourgneuf / Ste-Foy Ctr',0,6300,0,'S-Lebourgneuf / Ste-Foy Ctr',0,3600,0,'S-Lebourgneuf / Ste-Foy Ctr',0
+'20250618daily',58101,64350,0,'S-Lebourgneuf / Ste-Foy Ctr',0,6300,0,'S-Lebourgneuf / Ste-Foy Ctr',0,3600,0,'S-Lebourgneuf / Ste-Foy Ctr',0
+'20250619daily',58101,64350,0,'S-Lebourgneuf / Ste-Foy Ctr',0,6300,0,'S-Lebourgneuf / Ste-Foy Ctr',0,3600,0,'S-Lebourgneuf / Ste-Foy Ctr',0
+'20250620daily',58101,64350,0,'S-Lebourgneuf / Ste-Foy Ctr',0,6300,0,'S-Lebourgneuf / Ste-Foy Ctr',0,3600,0,'S-Lebourgneuf / Ste-Foy Ctr',0
+'20250623daily',58101,64050,0,'S-Ste-Foy Ctr Via U Laval',0,6400,0,'S-Ste-Foy Ctr Via U Laval',0,3600,0,'S-Ste-Foy Ctr Via U Laval',0
+'20250625daily',58101,64050,0,'S-Ste-Foy Ctr Via U Laval',0,6400,0,'S-Ste-Foy Ctr Via U Laval',0,3600,0,'S-Ste-Foy Ctr Via U Laval',0
+'20250626daily',58101,64050,0,'S-Ste-Foy Ctr Via U Laval',0,6400,0,'S-Ste-Foy Ctr Via U Laval',0,3600,0,'S-Ste-Foy Ctr Via U Laval',0
+'20250627daily',58101,64050,0,'S-Ste-Foy Ctr Via U Laval',0,6400,0,'S-Ste-Foy Ctr Via U Laval',0,3600,0,'S-Ste-Foy Ctr Via U Laval',0
+'20250630daily',58101,64050,0,'S-Ste-Foy Ctr Via U Laval',0,6400,0,'S-Ste-Foy Ctr Via U Laval',0,3600,0,'S-Ste-Foy Ctr Via U Laval',0

@@ -202,14 +202,18 @@
 39101,0,'S-Pte-De-Ste-Foy',391
 40002,0,'E-Term Gare-Du-Palais',400
 40003,0,'O-Ste-Foy Ctr',400
+40500,0,'N-Ctr Vidéotron',405
+41001,0,'S-Festival D''Été',410
+43001,0,'S-Festival D''Été',430
+45001,0,'S-Festival D''Été',450
 53000,0,'N-Ston Des Roses',530
-53001,0,'S-Ste-Foy Ctr',530
-53600,0,'N-Du Bourg-Royal',536
-53601,0,'S-Ste-Foy Ctr',536
+53001,0,'S-Ste-Foy Ctr Via U Laval',530
+53600,0,'N-Ston Des Roses',536
+53601,0,'S-Ste-Foy Ctr Via U Laval',536
 53700,0,'N-Term De La Faune',537
-53701,0,'S-Ste-Foy Ctr',537
+53701,0,'S-Ste-Foy Ctr Via U Laval',537
 53800,0,'N-Du Bourg-Royal',538
-53801,0,'S-Ste-Foy Ctr',538
+53801,0,'S-Ste-Foy Ctr Via U Laval',538
 55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr Via U Laval',550
 55400,0,'N-Ste-Thérèse-De-Lisieux',554
@@ -219,19 +223,21 @@
 55800,0,'N-Ste-Thérèse-De-Lisieux',558
 55801,0,'S-Ste-Foy Ctr Via U Laval',558
 57200,0,'N-Lac-St-Charles',572
-57201,0,'S-Ste-Foy Ctr',572
+57201,0,'S-Ste-Foy Ctr Via U Laval',572
 57400,0,'N-Neufchâtel',574
-57401,0,'S-Ste-Foy Ctr',574
+57401,0,'S-Ste-Foy Ctr Via U Laval',574
 57700,0,'N-Val-Bélair',577
-57701,0,'S-Ste-Foy Ctr',577
+57701,0,'S-Ste-Foy Ctr Via U Laval',577
 58000,0,'N-Anc-Lorette',580
-58001,0,'S-Ste-Foy Ctr',580
+58001,0,'S-Ste-Foy Ctr Via U Laval',580
 58100,0,'N-Lebourgneuf / Neufchâtel',581
-58101,0,'S-Lebourgneuf / Ste-Foy Ctr',581
+58101,0,'S-Lebourgneuf / Ste-Foy Ctr / S-Ste-Foy Ctr Via U Laval',581
 58200,0,'N-Lebourgneuf / St-Émile',582
-58201,0,'S-Lebourgneuf / Ste-Foy Ctr',582
+58201,0,'S-Lebourgneuf / Ste-Foy Ctr / S-Ste-Foy Ctr Via U Laval',582
 58400,0,'N-Loretteville',584
-58401,0,'S-Ste-Foy Ctr',584
+58401,0,'S-Ste-Foy Ctr Via U Laval',584
+65000,0,'N-Term Beauport / POB D''Estimauville',650
+65001,0,'S-Pte-De-Ste-Foy',650
 80002,0,'E-Term Chute-Montmorency',800
 80003,0,'O-Pte-De-Ste-Foy',800
 80102,0,'E-Term De La Faune',801
