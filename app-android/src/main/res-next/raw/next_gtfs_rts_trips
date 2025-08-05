@@ -22,7 +22,7 @@
 1901,0,'S-Grand Théâtre',19
 2200,0,'N-Term Les Saules',22
 2201,0,'S-Ste-Foy Ctr',22
-2502,0,'E-Pl D''Youville / Gare Du Palais',25
+2502,0,'E-Term Gare-Du-Palais',25
 2503,0,'O-Pte-De-Ste-Foy',25
 2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
@@ -76,7 +76,7 @@
 7601,0,'S-Gare De Train De Ste-Foy',76
 7700,0,'N-Val-Bélair',77
 7701,0,'S-Term Les Saules',77
-7900,0,'N-Chauveau',79
+7900,0,'N-Des Châtels',79
 7901,0,'S-Term Les Saules / Belvédère',79
 8000,0,'N-Aéroport International Jean-Lesage',80
 8001,0,'S-Pl J-Cartier',80
@@ -92,12 +92,18 @@
 8601,0,'S-Pl J-Cartier / Colline Parlementaire',86
 8800,0,'N-Term Les Saules',88
 8801,0,'S-Ste-Foy Ctr',88
+9002,0,'E-Term Pie-XII',90
+9003,0,'O-St-Augustin',90
+9102,0,'E-Cgp Garneau Via U Laval',91
+9103,0,'O-St-Augustin',91
 9202,0,'E-Cgp Garneau',92
 9203,0,'O-St-Augustin',92
 9300,0,'N-Champigny',93
 9301,0,'S-Ste-Foy Ctr / U Laval / Cgp Garneau',93
 9402,0,'E-Cgp Garneau',94
 9403,0,'O-St-Augustin',94
+9600,0,'N-Champigny',96
+9601,0,'S-Term Pie-XII',96
 10702,0,'E-Gare Du Palais',107
 10703,0,'O-Pte-De-Ste-Foy',107
 13300,0,'N-Term De La Faune',133
@@ -112,7 +118,7 @@
 21503,0,'O-Cap-Rouge',215
 23000,0,'N-Term De La Faune',230
 23001,0,'S-Colline Parlementaire',230
-23600,0,'N-Ston Des Roses',236
+23600,0,'N-Orsainville / N-Ston Des Roses',236
 23601,0,'S-Colline Parlementaire',236
 23800,0,'N-Guillaume-Mathieu',238
 23801,0,'S-Colline Parlementaire',238
@@ -132,6 +138,8 @@
 25701,0,'S-Colline Parlementaire',257
 25800,0,'N-Ste-Thérèse-De-Lisieux',258
 25801,0,'S-Colline Parlementaire',258
+27000,0,'N-Val-Bélair',270
+27001,0,'S-Colline Parlementaire',270
 27200,0,'N-Loretteville',272
 27201,0,'S-Colline Parlementaire',272
 27300,0,'N-Loretteville S',273
@@ -156,21 +164,57 @@
 28901,0,'S-Colline Parlementaire',289
 29000,0,'N-Loretteville',290
 29001,0,'S-Vieux-Québec',290
+29102,0,'E-Term Gare-Du-Palais',291
+29103,0,'O-St-Augustin',291
 29202,0,'E-Term Gare-Du-Palais',292
 29203,0,'O-St-Augustin',292
 29402,0,'E-Term Gare-Du-Palais',294
 29403,0,'O-St-Augustin',294
 31502,0,'E-U Laval / Cgp Garneau',315
 31503,0,'O-Cap-Rouge',315
+33000,0,'N-Orsainville',330
+33001,0,'S-Cgp Garneau Via U Laval',330
+33200,0,'N-St-Rodrigue',332
+33201,0,'S-Ste-Foy Ctr',332
+33600,0,'N-Orsainville',336
+33601,0,'S-Cgp Garneau Via U Laval',336
+33700,0,'N-Term De La Faune',337
+33701,0,'S-Cgp Garneau Via U Laval',337
+33800,0,'N-Bourg-Royal',338
+33801,0,'S-Cgp Garneau Via U Laval',338
+35000,0,'N-Term Chute-Montmorency',350
+35001,0,'S-Cgp Garneau Via U Laval',350
+35400,0,'N-Ste-Thérèse-De-Lisieux',354
+35401,0,'S-Cgp Garneau Via U Laval',354
+35500,0,'N-Ste-Thérèse-De-Lisieux',355
+35501,0,'S-Cgp Garneau Via U Laval',355
+35800,0,'N-Ste-Thérèse-De-Lisieux',358
+35801,0,'S-Cgp Garneau Via U Laval',358
+37000,0,'N-Val-Bélair',370
+37001,0,'S-Cgp Garneau Via U Laval',370
+37200,0,'N-Lac-St-Charles',372
+37201,0,'S-Cgp Garneau Via U Laval',372
+37400,0,'N-Neufchâtel',374
+37401,0,'S-Cgp Garneau Via U Laval',374
+38000,0,'N-Anc-Lorette',380
+38001,0,'S-Cgp Garneau Via U Laval',380
+38100,0,'N-Neufchâtel',381
+38101,0,'S-Cgp Garneau Via U Laval',381
+38200,0,'N-St-Émile',382
+38201,0,'S-Cgp Garneau Via U Laval',382
+38400,0,'N-Loretteville',384
+38401,0,'S-Cgp Garneau Via U Laval',384
 40002,0,'E-Term Gare-Du-Palais',400
 40003,0,'O-Ste-Foy Ctr',400
-53000,0,'N-Ston Des Roses',530
+40200,0,'N-Term Gare-Du-Palais',402
+40201,0,'S-Term Pl-D''Youville',402
+53000,0,'N-Orsainville',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
-53600,0,'N-Ston Des Roses',536
+53600,0,'N-Orsainville / N-Ston Des Roses',536
 53601,0,'S-Ste-Foy Ctr Via U Laval',536
 53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr Via U Laval',537
-53800,0,'N-Du Bourg-Royal',538
+53800,0,'N-Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr Via U Laval',538
 55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr Via U Laval',550
@@ -180,6 +224,8 @@
 55501,0,'S-Ste-Foy Ctr Via U Laval',555
 55800,0,'N-Ste-Thérèse-De-Lisieux',558
 55801,0,'S-Ste-Foy Ctr Via U Laval',558
+57000,0,'N-Val-Bélair',570
+57001,0,'S-Ste-Foy Ctr Via U Laval',570
 57200,0,'N-Lac-St-Charles',572
 57201,0,'S-Ste-Foy Ctr Via U Laval',572
 57400,0,'N-Neufchâtel',574
@@ -188,9 +234,9 @@
 57701,0,'S-Ste-Foy Ctr Via U Laval',577
 58000,0,'N-Anc-Lorette',580
 58001,0,'S-Ste-Foy Ctr Via U Laval',580
-58100,0,'N-Lebourgneuf / Neufchâtel',581
+58100,0,'N-Neufchâtel',581
 58101,0,'S-Ste-Foy Ctr Via U Laval',581
-58200,0,'N-Lebourgneuf / St-Émile',582
+58200,0,'N-St-Émile',582
 58201,0,'S-Ste-Foy Ctr Via U Laval',582
 58400,0,'N-Loretteville',584
 58401,0,'S-Ste-Foy Ctr Via U Laval',584
@@ -198,6 +244,8 @@
 63001,0,'S-Pte-De-Ste-Foy',630
 65000,0,'N-Term Beauport / POB D''Estimauville',650
 65001,0,'S-Pte-De-Ste-Foy',650
+69002,0,'E-Term Charlesbourg',690
+69003,0,'O-Parc Ind François-Leclerc',690
 80002,0,'E-Term Chute-Montmorency',800
 80003,0,'O-Pte-De-Ste-Foy',800
 80102,0,'E-Term De La Faune',801
@@ -206,11 +254,11 @@
 80203,0,'O-Ston Belvédère',802
 80302,0,'E-Term Beauport',803
 80303,0,'O-Term Les Saules',803
-80400,0,'N-Loretteville',804
+80400,0,'N-Val-Bélair',804
 80401,0,'S-Ste-Foy Ctr',804
 80702,0,'E-Pl D''Youville',807
 80703,0,'O-Pte-De-Ste-Foy',807
-90400,0,'N-Loretteville',904
+90400,0,'N-Val-Bélair',904
 90702,0,'E-Pl D''Youville',907
 90703,0,'O-Pte-De-Ste-Foy',907
 91503,0,'O-Cap-Rouge',915
@@ -224,4 +272,35 @@
 98000,0,'N-Anc-Lorette',980
 98200,0,'N-Lac-St-Charles',982
 98400,0,'N-Neufchâtel',984
+99103,0,'O-Cap-Rouge',991
 99203,0,'O-St-Augustin',992
+1000300,0,'N-St-Jean-Eudes',10003
+1000301,0,'S-Des Lilas O / Colisée',10003
+1001302,0,'E-ÉS De Rochebelle',10013
+1001303,0,'O-De La Suète / Versant-N',10013
+1008000,0,'N-ÉS Polyvalente De Anc-Lorette',10080
+1008001,0,'S-Michelet / St-Jean-Baptiste',10080
+1008200,0,'N-St-Jean-Eudes',10082
+1008201,0,'S-Samson / Baker',10082
+2001302,0,'E-ÉS De Rochebelle',20013
+2001303,0,'O-Des Sapins / Versant-N',20013
+2007900,0,'N-ÉS Polyvalente De Anc-Lorette',20079
+2007901,0,'S-St-Jean-Baptiste / Barrès',20079
+4008200,0,'N-Du Lac-St-Charles / Lepire',40082
+4008201,0,'S-ÉS Du Phare',40082
+7005400,0,'N-Des Sablonnières / Berrouard',70054
+7005401,0,'S-ÉS De La Seigneurie',70054
+7005500,0,'N-Du Rang-St-Ignace / Forain',70055
+7005501,0,'S-ÉS De La Seigneurie',70055
+7007900,0,'N-St-Paul / St-Olivier',70079
+7007901,0,'S-ÉS La Camaradière',70079
+7008000,0,'N-ÉS La Camaradière',70080
+7008001,0,'S-O''Neil / W-Hamel',70080
+7008400,0,'N-Du Costebelle / Pertuis',70084
+7008401,0,'S-ÉS La Camaradière',70084
+7008600,0,'N-ÉS La Camaradière',70086
+7008601,0,'S-Père-Lelièvre / Godin',70086
+7009002,0,'E-Collège Jésus-Marie De Sillery',70090
+7009003,0,'O-St-Félix / Bernaches',70090
+13008200,0,'N-Du Lac-St-Charles / Rêverie',130082
+13008201,0,'S-ÉS Du Phare',130082

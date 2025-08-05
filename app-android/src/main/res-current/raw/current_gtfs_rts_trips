@@ -22,7 +22,7 @@
 1901,0,'S-Grand Théâtre',19
 2200,0,'N-Term Les Saules',22
 2201,0,'S-Ste-Foy Ctr',22
-2502,0,'E-Pl D''Youville / Gare Du Palais',25
+2502,0,'E-Term Pl-D''Youville',25
 2503,0,'O-Pte-De-Ste-Foy',25
 2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
@@ -164,17 +164,13 @@
 31503,0,'O-Cap-Rouge',315
 40002,0,'E-Term Gare-Du-Palais',400
 40003,0,'O-Ste-Foy Ctr',400
-40500,0,'N-Ctr Vidéotron',405
-41001,0,'S-Festival D''Été',410
-43001,0,'S-Festival D''Été',430
-45001,0,'S-Festival D''Été',450
 53000,0,'N-Ston Des Roses',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
 53600,0,'N-Ston Des Roses',536
 53601,0,'S-Ste-Foy Ctr Via U Laval',536
 53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr Via U Laval',537
-53800,0,'N-Du Bourg-Royal',538
+53800,0,'N-Bourg-Royal',538
 53801,0,'S-Ste-Foy Ctr Via U Laval',538
 55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr Via U Laval',550
@@ -192,9 +188,9 @@
 57701,0,'S-Ste-Foy Ctr Via U Laval',577
 58000,0,'N-Anc-Lorette',580
 58001,0,'S-Ste-Foy Ctr Via U Laval',580
-58100,0,'N-Lebourgneuf / Neufchâtel',581
+58100,0,'N-Neufchâtel',581
 58101,0,'S-Ste-Foy Ctr Via U Laval',581
-58200,0,'N-Lebourgneuf / St-Émile',582
+58200,0,'N-St-Émile',582
 58201,0,'S-Ste-Foy Ctr Via U Laval',582
 58400,0,'N-Loretteville',584
 58401,0,'S-Ste-Foy Ctr Via U Laval',584
