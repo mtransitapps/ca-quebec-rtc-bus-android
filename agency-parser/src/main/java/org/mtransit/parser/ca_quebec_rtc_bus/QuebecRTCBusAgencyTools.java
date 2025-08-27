@@ -19,8 +19,8 @@ import org.mtransit.parser.gtfs.data.GSpec;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
+import org.mtransit.parser.mt.data.MDirection;
 import org.mtransit.parser.mt.data.MRoute;
-import org.mtransit.parser.mt.data.MTrip;
 
 import java.util.List;
 import java.util.Locale;
@@ -118,7 +118,7 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public void setTripHeadsign(@NotNull MRoute mRoute, @NotNull MTrip mTrip, @NotNull GTrip gTrip, @NotNull GSpec gtfs) { // DIRECTION ID USED BY REAL-TIME API
+	public void setDirectionHeadsign(@NotNull MRoute mRoute, @NotNull MDirection mDirection, @NotNull GTrip gTrip, @NotNull GSpec gtfs) { // DIRECTION ID USED BY REAL-TIME API
 		int directionId;
 		final String tripHeadsign1 = gTrip.getTripHeadsignOrDefault();
 		if (ENDS_WITH_N_.matcher(tripHeadsign1).find()) {
@@ -132,7 +132,7 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 		} else {
 			throw new MTLog.Fatal("Unexpected trip head-sign '%s'!", gTrip);
 		}
-		mTrip.setHeadsignString(
+		mDirection.setHeadsignString(
 				cleanTripHeadsign(gTrip.getTripHeadsignOrDefault()),
 				directionId
 		);
