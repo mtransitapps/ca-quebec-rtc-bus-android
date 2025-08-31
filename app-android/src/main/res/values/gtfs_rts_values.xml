@@ -4,4 +4,6 @@
     <string name="gtfs_status_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="gtfs_rts_contact_us">https://www.rtcquebec.ca/en/customer-service</string>
     <string name="gtfs_rts_contact_us_fr">https://www.rtcquebec.ca/service-la-clientele</string>
+    <string name="gtfs_rts_fares">https://www.rtcquebec.ca/en/rates-and-purchase</string>
+    <string name="gtfs_rts_fares_fr">https://www.rtcquebec.ca/tarifs-et-achat</string>
 </resources>
