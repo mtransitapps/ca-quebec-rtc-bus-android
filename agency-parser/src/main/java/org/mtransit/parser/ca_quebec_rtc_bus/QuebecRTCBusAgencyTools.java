@@ -11,12 +11,11 @@ import static org.mtransit.commons.RegexUtils.mGroup;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
-import org.mtransit.commons.StringUtils;
+import org.mtransit.commons.Cleaner;
 import org.mtransit.commons.provider.RTCQuebecProviderCommons;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GSpec;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
 import org.mtransit.parser.mt.data.MDirection;
@@ -38,11 +37,6 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public List<Locale> getSupportedLanguages() {
 		return LANG_FR;
-	}
-
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
 	}
 
 	@NotNull
@@ -67,6 +61,11 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 		return true;
 	}
 
+	@Override
+	public @Nullable String getRouteIdCleanupRegex() {
+		return "^1\\-";
+	}
+
 	@NotNull
 	@Override
 	public String cleanRouteShortName(@NotNull String routeShortName) {
@@ -85,14 +84,17 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 		return true; // route long name NOT provided
 	}
 
+	private static final Cleaner STARTS_WITH_DASH_ = new Cleaner("^\\-\\s");
+
 	@NotNull
 	@Override
 	public String cleanRouteLongName(@NotNull String routeLongName) {
+		routeLongName = STARTS_WITH_DASH_.clean(routeLongName);
 		routeLongName = CleanUtils.SAINT.matcher(routeLongName).replaceAll(CleanUtils.SAINT_REPLACEMENT);
 		routeLongName = CleanUtils.CLEAN_PARENTHESIS1.matcher(routeLongName).replaceAll(CleanUtils.CLEAN_PARENTHESIS1_REPLACEMENT);
 		routeLongName = CleanUtils.CLEAN_PARENTHESIS2.matcher(routeLongName).replaceAll(CleanUtils.CLEAN_PARENTHESIS2_REPLACEMENT);
 		routeLongName = NULL.matcher(routeLongName).replaceAll(EMPTY);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -179,17 +181,7 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		return Integer.parseInt(gStop.getStopCode()); // using stop code as stop ID
-	}
-
-	@NotNull
-	@Override
-	public String getStopCode(@NotNull GStop gStop) { // USED BY RTC QUEBEC REAL-TIME API
-		if (StringUtils.isEmpty(gStop.getStopCode())) {
-			//noinspection deprecation
-			return gStop.getStopId(); // using stop ID as stop code
-		}
-		return super.getStopCode(gStop);
+	public @Nullable String getStopIdCleanupRegex() {
+		return "^1\\-";
 	}
 }
