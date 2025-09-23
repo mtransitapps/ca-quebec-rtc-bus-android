@@ -1,147 +1,147 @@
-1,'1','Station Belvédère - Gare Fluviale / Cap-Blanc','013888',48533,3
-3,'3','Grand Théâtre - 41e Rue Est / Jean-Talon Ouest','013888',48535,3
-4,'4','Place Jacques-Cartier - Maizerets','013888',48536,3
-9,'9','Parcs Jean-Talon Nord Et Duberger - Place Jacques-Cartier','013888',48541,3
-11,'11','Gare Fluviale - Pointe-De-Ste-Foy','013888',1504572,3
-13,'13','St-Louis/Ste-Foy Centre/Du Versant-Nord - Du Versant-Nord/Ste-Foy Centre/St-Louis','013888',1504574,3
-16,'16','Sillery / U Laval / Ste-Foy Centre - U Laval / Sillery / Ste-Foy Centre','013888',1504577,3
-18,'18','Gare Du Palais - Université Laval','013888',1504579,3
-19,'19','Grand Théâtre - Limoilou','013888',1504580,3
-22,'22','Ste-Foy Centre - Terminus Les Saules','013888',1504604,3
-25,'25','Terminus Gare-Du-Palais - Pointe-De-Ste-Foy','013888',1504607,3
-28,'28','Colline Parlementaire - 51e Rue Est','013888',1504610,3
-29,'29','Parc Colbert Est - Place Jacques-Cartier','013888',1504611,3
-31,'31','Terminus De La Faune - Lac-St-Charles','013888',1504634,3
-32,'32','Terminus De La Faune - Lac Clément','013888',1504635,3
-33,'33','Parc Industriel Charlesbourg - Terminus De La Faune','013888',1504636,3
-34,'34','Terminus De La Faune - Des Laurentides','013888',1504637,3
-36,'36','Place Jacques-Cartier - Station Des Roses','013888',1504639,3
-39,'39','41e Rue Est - Terminus De La Faune','013888',1504642,3
-51,'51','Parc-O-Bus Ste-Anne - Terminus Beauport','013888',1504696,3
-52,'52','Maizerets - Terminus Charlesbourg','013888',1504697,3
-53,'53','Courville - Terminus Beauport','013888',1504698,3
-54,'54','Terminus Beauport / Vieux-Québec - Ste-Thérèse-De-Lisieux','013888',1504699,3
-55,'55','Terminus Beauport - Ste-Thérèse-De-Lisieux','013888',1504700,3
-56,'56','Parc Industriel De Beauport - Terminus Beauport','013888',1504701,3
-57,'57','Ste-Thérèse-De-Lisieux - Terminus Beauport','013888',1504702,3
-58,'58','Terminus Beauport - Ste-Thérèse-De-Lisieux','013888',1504703,3
-59,'59','Terminus Charlesbourg - Terminus Chute-Montmorency','013888',1504704,3
-61,'61','Maizerets - Lebourgneuf','013888',1504727,3
-64,'64','Place Jacques-Cartier - Lebourgneuf','013888',1504730,3
-65,'65','Place J-Cartier / Colline Parlementaire - Lebourgneuf','013888',1504731,3
-70,'70','Ste-Foy Centre - Val-Bélair','013888',1504757,3
-72,'72','Terminus Charlesbourg - Loretteville','013888',1504759,3
-74,'74','Place Jacques-Cartier - Val-Bélair','013888',1504761,3
-76,'76','Gare De Train De Ste-Foy - Aéroport International Jean-Lesage','013888',1504763,3
-79,'79','Terminus Les Saules / Belvédère - Des Châtels','013888',1504766,3
-80,'80','Place Jacques-Cartier - Aéroport International Jean-Lesage','013888',1504788,3
-81,'81','Terminus Les Saules - Terminus De La Faune','013888',1504789,3
-82,'82','Place Jacques-Cartier - Lac-St-Charles','013888',1504790,3
-84,'84','Place Jacques-Cartier - Val-Bélair','013888',1504792,3
-85,'85','Place Jacques-Cartier - Lebourgneuf','013888',1504793,3
-86,'86','Place J-Cartier / Colline Parlementaire - Terminus Les Saules','013888',1504794,3
-88,'88','Ste-Foy Centre - Terminus Les Saules','013888',1504796,3
-90,'90','Terminus Pie-XII - St-Augustin','013888',1504819,3
-91,'91','Cégep Garneau Via Univ Laval - St-Augustin','013888',1504820,3
-92,'92','Cégep Garneau - St-Augustin','013888',1504821,3
-93,'93','Cégep Garneau Via Univ Laval - Champigny','013888',1504822,3
-94,'94','Cégep Garneau - St-Augustin','013888',1504823,3
-96,'96','Terminus Pie-XII - Champigny','013888',1504825,3
-107,'107','Gare Du Palais - Pointe-De-Ste-Foy','013888',46641756,3
-133,'133','Vieux-Québec - Terminus De La Faune','013888',46641845,3
-136,'136','Colline Parlementaire - Montagne-Des-Roches','013888',46641848,3
-185,'185','Station Belvédère / Ste-Foy Centre - Neufchâtel','013888',46642002,3
-230,'230','Colline Parlementaire - Terminus De La Faune','E04503',46642803,3
-236,'236','Colline Parlementaire - Orsainville','E04503',46642809,3
-238,'238','Colline Parlementaire - Guillaume-Mathieu','E04503',46642811,3
-239,'239','Colline Parlementaire - Terminus De La Faune','E04503',46642812,3
-250,'250','Colline Parlementaire - Terminus Chute-Montmorency','E04503',46642865,3
-251,'251','Colline Parlementaire - Parc-O-Bus Ste-Anne','E04503',46642866,3
-253,'253','Colline Parlementaire - Courville','E04503',46642868,3
-254,'254','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',46642869,3
-255,'255','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',46642870,3
-257,'257','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',46642872,3
-258,'258','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',46642873,3
-270,'270','Colline Parlementaire - Val-Bélair','E04503',46642927,3
-272,'272','Colline Parlementaire - Loretteville','E04503',46642929,3
-273,'273','Colline Parlementaire - Loretteville Sud','E04503',46642930,3
-274,'274','Colline Parlementaire - Neufchâtel','E04503',46642931,3
-279,'279','Colline Parlementaire - L''Ancienne-Lorette','E04503',46642936,3
-280,'280','Place Jacques-Cartier / Colline Parlementaire - L''Ancienne-Lorette','E04503',46642958,3
-281,'281','Colline Parlementaire - Neufchâtel','E04503',46642959,3
-282,'282','Colline Parlementaire - Lac-St-Charles','E04503',46642960,3
-283,'283','Gare Du Palais - Champigny','E04503',46642961,3
-284,'284','Colline Parlementaire - Loretteville','E04503',46642962,3
-289,'289','Colline Parlementaire - St-Émile','E04503',46642967,3
-290,'290','Vieux-Québec - Loretteville','E04503',46642989,3
-291,'291','Terminus Gare-Du-Palais - St-Augustin','E04503',46642990,3
-292,'292','Terminus Gare-Du-Palais - St-Augustin','E04503',46642991,3
-294,'294','Terminus Gare-Du-Palais - St-Augustin','E04503',46642993,3
-330,'330','Cégep Garneau Via Univ Laval - Orsainville','E04503',46643764,3
-332,'332','St-Rodrigue - Ste-Foy Centre','E04503',46643766,3
-336,'336','Cégep Garneau Via Univ Laval - Orsainville','E04503',46643770,3
-337,'337','Cégep Garneau Via Univ Laval - Terminus De La Faune','E04503',46643771,3
-338,'338','Cégep Garneau Via Univ Laval - Bourg-Royal','E04503',46643772,3
-350,'350','Cégep Garneau Via Univ Laval - Terminus Chute-Montmorency','E04503',46643826,3
-354,'354','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643830,3
-355,'355','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643831,3
-358,'358','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46643834,3
-370,'370','Cégep Garneau Via Univ Laval - Val-Bélair','E04503',46643888,3
-372,'372','Cégep Garneau Via Univ Laval - Lac-St-Charles','E04503',46643890,3
-374,'374','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',46643892,3
-380,'380','Cégep Garneau Via Univ Laval - L''Ancienne-Lorette','E04503',46643919,3
-381,'381','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',46643920,3
-382,'382','Cégep Garneau Via Univ Laval - St-Émile','E04503',46643921,3
-384,'384','Cégep Garneau Via Univ Laval - Loretteville','E04503',46643923,3
-530,'530','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',46645686,3
-536,'536','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',46645692,3
-537,'537','Ste-Foy Centre Via Univ Laval - Terminus De La Faune','E04503',46645693,3
-538,'538','Ste-Foy Centre Via Univ Laval - Bourg-Royal','E04503',46645694,3
-550,'550','Ste-Foy Centre Via Univ Laval - Terminus Chute-Montmorency','E04503',46645748,3
-554,'554','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645752,3
-555,'555','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645753,3
-558,'558','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',46645756,3
-570,'570','Ste-Foy Centre Via Univ Laval - Val-Bélair','E04503',46645810,3
-572,'572','Ste-Foy Centre Via Univ Laval - Lac-St-Charles','E04503',46645812,3
-574,'574','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',46645814,3
-580,'580','Ste-Foy Centre Via Univ Laval - L''Ancienne-Lorette','E04503',46645841,3
-581,'581','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',46645842,3
-582,'582','Ste-Foy Centre Via Univ Laval - St-Émile','E04503',46645843,3
-584,'584','Ste-Foy Centre Via Univ Laval - Loretteville','E04503',46645845,3
-630,'630','Pointe-De-Ste-Foy - Terminus De La Faune','E04503',46646647,3
-650,'650','Pointe-De-Ste-Foy - Term Beauport / POB D''Estimauville','E04503',46646709,3
-690,'690','Parc Industriel François-Leclerc - Terminus Charlesbourg','E04503',46646833,3
-800,'800','Terminus Chute-Montmorency - Pointe-De-Ste-Foy','97BF0D',46648476,3
-801,'801','Terminus De La Faune - Pointe-De-Ste-Foy','97BF0D',46648477,3
-802,'802','Terminus Beauport - Station Belvédère','97BF0D',46648478,3
-803,'803','Terminus Beauport - Terminus Les Saules','97BF0D',46648479,3
-804,'804','Ste-Foy Centre - Val-Bélair','97BF0D',46648480,3
-807,'807','Place D''Youville - Pointe-De-Ste-Foy','97BF0D',46648483,3
-904,'904','- Val-Bélair','1A171B',46649441,3
-907,'907','Place D''Youville - Pointe-De-Ste-Foy','1A171B',46649444,3
-925,'925','- Pointe-De-Ste-Foy','1A171B',46649504,3
-931,'931','Place D''Youville - Lac-St-Charles','1A171B',46649531,3
-936,'936','- Station Des Roses','1A171B',46649536,3
-950,'950','Terminus Chute-Montmorency -','1A171B',46649592,3
-954,'954','- Ste-Thérèse-De-Lisieux','1A171B',46649596,3
-972,'972','- Loretteville','1A171B',46649656,3
-980,'980','- L''Ancienne-Lorette','1A171B',46649685,3
-982,'982','- Lac-St-Charles','1A171B',46649687,3
-984,'984','- Neufchâtel','1A171B',46649689,3
-991,'991','- Cap-Rouge','1A171B',46649717,3
-992,'992','- St-Augustin','1A171B',46649718,3
-10003,'3A','St-Jean-Eudes - Des Lilas Ouest / Du Colisée','013888',1504650,3
-10013,'13A','École Secondaire De Rochebelle - De La Suète / Du Versant-Nord','013888',46641859,3
-10080,'80A','École Sec Polyvalente De L''Ancienne-Lorette - Michelet / St-Jean-Baptiste','013888',46648493,3
-10082,'82A','St-Jean-Eudes - Samson / Baker','013888',46648555,3
-20013,'13B','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',46641860,3
-20079,'79B','École Sec Polyvalente De L''Ancienne-Lorette - St-Jean-Baptiste / Barrès','013888',46647812,3
-40082,'82D','École Secondaire Du Phare - Du Lac-St-Charles / Lepire','013888',46648558,3
-70054,'54G','École Secondaire De La Seigneurie - Des Sablonnières / Berrouard','013888',46645740,3
-70055,'55G','École Secondaire De La Seigneurie - Du Rang-St-Ignace / Forain','013888',46645771,3
-70079,'79G','École Secondaire La Camaradière - St-Paul / St-Olivier','013888',46647817,3
-70080,'80G','École Secondaire La Camaradière - O''Neil / W-Hamel','013888',46648499,3
-70084,'84G','École Secondaire La Camaradière - Du Costebelle / De Pertuis','013888',46648623,3
-70086,'86G','École Secondaire La Camaradière - Père-Lelièvre / Godin','013888',46648685,3
-70090,'90G','Collège Jésus-Marie De Sillery - St-Félix / Des Bernaches','013888',46649460,3
-130082,'82M','École Secondaire Du Phare - Du Lac-St-Charles / De La Rêverie','013888',46648567,3
+1,'1','Station Belvédère - Gare Fluviale / Cap-Blanc','013888',49,3
+3,'3','Grand Théâtre - 41e Rue Est / Jean-Talon Ouest','013888',51,3
+4,'4','Place Jacques-Cartier - Maizerets','013888',52,3
+9,'9','Parcs Jean-Talon Nord Et Duberger - Place Jacques-Cartier','013888',57,3
+11,'11','Gare Fluviale - Pointe-De-Ste-Foy','013888',1568,3
+13,'13','St-Louis/Ste-Foy Centre/Du Versant-Nord - Du Versant-Nord/Ste-Foy Centre/St-Louis','013888',1570,3
+16,'16','Sillery / U Laval / Ste-Foy Centre - U Laval / Sillery / Ste-Foy Centre','013888',1573,3
+18,'18','Gare Du Palais - Université Laval','013888',1575,3
+19,'19','Grand Théâtre - Limoilou','013888',1576,3
+22,'22','Ste-Foy Centre - Terminus Les Saules','013888',1600,3
+25,'25','Terminus Gare-Du-Palais - Pointe-De-Ste-Foy','013888',1603,3
+28,'28','Colline Parlementaire - 51e Rue Est','013888',1606,3
+29,'29','Parc Colbert Est - Place Jacques-Cartier','013888',1607,3
+31,'31','Terminus De La Faune - Lac-St-Charles','013888',1630,3
+32,'32','Terminus De La Faune - Lac Clément','013888',1631,3
+33,'33','Parc Industriel Charlesbourg - Terminus De La Faune','013888',1632,3
+34,'34','Terminus De La Faune - Des Laurentides','013888',1633,3
+36,'36','Place Jacques-Cartier - Station Des Roses','013888',1635,3
+39,'39','41e Rue Est - Terminus De La Faune','013888',1638,3
+51,'51','Parc-O-Bus Ste-Anne - Terminus Beauport','013888',1692,3
+52,'52','Maizerets - Terminus Charlesbourg','013888',1693,3
+53,'53','Courville - Terminus Beauport','013888',1694,3
+54,'54','Terminus Beauport / Vieux-Québec - Ste-Thérèse-De-Lisieux','013888',1695,3
+55,'55','Terminus Beauport - Ste-Thérèse-De-Lisieux','013888',1696,3
+56,'56','Parc Industriel De Beauport - Terminus Beauport','013888',1697,3
+57,'57','Ste-Thérèse-De-Lisieux - Terminus Beauport','013888',1698,3
+58,'58','Terminus Beauport - Ste-Thérèse-De-Lisieux','013888',1699,3
+59,'59','Terminus Charlesbourg - Terminus Chute-Montmorency','013888',1700,3
+61,'61','Maizerets - Lebourgneuf','013888',1723,3
+64,'64','Place Jacques-Cartier - Lebourgneuf','013888',1726,3
+65,'65','Place J-Cartier / Colline Parlementaire - Lebourgneuf','013888',1727,3
+70,'70','Ste-Foy Centre - Val-Bélair','013888',1753,3
+72,'72','Terminus Charlesbourg - Loretteville','013888',1755,3
+74,'74','Place Jacques-Cartier - Val-Bélair','013888',1757,3
+76,'76','Gare De Train De Ste-Foy - Aéroport International Jean-Lesage','013888',1759,3
+79,'79','Terminus Les Saules / Belvédère - Des Châtels','013888',1762,3
+80,'80','Place Jacques-Cartier - Aéroport International Jean-Lesage','013888',1784,3
+81,'81','Terminus Les Saules - Terminus De La Faune','013888',1785,3
+82,'82','Place Jacques-Cartier - Lac-St-Charles','013888',1786,3
+84,'84','Place Jacques-Cartier - Val-Bélair','013888',1788,3
+85,'85','Place Jacques-Cartier - Lebourgneuf','013888',1789,3
+86,'86','Place J-Cartier / Colline Parlementaire - Terminus Les Saules','013888',1790,3
+88,'88','Ste-Foy Centre - Terminus Les Saules','013888',1792,3
+90,'90','Terminus Pie-XII - St-Augustin','013888',1815,3
+91,'91','Cégep Garneau Via Univ Laval - St-Augustin','013888',1816,3
+92,'92','Cégep Garneau - St-Augustin','013888',1817,3
+93,'93','Cégep Garneau Via Univ Laval - Champigny','013888',1818,3
+94,'94','Cégep Garneau - St-Augustin','013888',1819,3
+96,'96','Terminus Pie-XII - Champigny','013888',1821,3
+107,'107','Gare Du Palais - Pointe-De-Ste-Foy','013888',48632,3
+133,'133','Vieux-Québec - Terminus De La Faune','013888',48721,3
+136,'136','Colline Parlementaire - Montagne-Des-Roches','013888',48724,3
+185,'185','Station Belvédère / Ste-Foy Centre - Neufchâtel','013888',48878,3
+230,'230','Colline Parlementaire - Terminus De La Faune','E04503',49679,3
+236,'236','Colline Parlementaire - Orsainville','E04503',49685,3
+238,'238','Colline Parlementaire - Guillaume-Mathieu','E04503',49687,3
+239,'239','Colline Parlementaire - Terminus De La Faune','E04503',49688,3
+250,'250','Colline Parlementaire - Terminus Chute-Montmorency','E04503',49741,3
+251,'251','Colline Parlementaire - Parc-O-Bus Ste-Anne','E04503',49742,3
+253,'253','Colline Parlementaire - Courville','E04503',49744,3
+254,'254','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',49745,3
+255,'255','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',49746,3
+257,'257','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',49748,3
+258,'258','Colline Parlementaire - Ste-Thérèse-De-Lisieux','E04503',49749,3
+270,'270','Colline Parlementaire - Val-Bélair','E04503',49803,3
+272,'272','Colline Parlementaire - Loretteville','E04503',49805,3
+273,'273','Colline Parlementaire - Loretteville Sud','E04503',49806,3
+274,'274','Colline Parlementaire - Neufchâtel','E04503',49807,3
+279,'279','Colline Parlementaire - L''Ancienne-Lorette','E04503',49812,3
+280,'280','Place Jacques-Cartier / Colline Parlementaire - L''Ancienne-Lorette','E04503',49834,3
+281,'281','Colline Parlementaire - Neufchâtel','E04503',49835,3
+282,'282','Colline Parlementaire - Lac-St-Charles','E04503',49836,3
+283,'283','Gare Du Palais - Champigny','E04503',49837,3
+284,'284','Colline Parlementaire - Loretteville','E04503',49838,3
+289,'289','Colline Parlementaire - St-Émile','E04503',49843,3
+290,'290','Vieux-Québec - Loretteville','E04503',49865,3
+291,'291','Terminus Gare-Du-Palais - St-Augustin','E04503',49866,3
+292,'292','Terminus Gare-Du-Palais - St-Augustin','E04503',49867,3
+294,'294','Terminus Gare-Du-Palais - St-Augustin','E04503',49869,3
+330,'330','Cégep Garneau Via Univ Laval - Orsainville','E04503',50640,3
+332,'332','St-Rodrigue - Ste-Foy Centre','E04503',50642,3
+336,'336','Cégep Garneau Via Univ Laval - Orsainville','E04503',50646,3
+337,'337','Cégep Garneau Via Univ Laval - Terminus De La Faune','E04503',50647,3
+338,'338','Cégep Garneau Via Univ Laval - Bourg-Royal','E04503',50648,3
+350,'350','Cégep Garneau Via Univ Laval - Terminus Chute-Montmorency','E04503',50702,3
+354,'354','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50706,3
+355,'355','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50707,3
+358,'358','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50710,3
+370,'370','Cégep Garneau Via Univ Laval - Val-Bélair','E04503',50764,3
+372,'372','Cégep Garneau Via Univ Laval - Lac-St-Charles','E04503',50766,3
+374,'374','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',50768,3
+380,'380','Cégep Garneau Via Univ Laval - L''Ancienne-Lorette','E04503',50795,3
+381,'381','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',50796,3
+382,'382','Cégep Garneau Via Univ Laval - St-Émile','E04503',50797,3
+384,'384','Cégep Garneau Via Univ Laval - Loretteville','E04503',50799,3
+530,'530','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',52562,3
+536,'536','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',52568,3
+537,'537','Ste-Foy Centre Via Univ Laval - Terminus De La Faune','E04503',52569,3
+538,'538','Ste-Foy Centre Via Univ Laval - Bourg-Royal','E04503',52570,3
+550,'550','Ste-Foy Centre Via Univ Laval - Terminus Chute-Montmorency','E04503',52624,3
+554,'554','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',52628,3
+555,'555','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',52629,3
+558,'558','Ste-Foy Centre Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',52632,3
+570,'570','Ste-Foy Centre Via Univ Laval - Val-Bélair','E04503',52686,3
+572,'572','Ste-Foy Centre Via Univ Laval - Lac-St-Charles','E04503',52688,3
+574,'574','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',52690,3
+580,'580','Ste-Foy Centre Via Univ Laval - L''Ancienne-Lorette','E04503',52717,3
+581,'581','Ste-Foy Centre Via Univ Laval - Neufchâtel','E04503',52718,3
+582,'582','Ste-Foy Centre Via Univ Laval - St-Émile','E04503',52719,3
+584,'584','Ste-Foy Centre Via Univ Laval - Loretteville','E04503',52721,3
+630,'630','Pointe-De-Ste-Foy - Terminus De La Faune','E04503',53523,3
+650,'650','Pointe-De-Ste-Foy - Term Beauport / POB D''Estimauville','E04503',53585,3
+690,'690','Parc Industriel François-Leclerc - Terminus Charlesbourg','E04503',53709,3
+800,'800','Terminus Chute-Montmorency - Pointe-De-Ste-Foy','97BF0D',55352,3
+801,'801','Terminus De La Faune - Pointe-De-Ste-Foy','97BF0D',55353,3
+802,'802','Terminus Beauport - Station Belvédère','97BF0D',55354,3
+803,'803','Terminus Beauport - Terminus Les Saules','97BF0D',55355,3
+804,'804','Ste-Foy Centre - Val-Bélair','97BF0D',55356,3
+807,'807','Place D''Youville - Pointe-De-Ste-Foy','97BF0D',55359,3
+904,'904','Val-Bélair','1A171B',56317,3
+907,'907','Place D''Youville - Pointe-De-Ste-Foy','1A171B',56320,3
+925,'925','Pointe-De-Ste-Foy','1A171B',56380,3
+931,'931','Place D''Youville - Lac-St-Charles','1A171B',56407,3
+936,'936','Station Des Roses','1A171B',56412,3
+950,'950','Terminus Chute-Montmorency -','1A171B',56468,3
+954,'954','Ste-Thérèse-De-Lisieux','1A171B',56472,3
+972,'972','Loretteville','1A171B',56532,3
+980,'980','L''Ancienne-Lorette','1A171B',56561,3
+982,'982','Lac-St-Charles','1A171B',56563,3
+984,'984','Neufchâtel','1A171B',56565,3
+991,'991','Cap-Rouge','1A171B',56593,3
+992,'992','St-Augustin','1A171B',56594,3
+10003,'3A','St-Jean-Eudes - Des Lilas Ouest / Du Colisée','013888',1646,3
+10013,'13A','École Secondaire De Rochebelle - De La Suète / Du Versant-Nord','013888',48735,3
+10080,'80A','École Sec Polyvalente De L''Ancienne-Lorette - Michelet / St-Jean-Baptiste','013888',55369,3
+10082,'82A','St-Jean-Eudes - Samson / Baker','013888',55431,3
+20013,'13B','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48736,3
+20079,'79B','École Sec Polyvalente De L''Ancienne-Lorette - St-Jean-Baptiste / Barrès','013888',54688,3
+40082,'82D','École Secondaire Du Phare - Du Lac-St-Charles / Lepire','013888',55434,3
+70054,'54G','École Secondaire De La Seigneurie - Des Sablonnières / Berrouard','013888',52616,3
+70055,'55G','École Secondaire De La Seigneurie - Du Rang-St-Ignace / Forain','013888',52647,3
+70079,'79G','École Secondaire La Camaradière - St-Paul / St-Olivier','013888',54693,3
+70080,'80G','École Secondaire La Camaradière - O''Neil / W-Hamel','013888',55375,3
+70084,'84G','École Secondaire La Camaradière - Du Costebelle / De Pertuis','013888',55499,3
+70086,'86G','École Secondaire La Camaradière - Père-Lelièvre / Godin','013888',55561,3
+70090,'90G','Collège Jésus-Marie De Sillery - St-Félix / Des Bernaches','013888',56336,3
+130082,'82M','École Secondaire Du Phare - Du Lac-St-Charles / De La Rêverie','013888',55443,3
