@@ -91,7 +91,7 @@
 9202,0,'E-Cgp Garneau',92
 9203,0,'O-St-Augustin',92
 9300,0,'N-Champigny',93
-9301,0,'S-Ste-Foy Ctr / U Laval / Cgp Garneau',93
+9301,0,'S-Ste-Foy Ctr / Cgp Garneau',93
 9402,0,'E-Cgp Garneau',94
 9403,0,'O-St-Augustin',94
 9600,0,'N-Champigny',96
@@ -188,6 +188,10 @@
 38201,0,'S-Cgp Garneau Via U Laval',382
 38400,0,'N-Loretteville',384
 38401,0,'S-Cgp Garneau Via U Laval',384
+40500,0,'N-Ctr Vidéotron',405
+41001,0,'S-Festival D''Été',410
+43001,0,'S-Festival D''Été',430
+45001,0,'S-Festival D''Été',450
 53000,0,'N-Orsainville',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
 53600,0,'N-Orsainville',536
