@@ -51,6 +51,12 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 		return MAgency.ROUTE_TYPE_BUS;
 	}
 
+	@Nullable
+	@Override
+	public String getServiceIdCleanupRegex() {
+		return "(daily|multint)$"; // ends with daily or multint
+	}
+
 	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
@@ -143,6 +149,12 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean directionFinderEnabled() {
 		return true;
+	}
+
+	@Nullable
+	@Override
+	public String getTripIdCleanupRegex() {
+		return "_\\d{6}(daily|multint)"; // ends with _service_id
 	}
 
 	private static final Pattern ENDS_WITH_N_ = Pattern.compile(group(
