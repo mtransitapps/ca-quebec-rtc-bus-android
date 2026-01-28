@@ -154,7 +154,7 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	@Nullable
 	@Override
 	public String getTripIdCleanupRegex() {
-		return "_\\d{6}(daily|multint)"; // ends with _service_id
+		return "(daily|multint)$"; // ends with daily or multint
 	}
 
 	private static final Pattern ENDS_WITH_N_ = Pattern.compile(group(

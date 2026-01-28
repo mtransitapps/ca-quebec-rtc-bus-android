@@ -8,6 +8,6 @@
     <string name="gtfs_rts_color">A3C614</string>
     <string name="gtfs_rts_service_id_cleanup_regex">(daily|multint)$</string>
     <string name="gtfs_rts_route_id_cleanup_regex">^1\\-</string>
-    <string name="gtfs_rts_trip_id_cleanup_regex">_\\d{6}(daily|multint)</string>
+    <string name="gtfs_rts_trip_id_cleanup_regex">(daily|multint)$</string>
     <string name="gtfs_rts_stop_id_cleanup_regex">^1\\-</string>
 </resources>
