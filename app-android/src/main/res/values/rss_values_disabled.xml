@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!-- TODO: fix then re-enable -->
     <integer name="rss_db_version">2</integer>
     <string name="rss_target_for_poi_authority">@string/gtfs_rts_authority</string>
     <string name="rss_color">@string/gtfs_rts_color</string>
