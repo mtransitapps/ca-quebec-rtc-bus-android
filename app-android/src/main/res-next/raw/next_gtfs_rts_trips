@@ -8,14 +8,16 @@
 903,0,'O-Parcs Jean-Talon N Et Duberger',9
 1102,0,'E-Gare Fluviale',11
 1103,0,'O-Pte-De-Ste-Foy',11
+1202,0,'E-U Laval',12
+1203,0,'O-Pte-De-Ste-Foy',12
 1302,0,'E-St-Louis / Ste-Foy Ctr / Versant-N',13
-1303,0,'O-Du Versant-N / Ste-Foy Ctr / St-Louis',13
+1303,0,'O-Term Pie-XII',13
 1602,0,'E-Sillery / U Laval / Ste-Foy Ctr',16
 1603,0,'O-U Laval / Sillery / Ste-Foy Ctr',16
-1802,0,'E-Gare Du Palais',18
+1802,0,'E-Term Gare-Du-Palais',18
 1803,0,'O-U Laval',18
 1900,0,'N-Limoilou',19
-1901,0,'S-Grand Théâtre',19
+1901,0,'S-Term Pl-D''Youville',19
 2200,0,'N-Term Les Saules',22
 2201,0,'S-Ste-Foy Ctr',22
 2502,0,'E-Term Gare-Du-Palais',25
@@ -86,7 +88,7 @@
 8801,0,'S-Ste-Foy Ctr',88
 9002,0,'E-Term Pie-XII',90
 9003,0,'O-St-Augustin',90
-9102,0,'E-Cgp Garneau Via U Laval',91
+9102,0,'E-Cgp Garneau',91
 9103,0,'O-St-Augustin',91
 9202,0,'E-Cgp Garneau',92
 9203,0,'O-St-Augustin',92
@@ -142,7 +144,7 @@
 28101,0,'S-Colline Parlementaire',281
 28200,0,'N-Lac-St-Charles',282
 28201,0,'S-Colline Parlementaire',282
-28302,0,'E-Gare Du Palais',283
+28302,0,'E-Gare Du Palais / E-Term Gare-Du-Palais',283
 28303,0,'O-Champigny',283
 28400,0,'N-Loretteville',284
 28401,0,'S-Colline Parlementaire',284
@@ -188,6 +190,8 @@
 38201,0,'S-Cgp Garneau Via U Laval',382
 38400,0,'N-Loretteville',384
 38401,0,'S-Cgp Garneau Via U Laval',384
+40002,0,'E-Term Gare-Du-Palais',400
+40003,0,'O-Ste-Foy Ctr',400
 53000,0,'N-Orsainville',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
 53600,0,'N-Orsainville',536
@@ -234,6 +238,8 @@
 80303,0,'O-Term Les Saules',803
 80400,0,'N-Val-Bélair',804
 80401,0,'S-Ste-Foy Ctr',804
+80502,0,'E-Term Parc-Victoria',805
+80503,0,'O-Pte-De-Ste-Foy',805
 80702,0,'E-Pl D''Youville',807
 80703,0,'O-Pte-De-Ste-Foy',807
 90400,0,'N-Val-Bélair',904
@@ -263,6 +269,8 @@
 2001303,0,'O-Des Sapins / Versant-N',20013
 2007900,0,'N-ÉS Polyvalente De Anc-Lorette',20079
 2007901,0,'S-St-Jean-Baptiste / Barrès',20079
+4001302,0,'E-ÉS De Rochebelle',40013
+4001303,0,'O-Des Sapins / Versant-N',40013
 4008200,0,'N-Du Lac-St-Charles / Lepire',40082
 4008201,0,'S-ÉS Du Phare',40082
 7005400,0,'N-Des Sablonnières / Berrouard',70054
