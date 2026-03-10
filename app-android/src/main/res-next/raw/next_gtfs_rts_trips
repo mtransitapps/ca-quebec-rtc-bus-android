@@ -10,18 +10,16 @@
 1103,0,'O-Pte-De-Ste-Foy',11
 1202,0,'E-U Laval',12
 1203,0,'O-Pte-De-Ste-Foy',12
-1302,0,'E-St-Louis / Ste-Foy Ctr / Versant-N',13
+1302,0,'E-U Laval',13
 1303,0,'O-Term Pie-XII',13
-1602,0,'E-Sillery / U Laval / Ste-Foy Ctr',16
-1603,0,'O-U Laval / Sillery / Ste-Foy Ctr',16
+1602,0,'E-Sillery',16
+1603,0,'O-U Laval',16
 1802,0,'E-Term Gare-Du-Palais',18
 1803,0,'O-U Laval',18
 1900,0,'N-Limoilou',19
 1901,0,'S-Term Pl-D''Youville',19
 2200,0,'N-Term Les Saules',22
 2201,0,'S-Ste-Foy Ctr',22
-2502,0,'E-Term Gare-Du-Palais',25
-2503,0,'O-Pte-De-Ste-Foy',25
 2800,0,'N-51e Rue E',28
 2801,0,'S-Colline Parlementaire',28
 2902,0,'E-Pl J-Cartier',29
@@ -98,8 +96,6 @@
 9403,0,'O-St-Augustin',94
 9600,0,'N-Champigny',96
 9601,0,'S-Term Pie-XII',96
-10702,0,'E-Gare Du Palais',107
-10703,0,'O-Pte-De-Ste-Foy',107
 13300,0,'N-Term De La Faune',133
 13301,0,'S-Vieux-Québec',133
 13600,0,'N-Mgne-Des-Roches',136
@@ -144,7 +140,7 @@
 28101,0,'S-Colline Parlementaire',281
 28200,0,'N-Lac-St-Charles',282
 28201,0,'S-Colline Parlementaire',282
-28302,0,'E-Gare Du Palais / E-Term Gare-Du-Palais',283
+28302,0,'E-Term Gare-Du-Palais',283
 28303,0,'O-Champigny',283
 28400,0,'N-Loretteville',284
 28401,0,'S-Colline Parlementaire',284
@@ -160,8 +156,6 @@
 29403,0,'O-St-Augustin',294
 33000,0,'N-Orsainville',330
 33001,0,'S-Cgp Garneau Via U Laval',330
-33200,0,'N-St-Rodrigue',332
-33201,0,'S-Ste-Foy Ctr',332
 33600,0,'N-Orsainville',336
 33601,0,'S-Cgp Garneau Via U Laval',336
 33700,0,'N-Term De La Faune',337
@@ -229,9 +223,9 @@
 69002,0,'E-Term Charlesbourg',690
 69003,0,'O-Parc Ind François-Leclerc',690
 80002,0,'E-Term Chute-Montmorency',800
-80003,0,'O-Pte-De-Ste-Foy',800
+80003,0,'O-Colline Parlementaire',800
 80102,0,'E-Term De La Faune',801
-80103,0,'O-Pte-De-Ste-Foy',801
+80103,0,'O-Colline Parlementaire',801
 80202,0,'E-Term Beauport',802
 80203,0,'O-Ston Belvédère',802
 80302,0,'E-Term Beauport',803
@@ -259,14 +253,10 @@
 99203,0,'O-St-Augustin',992
 1000300,0,'N-St-Jean-Eudes',10003
 1000301,0,'S-Des Lilas O / Colisée',10003
-1001302,0,'E-ÉS De Rochebelle',10013
-1001303,0,'O-De La Suète / Versant-N',10013
 1008000,0,'N-ÉS Polyvalente De Anc-Lorette',10080
 1008001,0,'S-Michelet / St-Jean-Baptiste',10080
 1008200,0,'N-St-Jean-Eudes',10082
 1008201,0,'S-Samson / Baker',10082
-2001302,0,'E-ÉS De Rochebelle',20013
-2001303,0,'O-Des Sapins / Versant-N',20013
 2007900,0,'N-ÉS Polyvalente De Anc-Lorette',20079
 2007901,0,'S-St-Jean-Baptiste / Barrès',20079
 4001302,0,'E-ÉS De Rochebelle',40013

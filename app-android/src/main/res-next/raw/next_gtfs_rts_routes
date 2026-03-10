@@ -9,7 +9,6 @@
 18,'18','Terminus Gare-Du-Palais - Université Laval','013888',1575,3
 19,'19','Terminus Place-D''Youville - Limoilou','013888',1576,3
 22,'22','Ste-Foy Centre - Terminus Les Saules','013888',1600,3
-25,'25','Terminus Gare-Du-Palais - Pointe-De-Ste-Foy','013888',1603,3
 28,'28','Colline Parlementaire - 51e Rue Est','013888',1606,3
 29,'29','Parc Colbert Est - Place Jacques-Cartier','013888',1607,3
 31,'31','Terminus De La Faune - Lac-St-Charles','013888',1630,3
@@ -48,7 +47,6 @@
 93,'93','Ste-Foy Centre / Cégep Garneau - Champigny','013888',1818,3
 94,'94','Cégep Garneau - St-Augustin','013888',1819,3
 96,'96','Terminus Pie-XII - Champigny','013888',1821,3
-107,'107','Gare Du Palais - Pointe-De-Ste-Foy','013888',48632,3
 133,'133','Vieux-Québec - Terminus De La Faune','013888',48721,3
 136,'136','Colline Parlementaire - Montagne-Des-Roches','013888',48724,3
 185,'185','Station Belvédère / Ste-Foy Centre - Neufchâtel','013888',48878,3
@@ -79,7 +77,6 @@
 292,'292','Terminus Gare-Du-Palais - St-Augustin','E04503',49867,3
 294,'294','Terminus Gare-Du-Palais - St-Augustin','E04503',49869,3
 330,'330','Cégep Garneau Via Univ Laval - Orsainville','E04503',50640,3
-332,'332','St-Rodrigue - Ste-Foy Centre','E04503',50642,3
 336,'336','Cégep Garneau Via Univ Laval - Orsainville','E04503',50646,3
 337,'337','Cégep Garneau Via Univ Laval - Terminus De La Faune','E04503',50647,3
 338,'338','Cégep Garneau Via Univ Laval - Bourg-Royal','E04503',50648,3
@@ -134,10 +131,8 @@
 991,'991','Cap-Rouge','1A171B',56593,3
 992,'992','St-Augustin','1A171B',56594,3
 10003,'3A','St-Jean-Eudes - Des Lilas Ouest / Du Colisée','013888',1646,3
-10013,'13A','École Secondaire De Rochebelle - De La Suète / Du Versant-Nord','013888',48735,3
 10080,'80A','École Sec Polyvalente De L''Ancienne-Lorette - Michelet / St-Jean-Baptiste','013888',55369,3
 10082,'82A','St-Jean-Eudes - Samson / Baker','013888',55431,3
-20013,'13B','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48736,3
 20079,'79B','École Sec Polyvalente De L''Ancienne-Lorette - St-Jean-Baptiste / Barrès','013888',54688,3
 40013,'13D','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48738,3
 40082,'82D','École Secondaire Du Phare - Du Lac-St-Charles / Lepire','013888',55434,3
