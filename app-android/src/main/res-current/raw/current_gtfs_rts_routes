@@ -3,6 +3,7 @@
 4,'4','Place Jacques-Cartier - Maizerets','013888',52,3
 9,'9','Parcs Jean-Talon Nord Et Duberger - Place Jacques-Cartier','013888',57,3
 11,'11','Gare Fluviale - Pointe-De-Ste-Foy','013888',1568,3
+12,'12','Université Laval - Pointe-De-Ste-Foy','013888',1569,3
 13,'13','Université Laval - Terminus Pie-XII','013888',1570,3
 16,'16','Sillery - Université Laval','013888',1573,3
 18,'18','Terminus Gare-Du-Palais - Université Laval','013888',1575,3
@@ -120,6 +121,7 @@
 802,'802','Terminus Beauport - Station Belvédère','97BF0D',55354,3
 803,'803','Terminus Beauport - Terminus Les Saules','97BF0D',55355,3
 804,'804','Ste-Foy Centre - Val-Bélair','97BF0D',55356,3
+805,'805','Terminus Parc-Victoria - Pointe-De-Ste-Foy','97BF0D',55357,3
 807,'807','Place D''Youville - Pointe-De-Ste-Foy','97BF0D',55359,3
 904,'904','Val-Bélair','1A171B',56317,3
 907,'907','Place D''Youville - Pointe-De-Ste-Foy','1A171B',56320,3
@@ -140,6 +142,7 @@
 10082,'82A','St-Jean-Eudes - Samson / Baker','013888',55431,3
 20013,'13B','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48736,3
 20079,'79B','École Sec Polyvalente De L''Ancienne-Lorette - St-Jean-Baptiste / Barrès','013888',54688,3
+40013,'13D','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48738,3
 40082,'82D','École Secondaire Du Phare - Du Lac-St-Charles / Lepire','013888',55434,3
 70054,'54G','École Secondaire De La Seigneurie - Des Sablonnières / Berrouard','013888',52616,3
 70055,'55G','École Secondaire De La Seigneurie - Du Rang-St-Ignace / Forain','013888',52647,3
