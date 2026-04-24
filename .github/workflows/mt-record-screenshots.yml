@@ -43,6 +43,8 @@ env:
 jobs:
   MT-RECORD-SCREENSHOTS-JOB:
     name: "MT record screenshots"
+    # if: ${{ env.MT_IS_MAIN_REPO != 'true' }} # can NOT use env here:
+    if: ${{ ! endsWith(github.repository, '/mtransit-for-android') }}
     timeout-minutes: 30
     runs-on: ubuntu-latest
     steps:
@@ -52,7 +54,7 @@ jobs:
           token: ${{ secrets.MT_PAT }}
 
       - name: MT setup
-        uses: mtransitapps/gh-actions/.github/actions/setup@v1.1.2
+        uses: mtransitapps/gh-actions/.github/actions/setup@v1.2.1
 
       - name: MT read sdk-target from gradle/libs.versions.toml
         id: sdk-target
