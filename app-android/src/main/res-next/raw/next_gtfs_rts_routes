@@ -1,5 +1,5 @@
 1,'1','Station Belvédère - Gare Fluviale / Cap-Blanc','013888',49,3
-3,'3','Grand Théâtre - 41e Rue Est / Jean-Talon Ouest','013888',51,3
+3,'3','Terminus Parc-Victoria - 41e Rue Est / Jean-Talon Ouest','013888',51,3
 4,'4','Place Jacques-Cartier - Maizerets','013888',52,3
 9,'9','Parcs Jean-Talon Nord Et Duberger - Place Jacques-Cartier','013888',57,3
 11,'11','Gare Fluviale - Pointe-De-Ste-Foy','013888',1568,3
@@ -9,7 +9,7 @@
 18,'18','Terminus Gare-Du-Palais - Université Laval','013888',1575,3
 19,'19','Terminus Place-D''Youville - Limoilou','013888',1576,3
 22,'22','Ste-Foy Centre - Terminus Les Saules','013888',1600,3
-28,'28','Colline Parlementaire - 51e Rue Est','013888',1606,3
+28,'28','Terminus Parc-Victoria - 51e Rue Est','013888',1606,3
 29,'29','Parc Colbert Est - Place Jacques-Cartier','013888',1607,3
 31,'31','Terminus De La Faune - Lac-St-Charles','013888',1630,3
 32,'32','Terminus De La Faune - Lac Clément','013888',1631,3
@@ -28,18 +28,18 @@
 59,'59','Terminus Charlesbourg - Terminus Chute-Montmorency','013888',1700,3
 61,'61','Maizerets - Lebourgneuf','013888',1723,3
 64,'64','Place Jacques-Cartier - Lebourgneuf','013888',1726,3
-65,'65','Place J-Cartier / Colline Parlementaire - Lebourgneuf','013888',1727,3
+65,'65','Place Jacques-Cartier - Lebourgneuf','013888',1727,3
 70,'70','Ste-Foy Centre - Val-Bélair','013888',1753,3
 72,'72','Terminus Charlesbourg - Loretteville','013888',1755,3
 74,'74','Place Jacques-Cartier - Val-Bélair','013888',1757,3
 76,'76','Gare De Train De Ste-Foy - Aéroport International Jean-Lesage','013888',1759,3
-79,'79','Terminus Les Saules / Belvédère - Des Châtels','013888',1762,3
+79,'79','Terminus Les Saules - Des Châtels','013888',1762,3
 80,'80','Place Jacques-Cartier - Aéroport International Jean-Lesage','013888',1784,3
 81,'81','Terminus Les Saules - Terminus De La Faune','013888',1785,3
 82,'82','Place Jacques-Cartier - Lac-St-Charles','013888',1786,3
 84,'84','Place Jacques-Cartier - Val-Bélair','013888',1788,3
 85,'85','Place Jacques-Cartier - Lebourgneuf','013888',1789,3
-86,'86','Place J-Cartier / Colline Parlementaire - Terminus Les Saules','013888',1790,3
+86,'86','Place Jacques-Cartier - Terminus Les Saules','013888',1790,3
 88,'88','Ste-Foy Centre - Terminus Les Saules','013888',1792,3
 90,'90','Terminus Pie-XII - St-Augustin','013888',1815,3
 91,'91','Cégep Garneau - St-Augustin','013888',1816,3
@@ -66,7 +66,7 @@
 273,'273','Colline Parlementaire - Loretteville Sud','E04503',49806,3
 274,'274','Colline Parlementaire - Neufchâtel','E04503',49807,3
 279,'279','Colline Parlementaire - L''Ancienne-Lorette','E04503',49812,3
-280,'280','Place Jacques-Cartier / Colline Parlementaire - L''Ancienne-Lorette','E04503',49834,3
+280,'280','Colline Parlementaire - L''Ancienne-Lorette','E04503',49834,3
 281,'281','Colline Parlementaire - Neufchâtel','E04503',49835,3
 282,'282','Colline Parlementaire - Lac-St-Charles','E04503',49836,3
 283,'283','Terminus Gare-Du-Palais - Champigny','E04503',49837,3
