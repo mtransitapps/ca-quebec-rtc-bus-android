@@ -76,21 +76,6 @@
 291,'291','Terminus Gare-Du-Palais - St-Augustin','E04503',49866,3
 292,'292','Terminus Gare-Du-Palais - St-Augustin','E04503',49867,3
 294,'294','Terminus Gare-Du-Palais - St-Augustin','E04503',49869,3
-330,'330','Cégep Garneau Via Univ Laval - Orsainville','E04503',50640,3
-336,'336','Cégep Garneau Via Univ Laval - Orsainville','E04503',50646,3
-337,'337','Cégep Garneau Via Univ Laval - Terminus De La Faune','E04503',50647,3
-338,'338','Cégep Garneau Via Univ Laval - Bourg-Royal','E04503',50648,3
-350,'350','Cégep Garneau Via Univ Laval - Terminus Chute-Montmorency','E04503',50702,3
-354,'354','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50706,3
-355,'355','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50707,3
-358,'358','Cégep Garneau Via Univ Laval - Ste-Thérèse-De-Lisieux','E04503',50710,3
-370,'370','Cégep Garneau Via Univ Laval - Val-Bélair','E04503',50764,3
-372,'372','Cégep Garneau Via Univ Laval - Lac-St-Charles','E04503',50766,3
-374,'374','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',50768,3
-380,'380','Cégep Garneau Via Univ Laval - L''Ancienne-Lorette','E04503',50795,3
-381,'381','Cégep Garneau Via Univ Laval - Neufchâtel','E04503',50796,3
-382,'382','Cégep Garneau Via Univ Laval - St-Émile','E04503',50797,3
-384,'384','Cégep Garneau Via Univ Laval - Loretteville','E04503',50799,3
 400,'400','Terminus Gare-Du-Palais - Ste-Foy Centre','013888',51508,3
 530,'530','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',52562,3
 536,'536','Ste-Foy Centre Via Univ Laval - Orsainville','E04503',52568,3
@@ -130,16 +115,8 @@
 984,'984','Neufchâtel','1A171B',56565,3
 991,'991','Cap-Rouge','1A171B',56593,3
 992,'992','St-Augustin','1A171B',56594,3
-10003,'3A','St-Jean-Eudes - Des Lilas Ouest / Du Colisée','013888',1646,3
-10080,'80A','École Sec Polyvalente De L''Ancienne-Lorette - Michelet / St-Jean-Baptiste','013888',55369,3
-10082,'82A','St-Jean-Eudes - Samson / Baker','013888',55431,3
-20079,'79B','École Sec Polyvalente De L''Ancienne-Lorette - St-Jean-Baptiste / Barrès','013888',54688,3
-40013,'13D','École Secondaire De Rochebelle - Des Sapins / Du Versant-Nord','013888',48738,3
 40082,'82D','École Secondaire Du Phare - Du Lac-St-Charles / Lepire','013888',55434,3
 70054,'54G','École Secondaire De La Seigneurie - Des Sablonnières / Berrouard','013888',52616,3
 70055,'55G','École Secondaire De La Seigneurie - Du Rang-St-Ignace / Forain','013888',52647,3
-70080,'80G','École Secondaire La Camaradière - O''Neil / W-Hamel','013888',55375,3
-70084,'84G','École Secondaire La Camaradière - Du Costebelle / De Pertuis','013888',55499,3
-70086,'86G','École Secondaire La Camaradière - Père-Lelièvre / Godin','013888',55561,3
 70090,'90G','Collège Jésus-Marie De Sillery - St-Félix / Des Bernaches','013888',56336,3
 130082,'82M','École Secondaire Du Phare - Du Lac-St-Charles / De La Rêverie','013888',55443,3
