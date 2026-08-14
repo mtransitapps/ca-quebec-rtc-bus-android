@@ -8,7 +8,7 @@
 503,0,'O-Colline Parlementaire',5
 602,0,'E-Gare Fluviale',6
 603,0,'O-Term Pl-D''Youville',6
-902,0,'E-Pl J-Cartier',9
+902,0,'E-Pl J-Cartier / E-Term Parc-Victoria',9
 903,0,'O-Parcs Jean-Talon N Et Duberger',9
 1102,0,'E-Gare Fluviale',11
 1103,0,'O-Pte-De-Ste-Foy',11
@@ -26,18 +26,18 @@
 2201,0,'S-Ste-Foy Ctr',22
 2800,0,'N-51e Rue E',28
 2801,0,'S-Term Parc-Victoria',28
-2902,0,'E-Pl J-Cartier',29
+2902,0,'E-Pl J-Cartier / E-Term Parc-Victoria',29
 2903,0,'O-Parc Colbert E',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
-3200,0,'N-Lac Clément',32
+3200,0,'N-Lac Clément / N-Lac-St-Charles',32
 3201,0,'S-Term De La Faune',32
 3300,0,'N-Parc Ind Charlesbourg',33
 3301,0,'S-Term De La Faune',33
 3400,0,'N-Lac Clément',34
 3401,0,'S-Term De La Faune',34
-3600,0,'N-Ston Des Roses',36
-3601,0,'S-Pl J-Cartier',36
+3600,0,'N-Orsainville / N-Ston Des Roses',36
+3601,0,'S-Pl J-Cartier / S-Term Parc-Victoria',36
 3900,0,'N-Term De La Faune',39
 3901,0,'S-41e Rue E',39
 5102,0,'E-Parc-O-Bus Ste-Anne',51
@@ -77,7 +77,7 @@
 7900,0,'N-Des Châtels',79
 7901,0,'S-Term Les Saules',79
 8000,0,'N-Aéroport International Jean-Lesage',80
-8001,0,'S-Pl J-Cartier',80
+8001,0,'S-Pl J-Cartier / S-Term Parc-Victoria',80
 8100,0,'N-Term De La Faune',81
 8101,0,'S-Term Les Saules',81
 8200,0,'N-Lac-St-Charles',82
@@ -85,7 +85,7 @@
 8400,0,'N-Val-Bélair',84
 8401,0,'S-Pl J-Cartier',84
 8500,0,'N-Lebourgneuf',85
-8501,0,'S-Pl J-Cartier',85
+8501,0,'S-Pl J-Cartier / S-Term Parc-Victoria',85
 8600,0,'N-Term Les Saules',86
 8601,0,'S-Pl J-Cartier',86
 8800,0,'N-Term Les Saules',88
@@ -105,7 +105,7 @@
 13300,0,'N-Term De La Faune',133
 13301,0,'S-Vieux-Québec',133
 13600,0,'N-Term De La Faune',136
-13601,0,'S-Colline Parlementaire',136
+13601,0,'S-Colline Parlementaire / S-Vieux-Québec',136
 18500,0,'N-Neufchâtel',185
 18501,0,'S-Ston Belvédère / Ste-Foy Ctr',185
 23000,0,'N-Term De La Faune',230
@@ -116,7 +116,7 @@
 23601,0,'S-Colline Parlementaire',236
 23700,0,'N-Term De La Faune',237
 23701,0,'S-Colline Parlementaire',237
-23800,0,'N-Guillaume-Mathieu',238
+23800,0,'N-Guillaume-Mathieu / N-Orsainville',238
 23801,0,'S-Colline Parlementaire',238
 23900,0,'N-Term De La Faune',239
 23901,0,'S-Colline Parlementaire',239
@@ -209,7 +209,7 @@
 53601,0,'S-Ste-Foy Ctr Via U Laval',536
 53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr Via U Laval',537
-53800,0,'N-Bourg-Royal',538
+53800,0,'N-Bourg-Royal / N-Orsainville',538
 53801,0,'S-Ste-Foy Ctr Via U Laval',538
 55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr Via U Laval',550
