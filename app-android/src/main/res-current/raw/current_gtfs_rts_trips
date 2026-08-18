@@ -30,14 +30,14 @@
 2903,0,'O-Parc Colbert E',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
-3200,0,'N-Lac Clément / N-Lac-St-Charles',32
+3200,0,'N-Lac-St-Charles',32
 3201,0,'S-Term De La Faune',32
 3300,0,'N-Parc Ind Charlesbourg',33
 3301,0,'S-Term De La Faune',33
 3400,0,'N-Lac Clément',34
 3401,0,'S-Term De La Faune',34
-3600,0,'N-Orsainville / N-Ston Des Roses',36
-3601,0,'S-Pl J-Cartier / S-Term Parc-Victoria',36
+3600,0,'N-Orsainville',36
+3601,0,'S-Term Parc-Victoria',36
 3900,0,'N-Term De La Faune',39
 3901,0,'S-41e Rue E',39
 5102,0,'E-Parc-O-Bus Ste-Anne',51
@@ -77,7 +77,7 @@
 7900,0,'N-Des Châtels',79
 7901,0,'S-Term Les Saules',79
 8000,0,'N-Aéroport International Jean-Lesage',80
-8001,0,'S-Pl J-Cartier / S-Term Parc-Victoria',80
+8001,0,'S-Term Parc-Victoria',80
 8100,0,'N-Term De La Faune',81
 8101,0,'S-Term Les Saules',81
 8200,0,'N-Lac-St-Charles',82
@@ -97,7 +97,7 @@
 9202,0,'E-Cgp Garneau',92
 9203,0,'O-St-Augustin',92
 9300,0,'N-Champigny',93
-9301,0,'S-Cgp Garneau / S-Ste-Foy Ctr / Cgp Garneau',93
+9301,0,'S-Ste-Foy Ctr / Cgp Garneau',93
 9402,0,'E-Cgp Garneau',94
 9403,0,'O-St-Augustin',94
 9600,0,'N-Champigny',96
@@ -105,17 +105,15 @@
 13300,0,'N-Term De La Faune',133
 13301,0,'S-Vieux-Québec',133
 13600,0,'N-Term De La Faune',136
-13601,0,'S-Colline Parlementaire / S-Vieux-Québec',136
+13601,0,'S-Vieux-Québec',136
 18500,0,'N-Neufchâtel',185
 18501,0,'S-Ston Belvédère / Ste-Foy Ctr',185
 23000,0,'N-Term De La Faune',230
 23001,0,'S-Colline Parlementaire',230
 23100,0,'N-Term De La Faune',231
-23101,0,'S-Colline Parlementaire',231
 23600,0,'N-Orsainville',236
 23601,0,'S-Colline Parlementaire',236
 23700,0,'N-Term De La Faune',237
-23701,0,'S-Colline Parlementaire',237
 23800,0,'N-Guillaume-Mathieu / N-Orsainville',238
 23801,0,'S-Colline Parlementaire',238
 23900,0,'N-Term De La Faune',239
@@ -196,11 +194,6 @@
 38201,0,'S-Cgp Garneau Via U Laval',382
 38400,0,'N-Loretteville',384
 38401,0,'S-Cgp Garneau Via U Laval',384
-40002,0,'E-Term Gare-Du-Palais',400
-40003,0,'O-Ste-Foy Ctr',400
-40500,0,'N-Ctr Vidéotron',405
-41001,0,'S-Festival D''Été De Québec',410
-43001,0,'S-Festival D''Été De Québec',430
 53000,0,'N-Orsainville',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
 53100,0,'N-Term De La Faune',531
@@ -209,7 +202,7 @@
 53601,0,'S-Ste-Foy Ctr Via U Laval',536
 53700,0,'N-Term De La Faune',537
 53701,0,'S-Ste-Foy Ctr Via U Laval',537
-53800,0,'N-Bourg-Royal / N-Orsainville',538
+53800,0,'N-Orsainville',538
 53801,0,'S-Ste-Foy Ctr Via U Laval',538
 55000,0,'N-Term Chute-Montmorency',550
 55001,0,'S-Ste-Foy Ctr Via U Laval',550
@@ -259,7 +252,7 @@
 92503,0,'O-Pte-De-Ste-Foy',925
 93100,0,'N-Lac-St-Charles',931
 93101,0,'S-Pl D''Youville',931
-93600,0,'N-Ston Des Roses',936
+93600,0,'N-Orsainville',936
 95002,0,'E-Term Chute-Montmorency',950
 95400,0,'N-Ste-Thérèse-De-Lisieux',954
 97203,0,'O-Loretteville',972
