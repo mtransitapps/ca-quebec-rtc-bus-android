@@ -8,7 +8,7 @@
 503,0,'O-Colline Parlementaire',5
 602,0,'E-Gare Fluviale',6
 603,0,'O-Term Pl-D''Youville',6
-902,0,'E-Pl J-Cartier / E-Term Parc-Victoria',9
+902,0,'E-Term Parc-Victoria',9
 903,0,'O-Parcs Jean-Talon N Et Duberger',9
 1102,0,'E-Gare Fluviale',11
 1103,0,'O-Pte-De-Ste-Foy',11
@@ -26,7 +26,7 @@
 2201,0,'S-Ste-Foy Ctr',22
 2800,0,'N-51e Rue E',28
 2801,0,'S-Term Parc-Victoria',28
-2902,0,'E-Pl J-Cartier / E-Term Parc-Victoria',29
+2902,0,'E-Term Parc-Victoria',29
 2903,0,'O-Parc Colbert E',29
 3100,0,'N-Lac-St-Charles',31
 3101,0,'S-Term De La Faune',31
@@ -85,7 +85,7 @@
 8400,0,'N-Val-Bélair',84
 8401,0,'S-Pl J-Cartier',84
 8500,0,'N-Lebourgneuf',85
-8501,0,'S-Pl J-Cartier / S-Term Parc-Victoria',85
+8501,0,'S-Term Parc-Victoria',85
 8600,0,'N-Term Les Saules',86
 8601,0,'S-Pl J-Cartier',86
 8800,0,'N-Term Les Saules',88
@@ -111,10 +111,12 @@
 23000,0,'N-Term De La Faune',230
 23001,0,'S-Colline Parlementaire',230
 23100,0,'N-Term De La Faune',231
+23101,0,'S-Colline Parlementaire',231
 23600,0,'N-Orsainville',236
 23601,0,'S-Colline Parlementaire',236
 23700,0,'N-Term De La Faune',237
-23800,0,'N-Guillaume-Mathieu / N-Orsainville',238
+23701,0,'S-Colline Parlementaire',237
+23800,0,'N-Orsainville',238
 23801,0,'S-Colline Parlementaire',238
 23900,0,'N-Term De La Faune',239
 23901,0,'S-Colline Parlementaire',239
@@ -194,6 +196,8 @@
 38201,0,'S-Cgp Garneau Via U Laval',382
 38400,0,'N-Loretteville',384
 38401,0,'S-Cgp Garneau Via U Laval',384
+40002,0,'E-Term Gare-Du-Palais',400
+40003,0,'O-Ste-Foy Ctr',400
 53000,0,'N-Orsainville',530
 53001,0,'S-Ste-Foy Ctr Via U Laval',530
 53100,0,'N-Term De La Faune',531
