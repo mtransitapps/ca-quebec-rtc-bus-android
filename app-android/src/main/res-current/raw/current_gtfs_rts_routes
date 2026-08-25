@@ -15,7 +15,6 @@
 29,'29','Parc Colbert Est - Terminus Parc-Victoria','013888',1607,3
 31,'31','Terminus De La Faune - Lac-St-Charles','013888',1630,3
 32,'32','Terminus De La Faune - Lac-St-Charles','013888',1631,3
-33,'33','Parc Industriel Charlesbourg - Terminus De La Faune','013888',1632,3
 34,'34','Terminus De La Faune - Lac Clément','013888',1633,3
 36,'36','Terminus Parc-Victoria - Orsainville','013888',1635,3
 39,'39','41e Rue Est - Terminus De La Faune','013888',1638,3
@@ -29,8 +28,6 @@
 58,'58','Terminus Beauport - Ste-Thérèse-De-Lisieux','013888',1699,3
 59,'59','Terminus Charlesbourg - Terminus Chute-Montmorency','013888',1700,3
 61,'61','Maizerets - Lebourgneuf','013888',1723,3
-64,'64','Place Jacques-Cartier - Lebourgneuf','013888',1726,3
-65,'65','Place Jacques-Cartier - Lebourgneuf','013888',1727,3
 70,'70','Ste-Foy Centre - Val-Bélair','013888',1753,3
 71,'71','Terminus Gare-Du-Palais - Bastien','013888',1754,3
 72,'72','Terminus Charlesbourg - Loretteville','013888',1755,3
@@ -50,15 +47,12 @@
 93,'93','Cégep Garneau - Champigny','013888',1818,3
 94,'94','Cégep Garneau - St-Augustin','013888',1819,3
 96,'96','Terminus Pie-XII - Champigny','013888',1821,3
-133,'133','Vieux-Québec - Terminus De La Faune','013888',48721,3
 136,'136','Vieux-Québec - Terminus De La Faune','013888',48724,3
 185,'185','Belvédère / Ste-Foy Centre - Neufchâtel','013888',48878,3
-230,'230','Colline Parlementaire - Terminus De La Faune','E04503',49679,3
 231,'231','Colline Parlementaire - Terminus De La Faune','E04503',49680,3
 236,'236','Colline Parlementaire - Orsainville','E04503',49685,3
 237,'237','Colline Parlementaire - Terminus De La Faune','E04503',49686,3
 238,'238','Colline Parlementaire - Orsainville','E04503',49687,3
-239,'239','Colline Parlementaire - Terminus De La Faune','E04503',49688,3
 250,'250','Colline Parlementaire - Terminus Chute-Montmorency','E04503',49741,3
 251,'251','Colline Parlementaire - Parc-O-Bus Ste-Anne','E04503',49742,3
 253,'253','Colline Parlementaire - Courville','E04503',49744,3
