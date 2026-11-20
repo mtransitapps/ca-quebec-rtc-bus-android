@@ -86,6 +86,11 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public boolean removeRouteIdFromRouteLongName() {
+		return true; // route long name are just route ID, use route desc
+	}
+
+	@Override
 	public boolean tryRouteDescForMissingLongName() {
 		return true; // route long name NOT provided
 	}
@@ -194,6 +199,6 @@ public class QuebecRTCBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public @Nullable String getStopIdCleanupRegex() {
-		return "^1\\-";
+		return "^[01][\\-:]";
 	}
 }
